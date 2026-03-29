@@ -1,0 +1,134 @@
+// Draft: 2026-03-24-wp8a
+// Revision: R1
+// Posts: 4
+// Date: 2026-03-24
+
+const DRAFT_CAROUSELS = [
+  // 1. rhodinon-simplicity
+  {
+    id: "rhodinon-simplicity",
+    series: "ARTS OF VENUS",
+    slides: [
+      {
+        type: "hook",
+        topLine: "rhodinon",
+        script: "ῥόδινον",
+        mainText: "The most widespread\nancient perfume\nwas also one of\nthe simplest.",
+        subText: "Pliny says that was exactly the point.",
+      },
+      {
+        type: "body",
+        mainText: "Pliny says rhodinum was the most widespread perfume because roses grew abundantly almost everywhere. He also calls its blend comparatively simple. A perfume did not need the richest formula to become the scent everyone knew.",
+      },
+      {
+        type: "body",
+        mainText: "Athenaeus and Pliny both treat rhodinum as a perfume whose prestige could migrate. Phaselis had the glory first; later Neapolis, Capua, and Praeneste. Even the most familiar scent still carried a return address.",
+      },
+      {
+        type: "body",
+        mainText: "\"Simple\" here does not mean negligible. It means broadly shared without losing distinction. Roses made rhodinum common. Reputation still let particular cities claim the best version.",
+      },
+      {
+        type: "closer",
+        mainText: "Rhodinon was common\nwithout being ordinary.\nIts flower was everywhere.\nIts prestige still had\na return address.",
+        subText: "Pliny, NH 13.9–10.\nAthenaeus, Deipn. 15.38–39.\nTheophrastus, On Odours 27.",
+      },
+    ],
+  },
+
+  // 2. amarakinon-false-name
+  {
+    id: "amarakinon-false-name",
+    series: "ARTS OF VENUS",
+    slides: [
+      {
+        type: "hook",
+        topLine: "amarakinon",
+        script: "ἀμαράκινον",
+        mainText: "One prestige perfume\nkept the name\nof a plant its best version\ndidn't need.",
+        subText: "Theophrastus says the finest amarakinon used other aromatics.",
+      },
+      {
+        type: "body",
+        mainText: "Theophrastus says perfume names can mislead. The best amarakinon used the finest aromatics, not amaracus itself, because amaracus had a weak scent and faded quickly. The name advertised the plant. The prestige blend depended on something else.",
+      },
+      {
+        type: "body",
+        mainText: "In his classification, amarakinon belongs with the root perfumes: it is made from costus. He also groups it among the longer-lasting perfumes. So the famous name points less to a flowering herb than to a durable, worked blend.",
+      },
+      {
+        type: "body",
+        mainText: "Even its best city was arguable. Dioscorides favors Cyzicus. Athenaeus, quoting Apollonius, gives the prize to Cos. Amarakinon's identity lived in craft tradition and reputation, not in one stable place or one literal ingredient list.",
+      },
+      {
+        type: "closer",
+        mainText: "Amarakinon was not\na botany lesson.\nIt was a luxury name\nfor a perfume people knew\nby convention and finish.",
+        subText: "Theophrastus, On Odours 28, 38.\nDioscorides, De Materia Medica 1.58.\nAthenaeus, Deipn. 15.38–39.",
+      },
+    ],
+  },
+
+  // 3. oinanthion-clear-head
+  {
+    id: "oinanthion-clear-head",
+    series: "ARTS OF VENUS",
+    slides: [
+      {
+        type: "hook",
+        topLine: "oinanthion",
+        script: "οἰνάνθινον",
+        mainText: "A perfume for drinkers\nthat was supposed\nto leave the mind\nclear.",
+        subText: "Hicesius says oinanthion kept thought unobstructed.",
+      },
+      {
+        type: "body",
+        mainText: "Oinanthion comes from vine blossom. Theophrastus classifies it with leaf perfumes and says the fragrant bloom came from Cyprus; the Greek vine blossom was too scentless to use.",
+      },
+      {
+        type: "body",
+        mainText: "Hicesius calls oinanthion suitable for drinking and says it keeps the mind unobstructed. That is a very specific reputation: a scent ancient writers treated as fit for drinking without mental fog.",
+      },
+      {
+        type: "body",
+        mainText: "Athenaeus ranks the best oinanthion first as Cypriot, then says Adramyttium later took first place through Stratonice. The perfume's identity stayed the same. Its prestige could move.",
+      },
+      {
+        type: "closer",
+        mainText: "Oinanthion was not\nwine in perfume form.\nIt was a cultivated scent\nfor the drinker\nwho meant to stay clear.",
+        subText: "Athenaeus, Deipn. 15.38–39.\nTheophrastus, On Odours 27.\nDioscorides, De Materia Medica 1.46.",
+      },
+    ],
+  },
+
+  // 4. krokinon-drinking
+  {
+    id: "krokinon-drinking",
+    series: "ARTS OF VENUS",
+    slides: [
+      {
+        type: "hook",
+        topLine: "krokinon",
+        script: "κρόκινον",
+        mainText: "The good drinking version\nof saffron perfume\nwas the one\nthat held back.",
+        subText: "Too much myrrh, says Hicesius, and it lost its balance.",
+      },
+      {
+        type: "body",
+        mainText: "Pliny says crocinum was first praised at Soli in Cilicia, then at Rhodes, and Athenaeus preserves the same geography. Theophrastus classes it with flower perfumes. This was a named saffron blend with regional fame, not just saffron in oil.",
+      },
+      {
+        type: "body",
+        mainText: "Hicesius says krokinon suits drinking only when it is not overloaded with myrrh. That one qualification says a lot. The perfume had to keep its saffron character without turning too heavy for convivial use.",
+      },
+      {
+        type: "body",
+        mainText: "Pliny says its preparation followed the same logic as rhodinum. Ancient writers treated krokinon as a standard perfume type. The real distinction was not sheer force, but how much weight the saffron blend could carry.",
+      },
+      {
+        type: "closer",
+        mainText: "Krokinon's luxury\nwas not sheer intensity.\nIt was knowing how much\nweight a saffron perfume\ncould carry.",
+        subText: "Pliny, NH 13.5, 10.\nAthenaeus, Deipn. 15.38–39.\nTheophrastus, On Odours 27.",
+      },
+    ],
+  },
+];

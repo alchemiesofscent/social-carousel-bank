@@ -1,0 +1,637 @@
+# Perfume Tools
+
+This file is a drafting dossier for LLMs working on ancient perfume, oil, and aromatic-preparation posts.
+
+Use it in this order:
+
+1. Read the workflow overview and fast index.
+2. Pull claims from the core tool-family sections.
+3. Use the trade section for shop, profession, and storage posts.
+4. Use the lemma appendix only to control ambiguous terms.
+5. Treat non-perfume senses as low-priority context unless a post explicitly needs them.
+
+## Scope And Source Base
+
+This dossier is built from technical and lexical material centered on ancient perfume work.
+
+Primary technical sources:
+
+- Dioscorides, *De materia medica* Book 1 and related passages
+- Aetius of Amida, *Libri medicinales*
+- Paul of Aegina, *Epitome medicae libri septem*
+- Galen where he clarifies vessel use, heating, and compounding practice
+
+Support material:
+
+- Theophrastus on storage and perfume sellers
+- Lexica and later prose for shop, vessel, and profession terms
+- Limited alchemical, anatomical, and medical parallels only when they help isolate a term's meaning
+
+Default drafting rule:
+
+- Prefer claims that come from recipe or handling contexts.
+- Use lexical or metaphorical material only to support vocabulary, shops, or semantic clarification.
+
+## Fast Index: Postable Themes
+
+- Ancient perfume work used a real toolchain, not vague "mixing by hand."
+- Wide basins mattered because flowers had to steep without being crushed.
+- Baskets were extraction tools, not generic containers.
+- Perfume makers used indirect heat to avoid damaging fragrance.
+- Tin-lined, bronze, ceramic, glass, and stone vessels were chosen for different stages.
+- Multi-day soaking, sealing, and repeated stirring were standard process controls.
+- Covers, cloths, clay seals, and supports show active spoilage prevention.
+- Perfume shops, perfume sellers, and perfumers were distinct parts of the trade.
+- Alabaster and glass mattered because scent retention depended on the container.
+- Some terms drift widely outside perfume texts, so semantic control matters.
+
+## Workflow Overview
+
+The sources point to a regular sequence:
+
+1. Prepare or cut aromatics, flowers, roots, gums, or seeds.
+2. Steep or soak them in oil, wine, water, or must.
+3. Stir repeatedly during maceration.
+4. Heat gently, often by double-vessel method.
+5. Press or strain out the liquid.
+6. Transfer to another vessel for the next stage.
+7. Store finished perfume in a more suitable container.
+8. Apply, sell, or transport the product.
+
+This is the safest conceptual spine for carousel drafting.
+
+## Core Tool Families
+
+### Containers And Storage
+
+#### ἀγγεῖον / ἀγγεῖον πλατύστομον
+
+Meaning:
+- General vessel; wide-mouthed version especially useful for transfers, infusions, and vapor-contact setups.
+
+Why it matters:
+- Shows that vessel shape mattered to the process, not just the presence of a container.
+
+Safe claims:
+- Ancient perfume texts distinguish ordinary vessels from wide-mouthed working vessels.
+- Some stages required an open, accessible mouth for straining, layering, or suspended aromatics.
+
+Do not infer:
+- That one standard vessel shape served every stage.
+
+#### κρατήρ
+
+Meaning:
+- Large bowl or vat for receiving and storing prepared liquid.
+
+Why it matters:
+- Indicates bulk handling and intermediate storage, not only tiny luxury flasks.
+
+Safe claims:
+- Pressed perfume could be moved into a larger receiving vessel.
+- Honey-coated vessels appear as a practical preservation measure in recipe context.
+
+#### λουτήρ / λουτηρίδιον
+
+Meaning:
+- Broad shallow basin; diminutive for smaller re-maceration basin.
+
+Why it matters:
+- One of the clearest indicators that delicate flowers were steeped in a shape chosen to protect them.
+
+Safe claims:
+- Flower-oil production used broad, shallow basins.
+- The same material could be re-soaked in a smaller basin for another pressing cycle.
+
+Do not infer:
+- That `louter` in this dossier means bathing equipment.
+
+#### βῖκος / βικίον
+
+Meaning:
+- Jar used in steeping, storage, and sealed handling; often glass in later medical and technical contexts.
+
+Why it matters:
+- Central vessel for sun-steeping, storage, and controlled closure.
+
+Safe claims:
+- Perfume work used tightly bound jars during maceration.
+- Glass jars appear as preferred storage for finished aromatic products.
+
+Do not infer:
+- That every `bikos` reference is perfumery; the term also has non-vessel senses outside the core evidence.
+
+#### ἀγγεῖον ὑάλινον / glass jars
+
+Meaning:
+- Glass storage vessel for refined or finished perfume.
+
+Why it matters:
+- High-yield post angle on scent preservation and material choice.
+
+Safe claims:
+- Finished oils were sometimes transferred into glass vessels.
+- Storage material was treated as technically meaningful.
+
+#### μυροθήκη
+
+Meaning:
+- Either the perfume container itself or the case holding perfume flasks.
+
+Why it matters:
+- Bridges production and retail presentation.
+
+Safe claims:
+- Ancient Greek had a dedicated term connected with perfume containers and their storage cases.
+
+#### ἀλάβαστρον
+
+Meaning:
+- Alabaster perfume flask; by extension the stone associated with such flasks.
+
+Why it matters:
+- One of the clearest luxury-container terms in perfume culture.
+
+Safe claims:
+- `alabastron` is a standard perfume-container term in literary and technical evidence.
+- The cold, dense character of alabaster is linked with scent preservation in ancient explanation.
+
+Do not infer:
+- That every alabaster reference in technical texts is about perfume production; some are medicinal or alchemical.
+
+### Heat, Soaking, And Controlled Processing
+
+#### διπλοῦν ἀγγεῖον μυρεψικόν / δίπλωμα
+
+Meaning:
+- Double vessel; a smaller container set inside a larger hot-water vessel.
+
+Why it matters:
+- This is the clearest ancient perfume analogue to controlled indirect heating.
+
+Safe claims:
+- Ancient perfume makers used indirect heat.
+- Galen explicitly explains the double-vessel setup.
+- Perfumes were heated this way because harsher heating could damage their potency.
+
+Do not infer:
+- That every heating stage used a double vessel.
+
+#### κακκάβη
+
+Meaning:
+- Cauldron or cooking pot; sometimes the outer vessel in indirect heating.
+
+Why it matters:
+- Connects everyday boiling hardware with more controlled perfumery practice.
+
+Safe claims:
+- Cauldrons were used both for direct boiling and as part of a water-bath arrangement.
+- Some recipes distinguish tinned from untinned vessels for different effects.
+
+#### χαλκός
+
+Meaning:
+- Copper or bronze vessel in perfumery contexts.
+
+Why it matters:
+- Strong post angle on metal choice and active vessel behavior.
+
+Safe claims:
+- Bronze or copper vessels appear in boiling stages.
+- In some later texts, vessel material is not neutral but part of the intended process result.
+
+Do not infer:
+- That all `chalkos` references are vessel references; the term also means copper as material or ingredient.
+
+#### Tin-lined and tin-marked vessels
+
+Meaning:
+- Vessels described as made with tin or treated with tin for particular stages.
+
+Why it matters:
+- Useful for posts about technical control, contamination avoidance, and recipe-specific material choice.
+
+Safe claims:
+- Some recipes specify tin-associated perfumer's vessels.
+- Material choice can change across stages inside one recipe.
+
+Do not infer:
+- Why tin was chosen unless the source states it.
+
+#### Multi-day soaking
+
+Meaning:
+- Deliberate maceration stage before heating and pressing.
+
+Why it matters:
+- Important correction to the idea that perfume making was only quick mixing and boiling.
+
+Safe claims:
+- Sources prescribe soaking for fixed durations such as 2, 3, 9, 12, 15, or 30 days depending on recipe stage.
+- Stirring, sealing, and later transfer belong to the same controlled workflow.
+
+### Pressing, Straining, And Extraction
+
+#### ληνός
+
+Meaning:
+- Press or pressing vat in the perfume-production sense.
+
+Why it matters:
+- Core extraction tool, especially in early recipe contexts.
+
+Safe claims:
+- `lenos` can denote a press or pressing vat in pharmacological and perfume contexts.
+- The same word later expands into anatomical and mechanical metaphors.
+
+Do not infer:
+- Perfumery meaning from every later `lenos` occurrence.
+
+#### σφυρίς
+
+Meaning:
+- Woven basket used as a pressing or straining basket.
+
+Why it matters:
+- Shows that baskets were active process tools.
+
+Safe claims:
+- Ground or steeped matter could be placed in a basket and pressed through it.
+
+#### κυρτίς / κυρτίδιον
+
+Meaning:
+- Wicker basket or filter-basket used in extraction.
+
+Why it matters:
+- High-value term for explaining how solids were separated from aromatic liquid.
+
+Safe claims:
+- `kyrtis` appears in floral-oil and seed-oil extraction.
+- Baskets could work with heavier presses, including screw-press contexts.
+
+#### κόσκινον
+
+Meaning:
+- Sieve for powders and dry aromatics.
+
+Why it matters:
+- Supports posts on preparation before infusion or boiling.
+
+#### ὄργανον
+
+Meaning:
+- Technical apparatus, especially a pressing device in perfumery contexts.
+
+Why it matters:
+- Good semantic-control term because English "organ" is wrong here.
+
+Safe claims:
+- In perfume and pharmacological passages, `organon` means apparatus or press.
+- It is used for expressing myrrh, seeds, berries, and other raw material.
+
+Do not infer:
+- That the word points to one single machine design.
+
+#### ῥῖπος ἐκ καλάμου / ψίαθος ἀραιά
+
+Meaning:
+- Reed hurdle or loose rush mat used as a porous barrier above a vessel.
+
+Why it matters:
+- Strong visual post angle: aromatics interacting with oil without falling directly into it.
+
+Safe claims:
+- Permeable barriers could hold quinces or other material above hot oil.
+- Rush and reed mats also appear in collection and handling contexts.
+
+### Grinding, Stirring, And Mixing
+
+#### σπάθη
+
+Meaning:
+- Flat paddle or spatula; in some contexts also the palm spathe as ingredient.
+
+Why it matters:
+- One of the clearest terms where tool and raw material overlap.
+
+Safe claims:
+- `spathe` can mean a stirring implement in recipe instructions.
+- Some texts specify palm-wood spatulas and repeated stirring schedules.
+- In ingredient lists, the same word can instead mean palm spathe as a raw material.
+
+Do not infer:
+- Tool sense without checking whether the passage is procedural or an ingredient list.
+
+#### ὅλμος
+
+Meaning:
+- Heavy mortar for working ingredients.
+
+Why it matters:
+- Straightforward compounding tool for resins and aromatics.
+
+#### θυία
+
+Meaning:
+- Mortar-like bowl or grinding vessel used for aromatics, drugs, and mineral preparations.
+
+Why it matters:
+- Important because it overlaps with perfume work but also wider pharmaceutical grinding.
+
+#### ἴγδις / ἰγδίον
+
+Meaning:
+- Mortar; also more broadly a working bowl for grinding, mixing, cooling, or kneading.
+
+Why it matters:
+- Useful semantic-support term for mortar vocabulary in later technical texts.
+
+Safe claims:
+- `igdis/igdion` is fundamentally a mortar term in the relevant technical passages.
+
+### Covers, Seals, Insulation, And Handling
+
+#### ὀθόνιον / ὀθόνη ἀραιά
+
+Meaning:
+- Linen or loose cloth used to cover a jar while still allowing venting.
+
+Why it matters:
+- Good post angle on controlled breathing and spoilage prevention.
+
+Safe claims:
+- Some jars were covered with breathable cloth rather than sealed airtight.
+
+#### σινδών
+
+Meaning:
+- Fine linen for laying out flowers to cool or dry.
+
+Why it matters:
+- Supports posts on pre-processing delicate botanicals before infusion.
+
+#### δέρμα
+
+Meaning:
+- Hide or leather tied over the outside as weather protection.
+
+Why it matters:
+- Useful detail showing outdoor steeping had to account for rain and exposure.
+
+#### πηλός
+
+Meaning:
+- Clay used as sealant.
+
+Why it matters:
+- Important for luted joints and sealed apparatus.
+
+#### σανίς
+
+Meaning:
+- Board or plank used under storage jars.
+
+Why it matters:
+- Indicates that contact with damp or cold ground mattered.
+
+#### φρέαρ
+
+Meaning:
+- Well used as a cooling environment.
+
+Why it matters:
+- Strong sensory/visual post angle on low-heat scent extraction and cooling.
+
+### Application And Use
+
+#### σπόγγος
+
+Meaning:
+- Sponge used in perfumed medical application.
+
+Safe claims:
+- Perfumed or aromatic liquids could be applied by sponge.
+
+#### κροκίς
+
+Meaning:
+- Tuft of wool or lint.
+
+Safe claims:
+- Wool tufts could function as delivery tools for liquid preparations.
+
+#### πτύγμα ἐρίου
+
+Meaning:
+- Fold or pad of wool used to apply hot preparations.
+
+#### βελώνη and σπάρτιον
+
+Meaning:
+- Needle and cord used to pierce and string scented material.
+
+Why it matters:
+- Good post angle for perfume not just as liquid, but as wearable aromatic matter.
+
+## Trade, Shops, And Perfume Professions
+
+Use this section for posts about the social and commercial world around perfume.
+
+### μυροπώλης
+
+Meaning:
+- Perfume seller; retailer or proprietor, sometimes with expertise in stock handling and storage.
+
+Safe claims:
+- A `myropoles` could be both a seller and a practical keeper of perfume stock.
+
+### μυρόπωλις
+
+Meaning:
+- Female perfume seller.
+
+Safe claims:
+- Ancient Greek preserves a feminine occupational form for perfume selling.
+
+### μυροπώλιον / μυροπωλεῖον
+
+Meaning:
+- Perfume shop or perfumery establishment.
+
+Safe claims:
+- Perfume shops appear as ordinary urban destinations.
+- They could be treated as businesses, not just rooms or stalls.
+
+Do not infer:
+- That all metaphorical uses describe literal perfume trade.
+
+### μυροπωλεῖν
+
+Meaning:
+- To sell perfumes; to carry on the perfume trade.
+
+### μυρεψός
+
+Meaning:
+- Perfumer; maker or compounder rather than merely retailer.
+
+Why it matters:
+- Key distinction for posts on production vs sale.
+
+Safe claims:
+- `myrepsos` and `myropoles` are not identical occupational labels.
+
+### μυρεψική
+
+Meaning:
+- The craft of perfumery.
+
+### μυροποιός
+
+Meaning:
+- Perfume maker.
+
+### ῥωποπώλης
+
+Meaning:
+- Lexical synonym glossed as perfume seller in the cited lexicographical material.
+
+Do not infer:
+- A full independent perfume-trade profile from this synonym alone.
+
+## Key Lemmas: Perfume-Relevant Senses First
+
+This section exists to stop LLM drift. When these words appear, prefer the perfume-relevant sense below unless the passage clearly points elsewhere.
+
+### ληνός
+
+- Perfume-relevant default: press or pressing vat.
+- Non-core senses: blood reservoir in the brain, nasal cavity trough, carved hollow in machinery.
+
+### λουτήρ
+
+- Perfume-relevant default: broad shallow steeping basin.
+- Non-core senses: wash or bath basin in other literature.
+
+### χαλκός
+
+- Perfume-relevant default: copper or bronze vessel.
+- Non-core senses: copper ingredient, raw metal, alchemical base metal.
+
+### σφυρίς
+
+- Perfume-relevant default: pressing basket.
+- Non-core senses: weight basket in orthopedic traction.
+
+### κυρτίς
+
+- Perfume-relevant default: extraction basket or filter-basket.
+- Non-core senses: fish-trap or cage in wider Greek usage.
+
+### ψίαθος
+
+- Perfume-relevant default: porous mat or barrier.
+- Non-core senses: general rush mat.
+
+### ὄργανον
+
+- Perfume-relevant default: apparatus, especially press.
+- Non-core senses: fumigation device, alchemical extraction apparatus, never bodily organ in this dossier.
+
+### σπάθη
+
+- Perfume-relevant default: stirring paddle in procedural passages.
+- Alternate perfume sense: palm spathe ingredient in ingredient lists.
+- Non-core senses: surgical slat or support.
+
+### ὅλμος / θυία / ἰγδίον
+
+- Perfume-relevant default: mortar or grinding bowl.
+- Non-core senses: broader clinical or technical uses outside perfume work.
+
+### βῖκος
+
+- Perfume-relevant default: jar used for steeping or storage.
+- Non-core senses: general medical jar, sealed alchemical vessel, pulse or legume.
+
+### κακκάβη
+
+- Perfume-relevant default: boiling pot or outer heating vessel.
+- Non-core senses: more general pharmaceutical pot.
+
+### διπλοῦν ἀγγεῖον / δίπλωμα
+
+- Perfume-relevant default: double-vessel heating apparatus.
+- Non-core senses: wider pharmaceutical heating outside perfume.
+
+### ἀλάβαστρον
+
+- Perfume-relevant default: alabaster perfume flask.
+- Non-core senses: medicinal stone, alchemical white material, symbolic whiteness.
+
+## Appendix: Extended Or Non-Perfumery Senses
+
+Keep these available for semantic control, but do not treat them as default post material.
+
+### Anatomy And Mechanical Metaphor
+
+- `lenos` can mean the "wine-press" of the brain in later anatomical writing.
+- `lenos` can also describe trough-like nasal or mechanical hollows.
+
+### Orthopedic Or Clinical Reuse
+
+- `sphyris` can be a weight-basket in traction setups.
+- `holmos` can serve as a solid support under a patient.
+- `spathe` can mean a slat or splint-like support in apparatus.
+
+### Alchemical And Mineral Drift
+
+- `chalkos`, `bikos`, and `alabastron` all develop non-perfume technical meanings in alchemical writing.
+- These later meanings may clarify material vocabulary but should not be imported into perfume posts without source-specific support.
+
+### General Lexical Or Metaphorical Drift
+
+- `myropolion` and `myropoleion` can become metaphors for busy, worldly, or mixed repositories.
+- `igdis` can name a dance in Pollux.
+
+## LLM Extraction Notes
+
+Use the following defaults when generating source maps or draftable notes.
+
+### Allowed Claims
+
+- Ancient perfume preparation used specialized vessels, baskets, basins, mortars, paddles, and presses.
+- Vessel shape and material were technically meaningful.
+- Double-vessel heating protected delicate aromatic power.
+- Multi-day soaking, repeated stirring, sealing, and transfer between vessels were routine parts of some recipes.
+- Glass, alabaster, and dedicated perfume containers mattered in storage culture.
+- Ancient Greek distinguishes perfume makers from perfume sellers.
+- Perfume shops were recognizable commercial and social spaces.
+
+### Safe Contrasts
+
+- broad basin vs narrow storage vessel
+- direct boiling pot vs indirect double vessel
+- perfumer vs perfume seller
+- working jar vs luxury flask
+- extraction basket vs final storage container
+
+### Do Not Infer
+
+- Do not claim a single standardized perfume workshop setup across all authors and centuries.
+- Do not flatten all vessel terms into "jar" or all basket terms into "basket" without process context.
+- Do not assume every lexical occurrence of a term is perfume-relevant.
+- Do not invent motives for tin, bronze, or glass unless the source gives them.
+- Do not turn lexical metaphors into evidence for perfume practice.
+
+### Good Post Angles
+
+- "The ancient perfume workshop was full of process-specific gear."
+- "Why broad basins mattered for flower oils."
+- "Baskets as extraction technology."
+- "How ancient perfumers heated fragrance without burning it."
+- "Why perfume sellers wanted shaded rooms."
+- "What an alabastron really was."
+- "Perfumer, perfume seller, perfume shop: three different roles."

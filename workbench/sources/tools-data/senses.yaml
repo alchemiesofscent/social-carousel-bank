@@ -1,0 +1,1142 @@
+- id: aggeion-aggeion-platystomon-early-sense-1
+  term_id: aggeion-aggeion-platystomon
+  label: Used for receiving, holding, or storing the oils during and after preparation.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Vessel / Wide-mouthed vessel.
+  reader_summary: Used for receiving, holding, or storing the oils during and after preparation.
+  citation_ids:
+  - aggeion-aggeion-platystomon-early-cit-1
+- id: alabastron-sense-1
+  term_id: alabastron
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: '1.'
+  reader_summary: '1.'
+  citation_ids:
+  - alabastron-cit-1
+  - alabastron-cit-2
+  - alabastron-cit-3
+  - alabastron-cit-4
+  - alabastron-cit-5
+  - alabastron-cit-6
+  - alabastron-cit-7
+  - alabastron-cit-8
+- id: belone-spartion-early-sense-1
+  term_id: belone-spartion
+  label: Used to pierce small, handmade beads of hardened incense (pastilles) to string them together as a wearable, scented necklace.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Needle & Cord / Twine.
+  reader_summary: Used to pierce small, handmade beads of hardened incense (pastilles) to string them together as a wearable, scented necklace.
+  citation_ids:
+  - belone-spartion-early-cit-1
+- id: bikos-early-sense-1
+  term_id: bikos
+  label: A standard vessel for steeping oils and flowers in the sun.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Pitcher / Jar / Small jar (diminutive).
+  reader_summary: A standard vessel for steeping oils and flowers in the sun. Paul specifies a "wide-mouthed" (*platystomon*) variant for lily oil.
+  citation_ids:
+  - bikos-early-cit-1
+- id: bikos-sense-1
+  term_id: bikos
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: extended
+  short_definition: Based on the provided passages, the word **βῖκος** (*bîkos*) refers either to a jar-like vessel—often of glass in medical and alchemical recipes—or to a leguminous pulse.
+  reader_summary: Based on the provided passages, the word **βῖκος** (*bîkos*) refers either to a jar-like vessel—often of glass in medical and alchemical recipes—or to a leguminous pulse.
+  citation_ids: []
+- id: bikos-sense-2
+  term_id: bikos
+  label: Perfumery vessel for scented oils
+  sense_order: 2
+  perfume_relevance: core
+  short_definition: In perfumery recipes a βῖκος is the jar into which oil and aromatic flowers are put for infusion.
+  reader_summary: In perfumery recipes a βῖκος is the jar into which oil and aromatic flowers are put for infusion.
+  citation_ids:
+  - bikos-cit-1
+- id: bikos-sense-3
+  term_id: bikos
+  label: Pharmacological glass jar
+  sense_order: 3
+  perfume_relevance: extended
+  short_definition: In medical recipes βῖκος denotes a glass vessel used to receive and preserve medicinal substances.
+  reader_summary: In medical recipes βῖκος denotes a glass vessel used to receive and preserve medicinal substances.
+  citation_ids:
+  - bikos-cit-2
+- id: bikos-sense-4
+  term_id: bikos
+  label: Alchemical sealed vessel
+  sense_order: 4
+  perfume_relevance: core
+  short_definition: In alchemical instructions a βῖκος is a glass vessel incorporated into the apparatus itself.
+  reader_summary: In alchemical instructions a βῖκος is a glass vessel incorporated into the apparatus itself.
+  citation_ids:
+  - bikos-cit-3
+- id: bikos-sense-5
+  term_id: bikos
+  label: Leguminous pulse in dietetics and veterinary practice
+  sense_order: 5
+  perfume_relevance: extended
+  short_definition: 'In dietetic and veterinary passages βῖκος is not a vessel but a plant product: a pulse or leguminous seed used as food or fodder.'
+  reader_summary: 'In dietetic and veterinary passages βῖκος is not a vessel but a plant product: a pulse or leguminous seed used as food or fodder.'
+  citation_ids:
+  - bikos-cit-4
+- id: chalkos-early-sense-1
+  term_id: chalkos
+  label: A metal cooking pot used for boiling oil with aromatics.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Copper or bronze vessel / Cauldron.
+  reader_summary: A metal cooking pot used for boiling oil with aromatics.
+  citation_ids:
+  - chalkos-early-cit-1
+- id: chalkos-sense-1
+  term_id: chalkos
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages, the word **χαλκός** (*chalkos*) and its related forms (such as *chalkeos*, *chalkous*, *chalkoma*) broadly refer to **copper or bronze**.
+  reader_summary: Based on the provided passages, the word **χαλκός** (*chalkos*) and its related forms (such as *chalkeos*, *chalkous*, *chalkoma*) broadly refer to **copper or bronze**.
+  citation_ids: []
+- id: chalkos-sense-2
+  term_id: chalkos
+  label: '1. Hardware: A Copper/Bronze Vessel or Medical Instrument'
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: In pharmacological recipes, *chalkos* frequently functions as a noun meaning a **copper boiling cauldron, vat, or storage vessel**.
+  reader_summary: In pharmacological recipes, *chalkos* frequently functions as a noun meaning a **copper boiling cauldron, vat, or storage vessel**.
+  citation_ids: []
+- id: chalkos-sense-3
+  term_id: chalkos
+  label: 2. Pharmacological Ingredients (Processed Copper)
+  sense_order: 3
+  perfume_relevance: non_perfume
+  short_definition: Copper was a staple astringent, caustic, and cleansing ingredient in ancient wound care, eye salves (collyria), and ulcer treatments.
+  reader_summary: Copper was a staple astringent, caustic, and cleansing ingredient in ancient wound care, eye salves (collyria), and ulcer treatments.
+  citation_ids: []
+- id: chalkos-sense-4
+  term_id: chalkos
+  label: 3. A Base Elemental Metal (Metallurgy & Alchemy)
+  sense_order: 4
+  perfume_relevance: non_perfume
+  short_definition: In philosophical, anatomical, and alchemical passages, *chalkos* is discussed as a raw, hard elemental material, often compared alongside iron, lead, stone, and gold.
+  reader_summary: In philosophical, anatomical, and alchemical passages, *chalkos* is discussed as a raw, hard elemental material, often compared alongside iron, lead, stone, and gold.
+  citation_ids: []
+- id: derma-early-sense-1
+  term_id: derma
+  label: Tied over the outside of the linen cloth on a jar to waterproof it against sudden rain while sun-steeping outdoors.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Hide / Leather.
+  reader_summary: Tied over the outside of the linen cloth on a jar to waterproof it against sudden rain while sun-steeping outdoors.
+  citation_ids:
+  - derma-early-cit-1
+- id: diployn-aggeion-myrepsikon-sense-1
+  term_id: diployn-aggeion-myrepsikon
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: The term denotes a doubled working vessel in which a smaller container is set inside a larger one and the contents are heated indirectly.
+  reader_summary: The term denotes a doubled working vessel in which a smaller container is set inside a larger one and the contents are heated indirectly.
+  citation_ids: []
+- id: diployn-aggeion-myrepsikon-sense-2
+  term_id: diployn-aggeion-myrepsikon
+  label: Full designation with *myrepsikon*
+  sense_order: 2
+  perfume_relevance: non_perfume
+  short_definition: With *myrepsikon* the phrase marks the apparatus as belonging to the perfumer’s craft.
+  reader_summary: With *myrepsikon* the phrase marks the apparatus as belonging to the perfumer’s craft.
+  citation_ids:
+  - diployn-aggeion-myrepsikon-cit-1
+- id: diployn-aggeion-myrepsikon-sense-3
+  term_id: diployn-aggeion-myrepsikon
+  label: Generic ἀγγεῖον διπλοῦν and related vessel-words
+  sense_order: 3
+  perfume_relevance: extended
+  short_definition: When the texts stress construction rather than craft, the apparatus appears simply as ἀγγεῖον διπλοῦν or ἐπ’ ἀγγείου διπλοῦ.
+  reader_summary: When the texts stress construction rather than craft, the apparatus appears simply as ἀγγεῖον διπλοῦν or ἐπ’ ἀγγείου διπλοῦ.
+  citation_ids:
+  - diployn-aggeion-myrepsikon-cit-2
+- id: diployn-aggeion-myrepsikon-sense-4
+  term_id: diployn-aggeion-myrepsikon
+  label: '*Diplōma* as shorthand for the same setup'
+  sense_order: 4
+  perfume_relevance: non_perfume
+  short_definition: The noun *diplōma* is the ordinary shorthand for the same apparatus, and therefore also for the operation carried out in it.
+  reader_summary: The noun *diplōma* is the ordinary shorthand for the same apparatus, and therefore also for the operation carried out in it.
+  citation_ids:
+  - diployn-aggeion-myrepsikon-cit-3
+- id: diployn-aggeion-myrepsikon-sense-5
+  term_id: diployn-aggeion-myrepsikon
+  label: Mild warming and melting in the double vessel
+  sense_order: 5
+  perfume_relevance: extended
+  short_definition: The double vessel is preferred when a substance must be softened or gently heated rather than exposed to harsh direct fire.
+  reader_summary: The double vessel is preferred when a substance must be softened or gently heated rather than exposed to harsh direct fire.
+  citation_ids:
+  - diployn-aggeion-myrepsikon-cit-4
+- id: double-vessel-early-sense-1
+  term_id: double-vessel
+  label: A critical piece of pharmacological equipment used to melt wax or boil delicate oils with gentle, indirect heat to prevent scorching.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Double-vessel / Water-bath (*Bain-marie*).
+  reader_summary: A critical piece of pharmacological equipment used to melt wax or boil delicate oils with gentle, indirect heat to prevent scorching.
+  citation_ids:
+  - double-vessel-early-cit-1
+- id: glass-vessel-early-sense-1
+  term_id: glass-vessel
+  label: Specifically used for the final storage of fine, finished oils to preserve their fragrance and prevent contamination from porous clay.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Glass vessel / Glass jars.
+  reader_summary: Specifically used for the final storage of fine, finished oils to preserve their fragrance and prevent contamination from porous clay.
+  citation_ids:
+  - glass-vessel-early-cit-1
+- id: holmos-early-sense-1
+  term_id: holmos
+  label: Used for grinding and mixing aromatic resins (like myrrh) into the oil.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Mortar.
+  reader_summary: Used for grinding and mixing aromatic resins (like myrrh) into the oil.
+  citation_ids:
+  - holmos-early-cit-1
+- id: holmos-sense-1
+  term_id: holmos
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: extended
+  short_definition: Based on the provided passages, the word **ὅλμος** (*holmos*) refers to a heavy mortar, normally used with a pestle for working ingredients, but in one medical passage also serving as a practical support.
+  reader_summary: Based on the provided passages, the word **ὅλμος** (*holmos*) refers to a heavy mortar, normally used with a pestle for working ingredients, but in one medical passage also serving as a practical support.
+  citation_ids: []
+- id: holmos-sense-2
+  term_id: holmos
+  label: Mortar for compounding preparations
+  sense_order: 2
+  perfume_relevance: core
+  short_definition: In recipe language, **ὅλμος** is the mortar in which substances are chopped, pounded, or thoroughly worked together.
+  reader_summary: In recipe language, **ὅλμος** is the mortar in which substances are chopped, pounded, or thoroughly worked together.
+  citation_ids:
+  - holmos-cit-1
+- id: holmos-sense-3
+  term_id: holmos
+  label: Support under the patient in examination
+  sense_order: 3
+  perfume_relevance: extended
+  short_definition: In the Hippocratic procedural passage, **ὅλμοι** are the solid objects on which the patient is made to squat.
+  reader_summary: In the Hippocratic procedural passage, **ὅλμοι** are the solid objects on which the patient is made to squat.
+  citation_ids:
+  - holmos-cit-2
+- id: igdion-sense-1
+  term_id: igdion
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: '1.'
+  reader_summary: '1.'
+  citation_ids:
+  - igdion-cit-1
+  - igdion-cit-2
+  - igdion-cit-3
+  - igdion-cit-4
+  - igdion-cit-5
+  - igdion-cit-6
+  - igdion-cit-7
+- id: kakkabe-early-sense-1
+  term_id: kakkabe
+  label: A metal pot used for boiling oil and aromatics.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Cauldron / Cooking pot.
+  reader_summary: A metal pot used for boiling oil and aromatics. Paul remarkably distinguishes between an **untinned** (*aganotos*) cauldron (used to purposefully tint the oil green via copper oxidation) and a **tinned** (*geganomene*) cauldron (to prevent unwanted metallic reactions).
+  citation_ids:
+  - kakkabe-early-cit-1
+- id: kakkabe-sense-1
+  term_id: kakkabe
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: extended
+  short_definition: Based on the provided passages, the word **κακκάβη** (*kakkábē*) refers to a pot or cauldron, that is, a hollow vessel used for heating and boiling.
+  reader_summary: Based on the provided passages, the word **κακκάβη** (*kakkábē*) refers to a pot or cauldron, that is, a hollow vessel used for heating and boiling.
+  citation_ids: []
+- id: kakkabe-sense-2
+  term_id: kakkabe
+  label: Boiling vessel for preparing drugs and medicinal foods
+  sense_order: 2
+  perfume_relevance: core
+  short_definition: In medical and pharmaceutical texts, **κακκάβη** denotes the vessel in which ingredients are directly boiled, cooked, or thickened.
+  reader_summary: In medical and pharmaceutical texts, **κακκάβη** denotes the vessel in which ingredients are directly boiled, cooked, or thickened.
+  citation_ids:
+  - kakkabe-cit-1
+- id: kakkabe-sense-3
+  term_id: kakkabe
+  label: Outer water-vessel for indirect heating
+  sense_order: 3
+  perfume_relevance: core
+  short_definition: In compound pharmacology, **κακκάβη** can name the outer pot that holds hot water while a second container is set inside it.
+  reader_summary: In compound pharmacology, **κακκάβη** can name the outer pot that holds hot water while a second container is set inside it.
+  citation_ids:
+  - kakkabe-cit-2
+- id: kakkabe-sense-4
+  term_id: kakkabe
+  label: Heated vessel for roasting or drying a prepared substance
+  sense_order: 4
+  perfume_relevance: core
+  short_definition: In alchemical and related technical procedure, **κακκάβη** is also the vessel that is first heated and then used to roast or dry a prepared solid.
+  reader_summary: In alchemical and related technical procedure, **κακκάβη** is also the vessel that is first heated and then used to roast or dry a prepared solid.
+  citation_ids:
+  - kakkabe-cit-3
+- id: kochlias-early-sense-1
+  term_id: kochlias
+  label: An advanced mechanical press used to extract oils from hard nuts and seeds (like sesame), replacing or supplementing the older lever-and-weight presses.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Screw-press.
+  reader_summary: An advanced mechanical press used to extract oils from hard nuts and seeds (like sesame), replacing or supplementing the older lever-and-weight presses.
+  citation_ids:
+  - kochlias-early-cit-1
+- id: koskinon-early-sense-1
+  term_id: koskinon
+  label: Used to sift powdered spices and aromatics.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Sieve.
+  reader_summary: Used to sift powdered spices and aromatics. Aetius explicitly mentions a "very fine" sieve.
+  citation_ids:
+  - koskinon-early-cit-1
+- id: krater-early-sense-1
+  term_id: krater
+  label: A large bowl used for storing the pressed oils, often lined with honey to prevent spoiling.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Mixing bowl / Vat.
+  reader_summary: A large bowl used for storing the pressed oils, often lined with honey to prevent spoiling.
+  citation_ids:
+  - krater-early-cit-1
+- id: krokis-early-sense-1
+  term_id: krokis
+  label: Used to apply liquid perfumes directly into the ear canal.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Tuft of wool / Lint.
+  reader_summary: Used to apply liquid perfumes directly into the ear canal.
+  citation_ids:
+  - krokis-early-cit-1
+- id: kyrtis-early-sense-1
+  term_id: kyrtis
+  label: Used specifically to strain and press infused oils (like basil and lily oil).
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Wicker basket / Fish-trap shaped strainer.
+  reader_summary: Used specifically to strain and press infused oils (like basil and lily oil).
+  citation_ids:
+  - kyrtis-early-cit-1
+- id: kyrtis-sense-1
+  term_id: kyrtis
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: extended
+  short_definition: Based on the provided passages, the word **κυρτίς** (*kyrtis*) and its diminutive **κυρτίδιον** (*kyrtidion*) refer to a **woven wicker basket used as a strainer or pressing-filter**.
+  reader_summary: Based on the provided passages, the word **κυρτίς** (*kyrtis*) and its diminutive **κυρτίδιον** (*kyrtidion*) refer to a **woven wicker basket used as a strainer or pressing-filter**.
+  citation_ids: []
+- id: kyrtis-early-sense-2
+  term_id: kyrtis
+  label: Baskets used in conjunction with the screw-press to hold the crushed sesame seeds while the oil is squeezed out.
+  sense_order: 2
+  perfume_relevance: core
+  short_definition: Wicker basket / Strainer.
+  reader_summary: Baskets used in conjunction with the screw-press to hold the crushed sesame seeds while the oil is squeezed out.
+  citation_ids:
+  - kyrtis-early-cit-2
+- id: kyrtis-sense-2
+  term_id: kyrtis
+  label: A Woven Pressing-Basket / Strainer
+  sense_order: 2
+  perfume_relevance: core
+  short_definition: The *kyrtis* is used in the extraction of both infused floral oils (like lily or basil) and heavy seed oils (like sesame).
+  reader_summary: The *kyrtis* is used in the extraction of both infused floral oils (like lily or basil) and heavy seed oils (like sesame).
+  citation_ids: []
+- id: lekanidion-early-sense-1
+  term_id: lekanidion
+  label: Used for macerating/steeping aromatic dry ingredients in wine prior to boiling.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Small basin / Pan.
+  reader_summary: Used for macerating/steeping aromatic dry ingredients in wine prior to boiling.
+  citation_ids:
+  - lekanidion-early-cit-1
+- id: lekythos-sense-1
+  term_id: lekythos
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: '**1.'
+  reader_summary: '**1.'
+  citation_ids: []
+- id: lekythos-sense-2
+  term_id: lekythos
+  label: Metaphorical / Analogical Use in Anatomy and Physiology (Medical)
+  sense_order: 2
+  perfume_relevance: non_perfume
+  short_definition: Hippocrates uses the physical properties of a leather or narrow-mouthed flask to explain physiological blockages, such as how congested blood remains trapped in veins or how a fetus in a transverse lie cannot exit the birth canal.
+  reader_summary: Hippocrates uses the physical properties of a leather or narrow-mouthed flask to explain physiological blockages, such as how congested blood remains trapped in veins or how a fetus in a transverse lie cannot exit the birth canal.
+  citation_ids: []
+- id: lekythos-sense-3
+  term_id: lekythos
+  label: Clinical Observation of Mental Pathology (Psychiatric / Medical)
+  sense_order: 3
+  perfume_relevance: non_perfume
+  short_definition: The physician Aretaeus references the flask as the subject of a specific hallucination or phobia experienced by a melancholic or manic patient.
+  reader_summary: The physician Aretaeus references the flask as the subject of a specific hallucination or phobia experienced by a melancholic or manic patient.
+  citation_ids:
+  - lekythos-cit-1
+- id: lekythos-sense-4
+  term_id: lekythos
+  label: Pharmacological and Therapeutic Implements
+  sense_order: 4
+  perfume_relevance: non_perfume
+  short_definition: In Late Antique medical treatises, parts of the *lekythos* are integrated directly into pharmaceutical recipes and physical therapies.
+  reader_summary: In Late Antique medical treatises, parts of the *lekythos* are integrated directly into pharmaceutical recipes and physical therapies.
+  citation_ids:
+  - lekythos-cit-2
+- id: lekythos-sense-5
+  term_id: lekythos
+  label: Laboratory Apparatus for Heating and Sublimation (Alchemical)
+  sense_order: 5
+  perfume_relevance: non_perfume
+  short_definition: In alchemical recipes, the term refers to the actual laboratory glassware or pottery (*lekythion*) used to contain volatile compounds, minerals, and metals during exposure to prolonged heat, such as in sand-baths or over a *kerotakis* (a sublimatory palette).
+  reader_summary: In alchemical recipes, the term refers to the actual laboratory glassware or pottery (*lekythion*) used to contain volatile compounds, minerals, and metals during exposure to prolonged heat, such as in sand-baths or over a *kerotakis* (a sublimatory palette).
+  citation_ids: []
+- id: lenos-early-sense-1
+  term_id: lenos
+  label: A heavy press used to squeeze the oil out of the botanical materials.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Press / Pressing vat.
+  reader_summary: A heavy press used to squeeze the oil out of the botanical materials.
+  citation_ids:
+  - lenos-early-cit-1
+- id: lenos-sense-1
+  term_id: lenos
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages, the word **ληνός** (*lenos*) fundamentally refers to a **vat, trough, or press** used to hold or squeeze liquids.
+  reader_summary: Based on the provided passages, the word **ληνός** (*lenos*) fundamentally refers to a **vat, trough, or press** used to hold or squeeze liquids.
+  citation_ids: []
+- id: lenos-sense-2
+  term_id: lenos
+  label: 1. An Agricultural or Pharmacological Press / Vat (Literal Use)
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: In its most literal sense, a *lenos* is a large vat used for crushing grapes to make wine, or a pressing-vat used by pharmacologists to squeeze the essential oils and juices out of botanical ingredients (like flower petals).
+  reader_summary: In its most literal sense, a *lenos* is a large vat used for crushing grapes to make wine, or a pressing-vat used by pharmacologists to squeeze the essential oils and juices out of botanical ingredients (like flower petals).
+  citation_ids: []
+- id: lenos-sense-3
+  term_id: lenos
+  label: 2. A Blood Reservoir in the Brain (Anatomical Metaphor)
+  sense_order: 3
+  perfume_relevance: non_perfume
+  short_definition: The most frequent use of the word in these specific medical texts is anatomical.
+  reader_summary: The most frequent use of the word in these specific medical texts is anatomical.
+  citation_ids:
+  - lenos-cit-1
+- id: lenos-sense-4
+  term_id: lenos
+  label: 3. The Floor of the Nasal Cavity (Anatomical Metaphor)
+  sense_order: 4
+  perfume_relevance: non_perfume
+  short_definition: Because a *lenos* is a trough-like structure, poets and medical writers also applied the term to the hollow troughs or "floors" of the nasal cavities.
+  reader_summary: Because a *lenos* is a trough-like structure, poets and medical writers also applied the term to the hollow troughs or "floors" of the nasal cavities.
+  citation_ids:
+  - lenos-cit-2
+- id: lenos-sense-5
+  term_id: lenos
+  label: 4. A Carved Hollow in Medical Machinery (Mechanical Metaphor)
+  sense_order: 5
+  perfume_relevance: non_perfume
+  short_definition: In the Hippocratic corpus, the word is used to describe a physical, trough-like depression carved into a wooden board.
+  reader_summary: In the Hippocratic corpus, the word is used to describe a physical, trough-like depression carved into a wooden board.
+  citation_ids:
+  - lenos-cit-3
+- id: louter-early-sense-1
+  term_id: louter
+  label: A wide, sometimes shallow basin used for soaking flowers (like roses or lilies) in oil.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Tub / Basin / Small vat (diminutive).
+  reader_summary: A wide, sometimes shallow basin used for soaking flowers (like roses or lilies) in oil.
+  citation_ids:
+  - louter-early-cit-1
+- id: louter-sense-1
+  term_id: louter
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: extended
+  short_definition: Based on the provided passages from Dioscorides’ *De materia medica*, a **λουτήρ** (*louter*) and its diminutive **λουτηρίδιον** (*louteridion*) refer to a **broad, shallow basin or tub**.
+  reader_summary: Based on the provided passages from Dioscorides’ *De materia medica*, a **λουτήρ** (*louter*) and its diminutive **λουτηρίδιον** (*louteridion*) refer to a **broad, shallow basin or tub**.
+  citation_ids: []
+- id: louter-sense-2
+  term_id: louter
+  label: 1. A Broad, Shallow Steeping Basin (Primary Sense)
+  sense_order: 2
+  perfume_relevance: core
+  short_definition: Dioscorides explicitly describes the physical dimensions of the *louter* when instructing how to steep delicate lily petals.
+  reader_summary: Dioscorides explicitly describes the physical dimensions of the *louter* when instructing how to steep delicate lily petals.
+  citation_ids:
+  - louter-cit-1
+- id: louter-sense-3
+  term_id: louter
+  label: 2. A Mixing Tub for Spices and Liquids
+  sense_order: 3
+  perfume_relevance: extended
+  short_definition: Beyond just soaking fresh flowers, the *louter* is also used as a mixing tub where dry aromatic spices (like cinnamon and saffron) and water are combined with previously pressed oils.
+  reader_summary: Beyond just soaking fresh flowers, the *louter* is also used as a mixing tub where dry aromatic spices (like cinnamon and saffron) and water are combined with previously pressed oils.
+  citation_ids:
+  - louter-cit-2
+- id: louter-sense-4
+  term_id: louter
+  label: '3. *Louteridion*: A Small Basin for Re-Maceration (Diminutive)'
+  sense_order: 4
+  perfume_relevance: extended
+  short_definition: The text also uses the diminutive form, *louteridion* (a small basin or small tub).
+  reader_summary: The text also uses the diminutive form, *louteridion* (a small basin or small tub).
+  citation_ids:
+  - louter-cit-3
+- id: myakion-early-sense-1
+  term_id: myakion
+  label: Used to scoop up and store highly precious, small-batch ointments (like nard).
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Mussel shell / Small shell-shaped receptacle.
+  reader_summary: Used to scoop up and store highly precious, small-batch ointments (like nard).
+  citation_ids:
+  - myakion-early-cit-1
+- id: myrepsike-sense-1
+  term_id: myrepsike
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages, the word **μυρεψική** (*myrepsikē*) refers to the craft or art of perfume-making.
+  reader_summary: Based on the provided passages, the word **μυρεψική** (*myrepsikē*) refers to the craft or art of perfume-making.
+  citation_ids: []
+- id: myrepsike-sense-2
+  term_id: myrepsike
+  label: 1. The craft of perfumery as a profession
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: Here the word names perfumery as a trade one can set up and finance.
+  reader_summary: Here the word names perfumery as a trade one can set up and finance.
+  citation_ids:
+  - myrepsike-cit-1
+- id: myrepsos-sense-1
+  term_id: myrepsos
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages, the word **μυρεψός** (*myrepsos*) refers to a perfumer, that is, a maker or compounder of perfumes.
+  reader_summary: Based on the provided passages, the word **μυρεψός** (*myrepsos*) refers to a perfumer, that is, a maker or compounder of perfumes.
+  citation_ids: []
+- id: myrepsos-sense-2
+  term_id: myrepsos
+  label: 1. A perfumer or compounder of perfumes
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: Occupational lists distinguish the *myrepsos* from the perfume-seller, which shows that the term points to manufacture or preparation rather than mere resale.
+  reader_summary: Occupational lists distinguish the *myrepsos* from the perfume-seller, which shows that the term points to manufacture or preparation rather than mere resale.
+  citation_ids:
+  - myrepsos-cit-1
+- id: myrepsos-sense-3
+  term_id: myrepsos
+  label: 2. A perfumer as a shop-based artisan
+  sense_order: 3
+  perfume_relevance: extended
+  short_definition: The word can also denote the perfumer as one among several artisans and shopkeepers in the urban marketplace.
+  reader_summary: The word can also denote the perfumer as one among several artisans and shopkeepers in the urban marketplace.
+  citation_ids:
+  - myrepsos-cit-2
+- id: myropoios-sense-1
+  term_id: myropoios
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages, the word **μυροποιός** (*myropoios*) refers to a maker of perfumes.
+  reader_summary: Based on the provided passages, the word **μυροποιός** (*myropoios*) refers to a maker of perfumes.
+  citation_ids: []
+- id: myropoios-sense-2
+  term_id: myropoios
+  label: 1. A maker of perfume
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: The term is presented as an alternate designation for the perfumer.
+  reader_summary: The term is presented as an alternate designation for the perfumer.
+  citation_ids:
+  - myropoios-cit-1
+- id: myropolein-sense-1
+  term_id: myropolein
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages, the verb **μυροπωλεῖν** (*myropōlein*) means “to sell perfumes” or “to carry on the perfume trade.” In these texts it appears both as the simple designation of the activity and as a socially or legally marked occupation, especially for men.
+  reader_summary: Based on the provided passages, the verb **μυροπωλεῖν** (*myropōlein*) means “to sell perfumes” or “to carry on the perfume trade.” In these texts it appears both as the simple designation of the activity and as a socially or legally marked occupation, especially for men.
+  citation_ids: []
+- id: myropolein-sense-2
+  term_id: myropolein
+  label: 1. To sell perfumes as a trade
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: The verb can denote the ordinary act or profession of sitting in a shop and dealing in perfumes.
+  reader_summary: The verb can denote the ordinary act or profession of sitting in a shop and dealing in perfumes.
+  citation_ids:
+  - myropolein-cit-1
+- id: myropolein-sense-3
+  term_id: myropolein
+  label: 2. To practice perfume-selling as a profession censured or forbidden to men
+  sense_order: 3
+  perfume_relevance: extended
+  short_definition: In moralizing and antiquarian contexts, the verb marks a trade associated with luxury and effeminacy.
+  reader_summary: In moralizing and antiquarian contexts, the verb marks a trade associated with luxury and effeminacy.
+  citation_ids:
+  - myropolein-cit-2
+- id: myropoleion-sense-1
+  term_id: myropoleion
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages, the word **μυροπωλεῖον** (*myropōleion*) is another noun for a perfume-shop.
+  reader_summary: Based on the provided passages, the word **μυροπωλεῖον** (*myropōleion*) is another noun for a perfume-shop.
+  citation_ids: []
+- id: myropoleion-sense-2
+  term_id: myropoleion
+  label: 1. A literal perfume-shop
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: In practical anecdotal use, *myropōleion* denotes the place where one goes to ask prices and buy perfume.
+  reader_summary: In practical anecdotal use, *myropōleion* denotes the place where one goes to ask prices and buy perfume.
+  citation_ids:
+  - myropoleion-cit-1
+- id: myropoleion-sense-3
+  term_id: myropoleion
+  label: 2. By metaphor, a secular and talk-filled shop-space
+  sense_order: 3
+  perfume_relevance: extended
+  short_definition: Christian authors use the word as shorthand for a noisy, ordinary, socially busy place, precisely in order to contrast such a setting with the dignity of the church.
+  reader_summary: Christian authors use the word as shorthand for a noisy, ordinary, socially busy place, precisely in order to contrast such a setting with the dignity of the church.
+  citation_ids:
+  - myropoleion-cit-2
+- id: myropoles-sense-1
+  term_id: myropoles
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages, the word **μυροπώλης** (*myropōlēs*) refers to a man whose trade is the selling of perfumes.
+  reader_summary: Based on the provided passages, the word **μυροπώλης** (*myropōlēs*) refers to a man whose trade is the selling of perfumes.
+  citation_ids: []
+- id: myropoles-sense-2
+  term_id: myropoles
+  label: 1. A perfume-seller or proprietor of a perfume business
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: In the clearest commercial passages, *myropōlēs* is simply the man who runs or owns a perfume business.
+  reader_summary: In the clearest commercial passages, *myropōlēs* is simply the man who runs or owns a perfume business.
+  citation_ids:
+  - myropoles-cit-1
+- id: myropoles-sense-3
+  term_id: myropoles
+  label: 2. A professional handler and keeper of perfume stock
+  sense_order: 3
+  perfume_relevance: extended
+  short_definition: In technical discussion, the *myropōlēs* is not just a shopkeeper but someone who knows how perfumes must be preserved.
+  reader_summary: In technical discussion, the *myropōlēs* is not just a shopkeeper but someone who knows how perfumes must be preserved.
+  citation_ids:
+  - myropoles-cit-2
+- id: myropolion-sense-1
+  term_id: myropolion
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages, the word **μυροπώλιον** (*myropōlion*) refers to a perfume-shop or perfumery establishment.
+  reader_summary: Based on the provided passages, the word **μυροπώλιον** (*myropōlion*) refers to a perfume-shop or perfumery establishment.
+  citation_ids: []
+- id: myropolion-sense-2
+  term_id: myropolion
+  label: 1. A perfume-shop as an urban place of resort
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: Here *myropōlion* means the actual shop to which people go, much like a barber’s shop or other workshop.
+  reader_summary: Here *myropōlion* means the actual shop to which people go, much like a barber’s shop or other workshop.
+  citation_ids:
+  - myropolion-cit-1
+- id: myropolion-sense-3
+  term_id: myropolion
+  label: 2. A perfume-shop as a commercial establishment or business asset
+  sense_order: 3
+  perfume_relevance: extended
+  short_definition: In legal and financial contexts, *myropōlion* can denote the perfumery establishment as something transferred, purchased, or burdened with debts.
+  reader_summary: In legal and financial contexts, *myropōlion* can denote the perfumery establishment as something transferred, purchased, or burdened with debts.
+  citation_ids:
+  - myropolion-cit-2
+- id: myropolion-sense-4
+  term_id: myropolion
+  label: 3. By metaphor, a repository of varied and useful material
+  sense_order: 4
+  perfume_relevance: non_perfume
+  short_definition: Later prose extends the concrete image of the perfume-shop into a metaphor for a place where many different fine or useful things are gathered together.
+  reader_summary: Later prose extends the concrete image of the perfume-shop into a metaphor for a place where many different fine or useful things are gathered together.
+  citation_ids:
+  - myropolion-cit-3
+- id: myropolis-sense-1
+  term_id: myropolis
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages, the word **μυρόπωλις** (*myropōlis*) refers to a woman who sells perfumes.
+  reader_summary: Based on the provided passages, the word **μυρόπωλις** (*myropōlis*) refers to a woman who sells perfumes.
+  citation_ids: []
+- id: myropolis-sense-2
+  term_id: myropolis
+  label: 1. A female seller of perfume
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: The noun can designate an individual woman whose occupation is the sale of perfume.
+  reader_summary: The noun can designate an individual woman whose occupation is the sale of perfume.
+  citation_ids:
+  - myropolis-cit-1
+- id: myropolis-sense-3
+  term_id: myropolis
+  label: 2. Perfume-selling women as a collective festive or service group
+  sense_order: 3
+  perfume_relevance: extended
+  short_definition: In comedy, the plural refers to perfume-women acting together in a scene of public festivity and organized abundance.
+  reader_summary: In comedy, the plural refers to perfume-women acting together in a scene of public festivity and organized abundance.
+  citation_ids:
+  - myropolis-cit-2
+- id: myrotheke-sense-1
+  term_id: myrotheke
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages, the word **μυροθήκη** (*myrothēkē*) refers to a concrete receptacle connected with perfume storage.
+  reader_summary: Based on the provided passages, the word **μυροθήκη** (*myrothēkē*) refers to a concrete receptacle connected with perfume storage.
+  citation_ids: []
+- id: myrotheke-sense-2
+  term_id: myrotheke
+  label: 1. The Perfume Vessel Itself
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: In several lexicographical notices, *myrothēkē* is the actual container that holds perfume or unguent.
+  reader_summary: In several lexicographical notices, *myrothēkē* is the actual container that holds perfume or unguent.
+  citation_ids:
+  - myrotheke-cit-1
+- id: myrotheke-sense-3
+  term_id: myrotheke
+  label: 2. A Case or Casket for Perfume Flasks
+  sense_order: 3
+  perfume_relevance: extended
+  short_definition: In another group of glosses, *myrothēkē* denotes not the flask itself but the case in which alabaster perfume vessels are kept.
+  reader_summary: In another group of glosses, *myrothēkē* denotes not the flask itself but the case in which alabaster perfume vessels are kept.
+  citation_ids:
+  - myrotheke-cit-2
+- id: organon-early-sense-1
+  term_id: organon
+  label: Used to crush and squeeze out the fatty extract (stakte) from fresh myrrh.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Instrument / Mechanical press.
+  reader_summary: Used to crush and squeeze out the fatty extract (stakte) from fresh myrrh.
+  citation_ids:
+  - organon-early-cit-1
+- id: organon-sense-1
+  term_id: organon
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: extended
+  short_definition: ὄργανον fundamentally means “tool,” “implement,” or “apparatus.” In the passages relevant to perfumery, pharmacology, and alchemy, it does not mean a bodily organ.
+  reader_summary: ὄργανον fundamentally means “tool,” “implement,” or “apparatus.” In the passages relevant to perfumery, pharmacology, and alchemy, it does not mean a bodily organ.
+  citation_ids: []
+- id: othonion-early-sense-1
+  term_id: othonion
+  label: Used as a breathable cover over jars to allow water vapor to escape during sun-steeping, preventing the oil from rotting.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Linen / Loose (thin) cloth.
+  reader_summary: Used as a breathable cover over jars to allow water vapor to escape during sun-steeping, preventing the oil from rotting.
+  citation_ids:
+  - othonion-early-cit-1
+- id: pelos-early-sense-1
+  term_id: pelos
+  label: Used as a sealant (lute) to hermetically seal the joint between two distillation/sublimation vessels to capture vaporized oils.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Clay / Mud.
+  reader_summary: Used as a sealant (lute) to hermetically seal the joint between two distillation/sublimation vessels to capture vaporized oils.
+  citation_ids:
+  - pelos-early-cit-1
+- id: phrear-early-sense-1
+  term_id: phrear
+  label: Used as a natural refrigerator; sealed jars of oil were suspended down a cold well to extract the scent without using heat or sun.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Water well.
+  reader_summary: Used as a natural refrigerator; sealed jars of oil were suspended down a cold well to extract the scent without using heat or sun.
+  citation_ids:
+  - phrear-early-cit-1
+- id: psiathos-sense-1
+  term_id: psiathos
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages from Dioscorides and Oribasius (who quotes him closely), the word **ψίαθος** (*psiathos*) refers to a **woven mat made of rushes, reeds, or similar materials**.
+  reader_summary: Based on the provided passages from Dioscorides and Oribasius (who quotes him closely), the word **ψίαθος** (*psiathos*) refers to a **woven mat made of rushes, reeds, or similar materials**.
+  citation_ids: []
+- id: psiathos-sense-2
+  term_id: psiathos
+  label: 1. A Ground-Mat for Harvesting Resin
+  sense_order: 2
+  perfume_relevance: non_perfume
+  short_definition: In the harvesting of myrrh (*smyrna*), *psiathoi* are spread out on the ground beneath the myrrh tree.
+  reader_summary: In the harvesting of myrrh (*smyrna*), *psiathoi* are spread out on the ground beneath the myrrh tree.
+  citation_ids:
+  - psiathos-cit-1
+- id: psiathos-sense-3
+  term_id: psiathos
+  label: 2. A Porous Barrier / Lid for Vapor Infusion
+  sense_order: 3
+  perfume_relevance: non_perfume
+  short_definition: During the preparation of quince oil (*melinon*), a loosely woven rush mat (*psiathos araia*) is placed across the mouth of a wide vessel containing hot oil.
+  reader_summary: During the preparation of quince oil (*melinon*), a loosely woven rush mat (*psiathos araia*) is placed across the mouth of a wide vessel containing hot oil.
+  citation_ids:
+  - psiathos-cit-2
+- id: psiathos-araia-early-sense-1
+  term_id: psiathos-araia
+  label: Used interchangeably with the reed mat as a porous barrier or lid.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Loosely woven rush mat.
+  reader_summary: Used interchangeably with the reed mat as a porous barrier or lid.
+  citation_ids:
+  - psiathos-araia-early-cit-1
+- id: ptygma-eriou-early-sense-1
+  term_id: ptygma-eriou
+  label: Used to apply hot, smoked medicinal oils topically to the abdomen and lower back.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Fold of wool / Woolen pad.
+  reader_summary: Used to apply hot, smoked medicinal oils topically to the abdomen and lower back.
+  citation_ids:
+  - ptygma-eriou-early-cit-1
+- id: ripos-ek-kalamoy-early-sense-1
+  term_id: ripos-ek-kalamoy
+  label: Placed over a vessel to hold ingredients (like quinces) so their essence can seep into or vaporize over the oil without falling in.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Mat made of reeds / Reed hurdle.
+  reader_summary: Placed over a vessel to hold ingredients (like quinces) so their essence can seep into or vaporize over the oil without falling in.
+  citation_ids:
+  - ripos-ek-kalamoy-early-cit-1
+- id: ropopoles-sense-1
+  term_id: ropopoles
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages, the word **ῥωποπώλης** (*rhōpopōlēs*) is treated in these lexicographical texts as a synonym of **μυροπώλης**.
+  reader_summary: Based on the provided passages, the word **ῥωποπώλης** (*rhōpopōlēs*) is treated in these lexicographical texts as a synonym of **μυροπώλης**.
+  citation_ids: []
+- id: ropopoles-sense-2
+  term_id: ropopoles
+  label: 1. A lexicographical synonym for “perfume-seller”
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: The gloss equates the word directly with perfume-sellers in the plural.
+  reader_summary: The gloss equates the word directly with perfume-sellers in the plural.
+  citation_ids:
+  - ropopoles-cit-1
+- id: ropopoles-sense-3
+  term_id: ropopoles
+  label: 2. An explanatory gloss equivalent to μυροπώλης
+  sense_order: 3
+  perfume_relevance: non_perfume
+  short_definition: A second lexicon repeats the same equation in the singular.
+  reader_summary: A second lexicon repeats the same equation in the singular.
+  citation_ids:
+  - ropopoles-cit-2
+- id: sanis-early-sense-1
+  term_id: sanis
+  label: Used to insulate jars of oil from the cold or damp ground during storage.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Board / Plank.
+  reader_summary: Used to insulate jars of oil from the cold or damp ground during storage.
+  citation_ids:
+  - sanis-early-cit-1
+- id: sindon-early-sense-1
+  term_id: sindon
+  label: Used as a clean surface to lay out and gently dry/wilt flower petals (like lilies and roses) in the shade before infusing them.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Fine linen / Muslin cloth.
+  reader_summary: Used as a clean surface to lay out and gently dry/wilt flower petals (like lilies and roses) in the shade before infusing them.
+  citation_ids:
+  - sindon-early-cit-1
+- id: spathe-early-sense-1
+  term_id: spathe
+  label: Used to continuously stir hot oil and aromatics while they cool.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Spatula / Wooden paddle.
+  reader_summary: 'Used to continuously stir hot oil and aromatics while they cool. *(Note: "Spathe" is also used elsewhere in the text as a botanical ingredient—palm spathe—but in 1.55 it clearly denotes the tool).*'
+  citation_ids:
+  - spathe-early-cit-1
+- id: spathe-sense-1
+  term_id: spathe
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: extended
+  short_definition: 'Ambiguous term: palm spathe in some passages, stirring spatula in technical recipes.'
+  reader_summary: 'Σπάθη is one of the trickier workshop words. Some passages use it for the palm spathe employed by perfumers as a material, while the recipe passages use it for the stirring tool itself. WP7 should stay with the paddle or spatula sense unless the botanical sense is explicitly needed.'
+  citation_ids:
+  - spathe-cit-1
+  - spathe-cit-2
+  - spathe-cit-3
+  - spathe-cit-4
+  - spathe-cit-5
+- id: spathe-early-sense-2
+  term_id: spathe
+  label: A wooden paddle explicitly used for stirring steeping aromatics.
+  sense_order: 2
+  perfume_relevance: core
+  short_definition: Spatula made of palm-wood.
+  reader_summary: A wooden paddle explicitly used for stirring steeping aromatics. The choice of palm wood likely prevented unwanted flavors from transferring to the oil.
+  citation_ids:
+  - spathe-early-cit-2
+- id: sphyris-early-sense-1
+  term_id: sphyris
+  label: A basket used to hold the botanical matter while it is being squeezed/pressed to extract the liquid.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Woven basket / Strainer basket.
+  reader_summary: A basket used to hold the botanical matter while it is being squeezed/pressed to extract the liquid.
+  citation_ids:
+  - sphyris-early-cit-1
+- id: sphyris-sense-1
+  term_id: sphyris
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages, the word **σφυρίς** (*sphyris* / *spyris*) refers fundamentally to a **basket**, typically made of woven wicker, reeds, or similar flexible materials.
+  reader_summary: Based on the provided passages, the word **σφυρίς** (*sphyris* / *spyris*) refers fundamentally to a **basket**, typically made of woven wicker, reeds, or similar flexible materials.
+  citation_ids: []
+- id: sphyris-sense-2
+  term_id: sphyris
+  label: 1. A Strainer or Pressing Basket (Pharmacology)
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: In the recipes of Dioscorides, the *sphyris* is used during the extraction of oils from seeds or the pressing of infused botanicals.
+  reader_summary: In the recipes of Dioscorides, the *sphyris* is used during the extraction of oils from seeds or the pressing of infused botanicals.
+  citation_ids: []
+- id: sphyris-sense-3
+  term_id: sphyris
+  label: 2. A Receptacle for Counterweights (Orthopedics)
+  sense_order: 3
+  perfume_relevance: non_perfume
+  short_definition: In the Hippocratic treatise *De articulis* (On Joints) and Apollonius of Kition's commentary on it, the *sphyris* is used as an improvised mechanical tool for setting dislocated hips.
+  reader_summary: In the Hippocratic treatise *De articulis* (On Joints) and Apollonius of Kition's commentary on it, the *sphyris* is used as an improvised mechanical tool for setting dislocated hips.
+  citation_ids:
+  - sphyris-cit-1
+- id: spongos-early-sense-1
+  term_id: spongos
+  label: Used to wipe tables, or soaked in perfumed wine and applied to the face of a swooning or sick patient to revive them.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Sponge.
+  reader_summary: Used to wipe tables, or soaked in perfumed wine and applied to the face of a swooning or sick patient to revive them.
+  citation_ids:
+  - spongos-early-cit-1
+- id: thyia-sense-1
+  term_id: thyia
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: Based on the provided passages, the word **θυία** (*thyia*) refers to a mortar-like bowl or grinding vessel used to reduce substances to a fine or uniform state.
+  reader_summary: Based on the provided passages, the word **θυία** (*thyia*) refers to a mortar-like bowl or grinding vessel used to reduce substances to a fine or uniform state.
+  citation_ids: []
+- id: thyia-sense-2
+  term_id: thyia
+  label: Vessel for aromatics and perfumes
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: In perfumery, θυία is the bowl in which fragrant materials are ground and blended.
+  reader_summary: In perfumery, θυία is the bowl in which fragrant materials are ground and blended.
+  citation_ids:
+  - thyia-cit-1
+- id: thyia-sense-3
+  term_id: thyia
+  label: General pharmaceutical mortar
+  sense_order: 3
+  perfume_relevance: extended
+  short_definition: By extension, θυία is the ordinary vessel in which drugs are ground, mixed, and brought to a workable consistency.
+  reader_summary: By extension, θυία is the ordinary vessel in which drugs are ground, mixed, and brought to a workable consistency.
+  citation_ids:
+  - thyia-cit-2
+- id: thyia-sense-4
+  term_id: thyia
+  label: Mineral-pharmaceutical grinding and washing vessel
+  sense_order: 4
+  perfume_relevance: extended
+  short_definition: In mineral pharmacy, θυία denotes a more specialized grinding and washing vessel for hard substances.
+  reader_summary: In mineral pharmacy, θυία denotes a more specialized grinding and washing vessel for hard substances.
+  citation_ids:
+  - thyia-cit-3
+- id: thyia-igdion-early-sense-1
+  term_id: thyia-igdion
+  label: Used heavily throughout the texts for grinding resins, aromatics, and mixing waxes with liquids.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Mortar / Small mortar.
+  reader_summary: Used heavily throughout the texts for grinding resins, aromatics, and mixing waxes with liquids before they move into the larger vessel or the oil.
+  citation_ids:
+  - thyia-igdion-early-cit-1
+- id: tin-lined-vessels-sense-1
+  term_id: tin-lined-vessels
+  label: Default sense
+  sense_order: 1
+  perfume_relevance: non_perfume
+  short_definition: 'The passages treat three things separately: the vessel’s technical affiliation (*myrepsikon*), its construction as a double vessel (*diploûn*, *diplōma*), and its material or lining (*kassiterinon*, *geganōmenon tō kassiterō*).'
+  reader_summary: 'The passages treat three things separately: the vessel’s technical affiliation (*myrepsikon*), its construction as a double vessel (*diploûn*, *diplōma*), and its material or lining (*kassiterinon*, *geganōmenon tō kassiterō*).'
+  citation_ids: []
+- id: tin-lined-vessels-sense-2
+  term_id: tin-lined-vessels
+  label: Tin and tin-treated vessels
+  sense_order: 2
+  perfume_relevance: extended
+  short_definition: The clearest material specifications are in the long perfume and medicated-oil recipes.
+  reader_summary: The clearest material specifications are in the long perfume and medicated-oil recipes.
+  citation_ids: []
+- id: tin-lined-vessels-sense-3
+  term_id: tin-lined-vessels
+  label: Soaking for days is a regular technical stage
+  sense_order: 3
+  perfume_relevance: non_perfume
+  short_definition: 'Yes: the texts repeatedly use these vessels for deliberate multi-day soaking.'
+  reader_summary: 'Yes: the texts repeatedly use these vessels for deliberate multi-day soaking.'
+  citation_ids: []
+- id: tin-lined-vessels-sense-4
+  term_id: tin-lined-vessels
+  label: How the vessel is used in practice
+  sense_order: 4
+  perfume_relevance: extended
+  short_definition: Across the recipes the sequence is strikingly regular.
+  reader_summary: Across the recipes the sequence is strikingly regular.
+  citation_ids: []
+- id: tin-lined-vessels-sense-5
+  term_id: tin-lined-vessels
+  label: What this shows about use
+  sense_order: 5
+  perfume_relevance: non_perfume
+  short_definition: 'From the passages alone, the most secure conclusion is this: the vessel is not merely a container but a process tool.'
+  reader_summary: 'From the passages alone, the most secure conclusion is this: the vessel is not merely a container but a process tool.'
+  citation_ids: []
+- id: tin-lined-vessels-sense-6
+  term_id: tin-lined-vessels
+  label: 1. Aëtius on a tin perfumer’s vessel, a second tin-lined vessel, repeated stirring, sealing, and later heating in a double vessel
+  sense_order: 6
+  perfume_relevance: extended
+  short_definition: '**Greek** > κόψας τὰ ξηρὰ καὶ ἀραιοτέρῳ κοσκίνῳ σήσας βρέχε πάντα τῷ παλαιῷ οἴνῳ, τὸ δὲ βδέλλιον καὶ τὸ λάδανον προβρέχων καὶ λεάνας ἐν θυείᾳ ἐπίβαλε τοῖς βεβρεγμένοις· ἔστω δὲ τὸ ἀγγεῖον μυρεψικὸν κασσιτέρινον καὶ πωμάσας ἐπιμελῶς ἔα ἡμέρας καὶ νύκτας δύο.'
+  reader_summary: '**Greek** > κόψας τὰ ξηρὰ καὶ ἀραιοτέρῳ κοσκίνῳ σήσας βρέχε πάντα τῷ παλαιῷ οἴνῳ, τὸ δὲ βδέλλιον καὶ τὸ λάδανον προβρέχων καὶ λεάνας ἐν θυείᾳ ἐπίβαλε τοῖς βεβρεγμένοις· ἔστω δὲ τὸ ἀγγεῖον μυρεψικὸν κασσιτέρινον καὶ πωμάσας ἐπιμελῶς ἔα ἡμέρας καὶ νύκτας δύο.'
+  citation_ids:
+  - tin-lined-vessels-cit-1
+- id: tin-lined-vessels-sense-7
+  term_id: tin-lined-vessels
+  label: 2. Galen on a small tin perfumer’s vessel, a large bronze vessel, repeated stirring, sealing, and later boilings in a double vessel
+  sense_order: 7
+  perfume_relevance: extended
+  short_definition: '**Greek** > βαλὼν εἰς μικρὸν ἀγγεῖον μυρεψικὸν κασσιτερινὸν, πωμάσας ἐπιμελῶς ἔα ἐπὶ δώδεκα ἡμέρας καὶ δώδεκα νύκτας.'
+  reader_summary: '**Greek** > βαλὼν εἰς μικρὸν ἀγγεῖον μυρεψικὸν κασσιτερινὸν, πωμάσας ἐπιμελῶς ἔα ἐπὶ δώδεκα ἡμέρας καὶ δώδεκα νύκτας.'
+  citation_ids:
+  - tin-lined-vessels-cit-2
+- id: tin-lined-vessels-sense-8
+  term_id: tin-lined-vessels
+  label: 3. Galen on moving from a ceramic vessel to a double perfumer’s vessel, then to another perfumer’s vessel, and finally to glass or silver
+  sense_order: 8
+  perfume_relevance: extended
+  short_definition: '**Greek** > ...'
+  reader_summary: '**Greek** > ...'
+  citation_ids:
+  - tin-lined-vessels-cit-3
+- id: tin-lined-vessels-sense-9
+  term_id: tin-lined-vessels
+  label: 4. Galen on a three-day soak in a double perfumer’s vessel
+  sense_order: 9
+  perfume_relevance: extended
+  short_definition: '**Greek** > τὰ προειρημένα εἰς παχέα κόπτεται καὶ βρέχεται ἐν ἀγγείῳ διπλῷ μυρεψικῷ ἐπὶ ἡμέρας γʹ.'
+  reader_summary: '**Greek** > τὰ προειρημένα εἰς παχέα κόπτεται καὶ βρέχεται ἐν ἀγγείῳ διπλῷ μυρεψικῷ ἐπὶ ἡμέρας γʹ.'
+  citation_ids:
+  - tin-lined-vessels-cit-4
+- id: tin-lined-vessels-sense-10
+  term_id: tin-lined-vessels
+  label: 5. Aëtius, parallel three-day maceration followed by boiling in the double vessel
+  sense_order: 10
+  perfume_relevance: extended
+  short_definition: '**Greek** > τὰ προειρημένα ἅπαντα παχυμερῶς κόπτεται καὶ βρέχεται ἐπὶ ἡμέρας <γ>, τῇ δὲ ἑξῆς ἕψεται ἐν διπλώματι εἰς τὸ τρίτον, ἔπειτα ἐκθλίβομεν καὶ διηθοῦμεν.'
+  reader_summary: '**Greek** > τὰ προειρημένα ἅπαντα παχυμερῶς κόπτεται καὶ βρέχεται ἐπὶ ἡμέρας <γ>, τῇ δὲ ἑξῆς ἕψεται ἐν διπλώματι εἰς τὸ τρίτον, ἔπειτα ἐκθλίβομεν καὶ διηθοῦμεν.'
+  citation_ids:
+  - tin-lined-vessels-cit-5
+- id: tin-lined-vessels-sense-11
+  term_id: tin-lined-vessels
+  label: 6. Galen on coarse ingredients soaked for three days in a double perfumer’s vessel, then boiled with oils
+  sense_order: 11
+  perfume_relevance: extended
+  short_definition: '**Greek** > πάντα θλάσας καὶ βαλὼν εἰς ἄγγος διπλοῦν μυρεψικὸν, ἐπίβαλλε οἴνου τμωλίτου ξε.'
+  reader_summary: '**Greek** > πάντα θλάσας καὶ βαλὼν εἰς ἄγγος διπλοῦν μυρεψικὸν, ἐπίβαλλε οἴνου τμωλίτου ξε.'
+  citation_ids:
+  - tin-lined-vessels-cit-6
+- id: tin-lined-vessels-sense-12
+  term_id: tin-lined-vessels
+  label: 7. Galen on nine days’ soaking in a double perfumer’s vessel
+  sense_order: 12
+  perfume_relevance: extended
+  short_definition: '**Greek** > τοὺς ἀκρέμονας τῆς αἰγείρου κόψας ἐπιμελῶς, ἔχε ἐν ἀγγείῳ διπλῷ μυρεψικῷ καὶ τούτοις ἐπίβαλλε σάμψυχον, ῥίζαν σικύου κόψας παχυμερῶς καὶ τούτοις ἐπίβαλλε τὸν οἶνον καὶ πάντα ἔα βρέχεσθαι ἐπὶ ἡμέρας θʹ.'
+  reader_summary: '**Greek** > τοὺς ἀκρέμονας τῆς αἰγείρου κόψας ἐπιμελῶς, ἔχε ἐν ἀγγείῳ διπλῷ μυρεψικῷ καὶ τούτοις ἐπίβαλλε σάμψυχον, ῥίζαν σικύου κόψας παχυμερῶς καὶ τούτοις ἐπίβαλλε τὸν οἶνον καὶ πάντα ἔα βρέχεσθαι ἐπὶ ἡμέρας θʹ.'
+  citation_ids:
+  - tin-lined-vessels-cit-7
+- id: tin-lined-vessels-sense-13
+  term_id: tin-lined-vessels
+  label: 8. Galen’s definition of the double vessel
+  sense_order: 13
+  perfume_relevance: extended
+  short_definition: '**Greek** > καλεῖται δ'' οὕτως, ἐπειδὰν προϋποκειμένου λέβητος ὕδωρ ἔχοντος ζέον ἐνιστῆταί τι τούτῳ μικρότερον ἀγγεῖον, εἰς ὃ μέλλει τὸ ἔλαιον ἐγχεῖσθαι.'
+  reader_summary: '**Greek** > καλεῖται δ'' οὕτως, ἐπειδὰν προϋποκειμένου λέβητος ὕδωρ ἔχοντος ζέον ἐνιστῆταί τι τούτῳ μικρότερον ἀγγεῖον, εἰς ὃ μέλλει τὸ ἔλαιον ἐγχεῖσθαι.'
+  citation_ids:
+  - tin-lined-vessels-cit-8
+- id: tin-lined-vessels-sense-14
+  term_id: tin-lined-vessels
+  label: 9. Galen on why perfumes are heated this way
+  sense_order: 14
+  perfume_relevance: extended
+  short_definition: '**Greek** > οἶσθα δὲ καὶ ὡς ἐπ'' ἀγγείου διπλοῦ προϋποβεβλημένου κατὰ τὸ ἕτερον αὐτῶν τὸ μεῖζον ὕδατος ζέοντος, ἔθος ἡμῖν ἐστι θερμαίνειν τὰ μύρα· διαφθείρεται γὰρ ἡ δύναμις αὐτῶν ἑτέρως θερμανθέντων.'
+  reader_summary: '**Greek** > οἶσθα δὲ καὶ ὡς ἐπ'' ἀγγείου διπλοῦ προϋποβεβλημένου κατὰ τὸ ἕτερον αὐτῶν τὸ μεῖζον ὕδατος ζέοντος, ἔθος ἡμῖν ἐστι θερμαίνειν τὰ μύρα· διαφθείρεται γὰρ ἡ δύναμις αὐτῶν ἑτέρως θερμανθέντων.'
+  citation_ids:
+  - tin-lined-vessels-cit-9
+- id: troullion-early-sense-1
+  term_id: troullion
+  label: Used for gently melting resins (like styrax) with honey over coals.
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Small bowl / Ladle / Cup.
+  reader_summary: Used for gently melting resins (like styrax) with honey over coals.
+  citation_ids:
+  - troullion-early-cit-1
+- id: xestion-ostrakinon-early-sense-1
+  term_id: xestion-ostrakinon
+  label: Used in a primitive downward-distillation/fumigation setup (Aetius 1.135).
+  sense_order: 1
+  perfume_relevance: core
+  short_definition: Small earthenware vessel (sextarius).
+  reader_summary: Used in a primitive downward-distillation/fumigation setup (Aetius 1.135). Aetius specifies using a handleless vessel (**ἄωτον**) and another with a long neck (**μακροτράχηλον**) buried in the earth to catch infused vapors without catching fire.
+  citation_ids:
+  - xestion-ostrakinon-early-cit-1

@@ -1,0 +1,210 @@
+# Carousel Production Workflow
+# Orchestrated by user or main Codex session — subagents cannot spawn each other
+# PM is also the general editor and final internal gate
+
+stages:
+  plan:
+    agent: pm
+    inputs:
+      - workbench/status.md
+      - workbench/dashboard.md
+      - docs/wbs-carousel-150.md
+    outputs:
+      - workbench/drafts/{date}-{wp}-source-map.md
+    halt_if:
+      - source texts missing for target WP
+    description: >
+      PM reads status and dashboard, identifies the next WP, checks sources exist,
+      and confirms the next batch scope. If sources are missing, PM halts and tells
+      the user what to provide.
+
+  source_map:
+    agent: pm
+    inputs:
+      - workbench/status.md
+      - workbench/dashboard.md
+      - docs/wbs-carousel-150.md
+      - raw source files for target WP
+      - prompts/pm-prompt.md
+    outputs:
+      - workbench/drafts/{date}-{wp}-source-map.md
+    halt_if:
+      - any planned post cannot be supported cleanly from the source files
+    description: >
+      PM extracts the relevant passages from the raw source set and writes a
+      source map with ids, series, conceptual spines, exact citations,
+      public-facing citation targets for publishable subText, allowed claims,
+      and do-not-infer boundaries.
+
+  batch_spec:
+    agent: pm
+    inputs:
+      - workbench/drafts/{date}-{wp}-source-map.md
+      - prompts/pm-prompt.md
+    outputs:
+      - workbench/drafts/{batch-dir}/batch-spec.md
+    description: >
+      PM creates a concrete batch spec from the source map for a 3-5 post batch.
+
+  draft:
+    agent: writer
+    inputs:
+      - prompts/writer-prompt.md
+      - workbench/drafts/{batch-dir}/batch-spec.md
+      - workbench/drafts/{date}-{wp}-source-map.md
+      - raw source files referenced by the source map
+      - docs/continuation-prompt.md
+      - carousel-bank/CLAUDE.md
+    outputs:
+      - workbench/drafts/{batch-dir}/draft.js
+    description: >
+      Writer reads the batch spec, the source map, and only the raw files
+      referenced there. Produces draft carousel objects.
+
+  editor_review:
+    agent: editor
+    inputs:
+      - workbench/drafts/{batch-dir}/draft.js
+      - workbench/drafts/{date}-{wp}-source-map.md
+      - prompts/critic-prompt.md
+      - carousel-bank/src/data/carousels.js
+      - raw source files referenced by the source map
+    outputs:
+      - workbench/drafts/{batch-dir}/feedback.md
+    description: >
+      Editor evaluates each carousel against the 6-dimension rubric plus
+      source fidelity gate. Editor also flags publishable subText that cites
+      repo files instead of ancient/public references. Writes diagnostic
+      per-carousel PASS/REVISE verdicts for PM.
+
+  pm_decision:
+    agent: pm
+    inputs:
+      - prompts/pm-prompt.md
+      - workbench/drafts/{batch-dir}/draft.js
+      - workbench/drafts/{batch-dir}/feedback.md
+      - workbench/drafts/{date}-{wp}-source-map.md
+    outputs:
+      - workbench/drafts/{batch-dir}/pm-brief.md
+    description: >
+      PM reads the latest draft plus editor feedback and writes the authoritative
+      brief back to the writer. The brief ends with either REVISE or GOOD.
+
+  revise:
+    agent: writer
+    inputs:
+      - prompts/writer-prompt.md
+      - workbench/drafts/{batch-dir}/pm-brief.md
+      - workbench/drafts/{batch-dir}/feedback.md
+      - workbench/drafts/{batch-dir}/draft.js
+      - workbench/drafts/{date}-{wp}-source-map.md
+      - raw source files referenced by the source map
+    outputs:
+      - workbench/drafts/{batch-dir}/draft-r1.js
+    description: >
+      Writer reads the PM brief, uses editor feedback as reference, revises only
+      the carousels PM marked for change, writes draft-r1.js.
+
+  editor_re_review:
+    agent: editor
+    inputs:
+      - workbench/drafts/{batch-dir}/draft-r1.js
+      - workbench/drafts/{batch-dir}/feedback.md
+      - workbench/drafts/{date}-{wp}-source-map.md
+      - prompts/critic-prompt.md
+    outputs:
+      - workbench/drafts/{batch-dir}/feedback-r1.md
+    description: >
+      Editor re-reviews revised draft. Writes specific remaining issues or a clear
+      pass. Does not re-raise fixed issues.
+
+  pm_decision_r1:
+    agent: pm
+    inputs:
+      - prompts/pm-prompt.md
+      - workbench/drafts/{batch-dir}/draft-r1.js
+      - workbench/drafts/{batch-dir}/feedback-r1.md
+      - workbench/drafts/{date}-{wp}-source-map.md
+    outputs:
+      - workbench/drafts/{batch-dir}/pm-brief-r1.md
+    description: >
+      PM reads the revised draft plus the latest editor feedback and decides
+      whether the batch is GOOD or needs one final revision round.
+
+  revise_r2:
+    agent: writer
+    inputs:
+      - prompts/writer-prompt.md
+      - workbench/drafts/{batch-dir}/pm-brief-r1.md
+      - workbench/drafts/{batch-dir}/feedback-r1.md
+      - workbench/drafts/{batch-dir}/draft-r1.js
+      - workbench/drafts/{date}-{wp}-source-map.md
+      - raw source files referenced by the source map
+    outputs:
+      - workbench/drafts/{batch-dir}/draft-r2.js
+    description: >
+      Optional final revision round. Writer revises only the carousels PM still
+      marks for change.
+
+  editor_re_review_r2:
+    agent: editor
+    inputs:
+      - workbench/drafts/{batch-dir}/draft-r2.js
+      - workbench/drafts/{batch-dir}/feedback-r1.md
+      - workbench/drafts/{date}-{wp}-source-map.md
+      - prompts/critic-prompt.md
+    outputs:
+      - workbench/drafts/{batch-dir}/feedback-r2.md
+    description: >
+      Optional final editor pass after draft-r2.js. Editor reports only unresolved
+      issues that remain in the final revision round.
+
+  pm_decision_r2:
+    agent: pm
+    inputs:
+      - prompts/pm-prompt.md
+      - workbench/drafts/{batch-dir}/draft-r2.js
+      - workbench/drafts/{batch-dir}/feedback-r2.md
+      - workbench/drafts/{date}-{wp}-source-map.md
+    outputs:
+      - workbench/drafts/{batch-dir}/pm-brief-r2.md
+    halt_if:
+      - remaining issues after 2 revision rounds (escalate to user)
+    description: >
+      Optional final PM decision. PM may mark GOOD or escalate to the user if the
+      batch still has unresolved issues. PM may not waive source-fidelity failures.
+
+  approve:
+    agent: none  # user action
+    inputs:
+      - latest draft in workbench/drafts/{batch-dir}/
+      - latest pm-brief*.md marked GOOD
+    outputs: []
+    halt_if:
+      - user has not explicitly approved the draft
+    description: >
+      User reviews final draft. Nothing enters carousels.js without explicit approval.
+      This applies to all additions — batches and one-offs alike.
+
+  finalize:
+    agent: pm
+    inputs:
+      - latest draft in workbench/drafts/{batch-dir}/
+      - latest pm-brief*.md marked GOOD
+    outputs:
+      - carousel-bank/src/data/carousels.js (appended)
+      - workbench/status.md (updated)
+      - workbench/dashboard.md (updated)
+    description: >
+      PM merges approved carousels into carousels.js, updates status.md and dashboard.md,
+      runs validate_carousels.py --wp-status, summarizes what's done and what's next.
+
+constraints:
+  batch_size: 3-5
+  max_revision_rounds: 2
+  subagent_spawning: false  # subagents cannot spawn other subagents
+  orchestration: user or main Codex session handles all handoffs
+  pm_final_internal_gate: true
+  publishable_citation_hygiene: true  # repo file names are support-only, not publishable citations
+  user_approval_required: true
+  default_model_profile: codex-gpt-4-high

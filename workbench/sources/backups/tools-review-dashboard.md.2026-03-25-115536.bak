@@ -1,0 +1,74 @@
+# Tools Review Dashboard
+
+Generated from `workbench/sources/tools-data/`. Use this to work through term cleanup family by family.
+
+- Total terms: 52
+- Editorial status `approved`: 0
+- Editorial status `reviewed`: 0
+- Editorial status `auto`: 52
+- Auto-style summaries detected: 52
+- Terms currently in appendix: 22
+- Appendix terms with at least one perfume-relevant sense: 16
+
+## Family Batches
+
+### Containers And Storage
+- Terms: 9
+- Approved: 0
+- Auto: 9
+- Review file: [containers-and-storage.md](./tools-data/review/containers-and-storage.md)
+
+### Heat, Soaking, And Controlled Processing
+- Terms: 2
+- Approved: 0
+- Auto: 2
+- Review file: [heat-soaking-and-controlled-processing.md](./tools-data/review/heat-soaking-and-controlled-processing.md)
+
+### Pressing, Straining, And Extraction
+- Terms: 6
+- Approved: 0
+- Auto: 6
+- Review file: [pressing-straining-and-extraction.md](./tools-data/review/pressing-straining-and-extraction.md)
+
+### Grinding, Stirring, And Mixing
+- Terms: 3
+- Approved: 0
+- Auto: 3
+- Review file: [grinding-stirring-and-mixing.md](./tools-data/review/grinding-stirring-and-mixing.md)
+
+### Covers, Seals, Insulation, And Handling
+- Terms: 6
+- Approved: 0
+- Auto: 6
+- Review file: [covers-seals-insulation-and-handling.md](./tools-data/review/covers-seals-insulation-and-handling.md)
+
+### Application And Use
+- Terms: 4
+- Approved: 0
+- Auto: 4
+- Review file: [application-and-use.md](./tools-data/review/application-and-use.md)
+
+### Appendix And Semantic Control
+- Terms: 22
+- Approved: 0
+- Auto: 22
+- Review file: [appendix-and-semantic-control.md](./tools-data/review/appendix-and-semantic-control.md)
+
+## Suspect Appendix Placements
+
+- [χαλκός](./tools-texts.md#term-chalkos)
+- [Tin-lined and related perfumer's vessels](./tools-texts.md#term-tin-lined-vessels)
+- [ληνός](./tools-texts.md#term-lenos)
+- [σφυρίς](./tools-texts.md#term-sphyris)
+- [διπλοῦν ἀγγεῖον μυρεψικόν](./tools-texts.md#term-diployn-aggeion-myrepsikon)
+- [μυρεψική](./tools-texts.md#term-myrepsike)
+- [μυρεψός](./tools-texts.md#term-myrepsos)
+- [μυροποιός](./tools-texts.md#term-myropoios)
+- [μυροπωλεῖν](./tools-texts.md#term-myropolein)
+- [μυροπωλεῖον](./tools-texts.md#term-myropoleion)
+- [μυροπώλης](./tools-texts.md#term-myropoles)
+- [μυροπώλιον](./tools-texts.md#term-myropolion)
+- [μυρόπωλις](./tools-texts.md#term-myropolis)
+- [μυροθήκη](./tools-texts.md#term-myrotheke)
+- [ῥωποπώλης](./tools-texts.md#term-ropopoles)
+- [θυία](./tools-texts.md#term-thyia)

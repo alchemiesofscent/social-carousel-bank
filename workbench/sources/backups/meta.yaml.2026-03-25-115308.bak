@@ -1,0 +1,31 @@
+family_order:
+- Containers And Storage
+- Heat, Soaking, And Controlled Processing
+- Pressing, Straining, And Extraction
+- Grinding, Stirring, And Mixing
+- Covers, Seals, Insulation, And Handling
+- Application And Use
+- Trade, Shops, And Perfume Professions
+- Appendix And Semantic Control
+source_class_values:
+- primary_technical
+- supporting_lexical
+- appendix_context
+usage_type_values:
+- recipe
+- handling
+- storage
+- trade
+- lexicon
+- metaphor
+- alchemy
+- anatomy
+- medical
+- application
+- unknown
+canonical_source: workbench/sources/tools-data/
+generated_files:
+- workbench/sources/tools.md
+- workbench/sources/tools-texts.md
+- workbench/sources/tools-index.md
+backup_policy: Create a timestamped backup in workbench/sources/backups/ before overwriting generated files.

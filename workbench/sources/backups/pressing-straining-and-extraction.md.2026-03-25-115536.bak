@@ -1,0 +1,272 @@
+# Review Batch: Pressing, Straining, And Extraction
+
+Generated from the canonical YAML dataset. Edit the YAML records after reviewing each term.
+
+Workflow for each item:
+1. Read the linked term in `tools-texts.md`.
+2. Check all linked senses and citations.
+3. Confirm or reassign family.
+4. Replace auto summary text with editorial summaries.
+5. Update `editorial_status` and `family_status` in `terms.yaml`.
+
+## κοχλίας (kochlias)
+
+- Term id: `kochlias`
+- Current family: `Pressing, Straining, And Extraction`
+- Family status: `needs_review`
+- Editorial status: `auto`
+- Review priority: `301`
+- Senses: 1
+- Citations: 1
+- Reader: [tools-texts.md#term-kochlias](../../tools-texts.md#term-kochlias)
+- Auto summary detected: `true`
+- Auto why detected: `true`
+
+Current summary source:
+> [blank]
+
+Current why-it-matters source:
+> [blank]
+
+Linked senses:
+- `kochlias-early-sense-1` | `core` | An advanced mechanical press used to extract oils from hard nuts and seeds (like sesame), replacing or supplementing the older lever-and-weight presses.
+
+Editorial fields to complete in `terms.yaml`:
+- `family_status`
+- `family_rationale`
+- `editorial_summary_short`
+- `editorial_summary_long`
+- `editorial_why_it_matters`
+- `editorial_status`
+- `editorial_notes`
+
+LLM assist prompt:
+```text
+Read term `kochlias` in terms.yaml, its linked senses in senses.yaml, and its linked citations in citations.yaml.
+Write:
+1. one 1-2 sentence editorial_summary_short
+2. one 3-5 sentence editorial_summary_long
+3. one 1-2 sentence editorial_why_it_matters
+4. one proposed family and one-sentence rationale
+Do not invent claims not supported by the linked citations.
+Distinguish perfume-core use from non-perfume semantic drift when relevant.
+```
+
+## κόσκινον (koskinon)
+
+- Term id: `koskinon`
+- Current family: `Pressing, Straining, And Extraction`
+- Family status: `needs_review`
+- Editorial status: `auto`
+- Review priority: `302`
+- Senses: 1
+- Citations: 1
+- Reader: [tools-texts.md#term-koskinon](../../tools-texts.md#term-koskinon)
+- Auto summary detected: `true`
+- Auto why detected: `true`
+
+Current summary source:
+> [blank]
+
+Current why-it-matters source:
+> [blank]
+
+Linked senses:
+- `koskinon-early-sense-1` | `core` | Used to sift powdered spices and aromatics.
+
+Editorial fields to complete in `terms.yaml`:
+- `family_status`
+- `family_rationale`
+- `editorial_summary_short`
+- `editorial_summary_long`
+- `editorial_why_it_matters`
+- `editorial_status`
+- `editorial_notes`
+
+LLM assist prompt:
+```text
+Read term `koskinon` in terms.yaml, its linked senses in senses.yaml, and its linked citations in citations.yaml.
+Write:
+1. one 1-2 sentence editorial_summary_short
+2. one 3-5 sentence editorial_summary_long
+3. one 1-2 sentence editorial_why_it_matters
+4. one proposed family and one-sentence rationale
+Do not invent claims not supported by the linked citations.
+Distinguish perfume-core use from non-perfume semantic drift when relevant.
+```
+
+## κυρτίς (kyrtis)
+
+- Term id: `kyrtis`
+- Current family: `Pressing, Straining, And Extraction`
+- Family status: `needs_review`
+- Editorial status: `auto`
+- Review priority: `303`
+- Senses: 4
+- Citations: 2
+- Reader: [tools-texts.md#term-kyrtis](../../tools-texts.md#term-kyrtis)
+- Auto summary detected: `true`
+- Auto why detected: `true`
+
+Current summary source:
+> Based on the provided passages, the word **κυρτίς** (*kyrtis*) and its diminutive **κυρτίδιον** (*kyrtidion*) refer to a **woven wicker basket used as a strainer or pressing-filter**.
+
+Current why-it-matters source:
+> Based on the provided passages, the word **κυρτίς** (*kyrtis*) and its diminutive **κυρτίδιον** (*kyrtidion*) refer to a **woven wicker basket used as a strainer or pressing-filter**.
+
+Linked senses:
+- `kyrtis-early-sense-1` | `core` | Used specifically to strain and press infused oils (like basil and lily oil).
+- `kyrtis-sense-1` | `extended` | Default sense
+- `kyrtis-early-sense-2` | `core` | Baskets used in conjunction with the screw-press to hold the crushed sesame seeds while the oil is squeezed out.
+- `kyrtis-sense-2` | `core` | A Woven Pressing-Basket / Strainer
+
+Editorial fields to complete in `terms.yaml`:
+- `family_status`
+- `family_rationale`
+- `editorial_summary_short`
+- `editorial_summary_long`
+- `editorial_why_it_matters`
+- `editorial_status`
+- `editorial_notes`
+
+LLM assist prompt:
+```text
+Read term `kyrtis` in terms.yaml, its linked senses in senses.yaml, and its linked citations in citations.yaml.
+Write:
+1. one 1-2 sentence editorial_summary_short
+2. one 3-5 sentence editorial_summary_long
+3. one 1-2 sentence editorial_why_it_matters
+4. one proposed family and one-sentence rationale
+Do not invent claims not supported by the linked citations.
+Distinguish perfume-core use from non-perfume semantic drift when relevant.
+```
+
+## ὄργανον (organon)
+
+- Term id: `organon`
+- Current family: `Pressing, Straining, And Extraction`
+- Family status: `needs_review`
+- Editorial status: `auto`
+- Review priority: `304`
+- Senses: 2
+- Citations: 1
+- Reader: [tools-texts.md#term-organon](../../tools-texts.md#term-organon)
+- Auto summary detected: `true`
+- Auto why detected: `false`
+
+Current summary source:
+> ὄργανον fundamentally means “tool,” “implement,” or “apparatus.” In the passages relevant to perfumery, pharmacology, and alchemy, it does not mean a bodily organ.
+
+Current why-it-matters source:
+> ὄργανον fundamentally means “tool,” “implement,” or “apparatus.” In the passages relevant to perfumery, pharmacology, and alchemy, it does not mean a bodily organ.
+
+Linked senses:
+- `organon-early-sense-1` | `core` | Used to crush and squeeze out the fatty extract (stakte) from fresh myrrh.
+- `organon-sense-1` | `extended` | Default sense
+
+Editorial fields to complete in `terms.yaml`:
+- `family_status`
+- `family_rationale`
+- `editorial_summary_short`
+- `editorial_summary_long`
+- `editorial_why_it_matters`
+- `editorial_status`
+- `editorial_notes`
+
+LLM assist prompt:
+```text
+Read term `organon` in terms.yaml, its linked senses in senses.yaml, and its linked citations in citations.yaml.
+Write:
+1. one 1-2 sentence editorial_summary_short
+2. one 3-5 sentence editorial_summary_long
+3. one 1-2 sentence editorial_why_it_matters
+4. one proposed family and one-sentence rationale
+Do not invent claims not supported by the linked citations.
+Distinguish perfume-core use from non-perfume semantic drift when relevant.
+```
+
+## ψίαθος ἀραιά (psiathos araia)
+
+- Term id: `psiathos-araia`
+- Current family: `Pressing, Straining, And Extraction`
+- Family status: `needs_review`
+- Editorial status: `auto`
+- Review priority: `305`
+- Senses: 1
+- Citations: 1
+- Reader: [tools-texts.md#term-psiathos-araia](../../tools-texts.md#term-psiathos-araia)
+- Auto summary detected: `true`
+- Auto why detected: `true`
+
+Current summary source:
+> [blank]
+
+Current why-it-matters source:
+> [blank]
+
+Linked senses:
+- `psiathos-araia-early-sense-1` | `core` | Used interchangeably with the reed mat as a porous barrier or lid.
+
+Editorial fields to complete in `terms.yaml`:
+- `family_status`
+- `family_rationale`
+- `editorial_summary_short`
+- `editorial_summary_long`
+- `editorial_why_it_matters`
+- `editorial_status`
+- `editorial_notes`
+
+LLM assist prompt:
+```text
+Read term `psiathos-araia` in terms.yaml, its linked senses in senses.yaml, and its linked citations in citations.yaml.
+Write:
+1. one 1-2 sentence editorial_summary_short
+2. one 3-5 sentence editorial_summary_long
+3. one 1-2 sentence editorial_why_it_matters
+4. one proposed family and one-sentence rationale
+Do not invent claims not supported by the linked citations.
+Distinguish perfume-core use from non-perfume semantic drift when relevant.
+```
+
+## ῥῖπος ἐκ καλάμου (ripos ek kalamou)
+
+- Term id: `ripos-ek-kalamoy`
+- Current family: `Pressing, Straining, And Extraction`
+- Family status: `needs_review`
+- Editorial status: `auto`
+- Review priority: `306`
+- Senses: 1
+- Citations: 1
+- Reader: [tools-texts.md#term-ripos-ek-kalamoy](../../tools-texts.md#term-ripos-ek-kalamoy)
+- Auto summary detected: `true`
+- Auto why detected: `true`
+
+Current summary source:
+> [blank]
+
+Current why-it-matters source:
+> [blank]
+
+Linked senses:
+- `ripos-ek-kalamoy-early-sense-1` | `core` | Placed over a vessel to hold ingredients (like quinces) so their essence can seep into or vaporize over the oil without falling in.
+
+Editorial fields to complete in `terms.yaml`:
+- `family_status`
+- `family_rationale`
+- `editorial_summary_short`
+- `editorial_summary_long`
+- `editorial_why_it_matters`
+- `editorial_status`
+- `editorial_notes`
+
+LLM assist prompt:
+```text
+Read term `ripos-ek-kalamoy` in terms.yaml, its linked senses in senses.yaml, and its linked citations in citations.yaml.
+Write:
+1. one 1-2 sentence editorial_summary_short
+2. one 3-5 sentence editorial_summary_long
+3. one 1-2 sentence editorial_why_it_matters
+4. one proposed family and one-sentence rationale
+Do not invent claims not supported by the linked citations.
+Distinguish perfume-core use from non-perfume semantic drift when relevant.
+```

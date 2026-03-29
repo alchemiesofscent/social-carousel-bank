@@ -1,0 +1,816 @@
+- id: aggeion-aggeion-platystomon
+  headword_display: ἀγγεῖον (angeion) / ἀγγεῖον πλατύστομον (angeion platystomon)
+  headword_grc: ἀγγεῖον (angeion) / ἀγγεῖον πλατύστομον (angeion platystomon)
+  variants:
+  - ἀγγεῖον πλατύστομον
+  family: Containers And Storage
+  display_order: 101
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - aggeion-aggeion-platystomon-early-sense-1
+- id: bikos
+  headword_display: βῖκος / βικίον (bikos / bikion)
+  headword_grc: βῖκος / βικίον (bikos / bikion)
+  variants:
+  - βικίον
+  family: Containers And Storage
+  display_order: 102
+  summary_meaning: Based on the provided passages, the word **βῖκος** (*bîkos*) refers either to a jar-like vessel—often of glass in medical and alchemical recipes—or to a leguminous pulse.
+  why_it_matters: Based on the provided passages, the word **βῖκος** (*bîkos*) refers either to a jar-like vessel—often of glass in medical and alchemical recipes—or to a leguminous pulse.
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - bikos-early-sense-1
+  - bikos-sense-1
+  - bikos-sense-2
+  - bikos-sense-3
+  - bikos-sense-4
+  - bikos-sense-5
+- id: glass-vessel
+  headword_display: ἀγγεῖον ὑάλινον / βικίοις ὑελοῖς (angeion hyalinon / bikiois hyelois)
+  headword_grc: ἀγγεῖον ὑάλινον / βικίοις ὑελοῖς (angeion hyalinon / bikiois hyelois)
+  variants:
+  - βικίοις ὑελοῖς
+  family: Containers And Storage
+  display_order: 103
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - glass-vessel-early-sense-1
+- id: kakkabe
+  headword_display: κακκάβη / κακάβιν (kakkabe / kakabin)
+  headword_grc: κακκάβη / κακάβιν (kakkabe / kakabin)
+  variants:
+  - κακάβιν
+  family: Containers And Storage
+  display_order: 104
+  summary_meaning: Based on the provided passages, the word **κακκάβη** (*kakkábē*) refers to a pot or cauldron, that is, a hollow vessel used for heating and boiling.
+  why_it_matters: Based on the provided passages, the word **κακκάβη** (*kakkábē*) refers to a pot or cauldron, that is, a hollow vessel used for heating and boiling.
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - kakkabe-early-sense-1
+  - kakkabe-sense-1
+  - kakkabe-sense-2
+  - kakkabe-sense-3
+  - kakkabe-sense-4
+- id: krater
+  headword_display: κρατήρ (krater)
+  headword_grc: κρατήρ (krater)
+  variants: []
+  family: Containers And Storage
+  display_order: 105
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - krater-early-sense-1
+- id: lekanidion
+  headword_display: λεκανίδιον (lekanidion)
+  headword_grc: λεκανίδιον (lekanidion)
+  variants: []
+  family: Containers And Storage
+  display_order: 106
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - lekanidion-early-sense-1
+- id: louter
+  headword_display: λουτήρ (louter) / λουτηρίδιον (louteridion)
+  headword_grc: λουτήρ (louter) / λουτηρίδιον (louteridion)
+  variants:
+  - λουτηρίδιον
+  family: Containers And Storage
+  display_order: 107
+  summary_meaning: Based on the provided passages from Dioscorides’ *De materia medica*, a **λουτήρ** (*louter*) and its diminutive **λουτηρίδιον** (*louteridion*) refer to a **broad, shallow basin or tub**.
+  why_it_matters: Based on the provided passages from Dioscorides’ *De materia medica*, a **λουτήρ** (*louter*) and its diminutive **λουτηρίδιον** (*louteridion*) refer to a **broad, shallow basin or tub**.
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - louter-early-sense-1
+  - louter-sense-1
+  - louter-sense-2
+  - louter-sense-3
+  - louter-sense-4
+- id: myakion
+  headword_display: μυάκιον (myakion)
+  headword_grc: μυάκιον (myakion)
+  variants: []
+  family: Containers And Storage
+  display_order: 108
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - myakion-early-sense-1
+- id: troullion
+  headword_display: τρουλλίον (troullion)
+  headword_grc: τρουλλίον (troullion)
+  variants: []
+  family: Containers And Storage
+  display_order: 109
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - troullion-early-sense-1
+- id: double-vessel
+  headword_display: δίπλωμα (diploma)
+  headword_grc: δίπλωμα (diploma)
+  variants: []
+  family: Heat, Soaking, And Controlled Processing
+  display_order: 201
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - double-vessel-early-sense-1
+- id: xestion-ostrakinon
+  headword_display: ξεστίον ὀστράκινον (xestion ostrakinon)
+  headword_grc: ξεστίον ὀστράκινον (xestion ostrakinon)
+  variants: []
+  family: Heat, Soaking, And Controlled Processing
+  display_order: 202
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - xestion-ostrakinon-early-sense-1
+- id: kochlias
+  headword_display: κοχλίας (kochlias)
+  headword_grc: κοχλίας (kochlias)
+  variants: []
+  family: Pressing, Straining, And Extraction
+  display_order: 301
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - kochlias-early-sense-1
+- id: koskinon
+  headword_display: κόσκινον (koskinon)
+  headword_grc: κόσκινον (koskinon)
+  variants: []
+  family: Pressing, Straining, And Extraction
+  display_order: 302
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - koskinon-early-sense-1
+- id: kyrtis
+  headword_display: κυρτίς (kyrtis)
+  headword_grc: κυρτίς (kyrtis)
+  variants:
+  - κυρτίδιον
+  family: Pressing, Straining, And Extraction
+  display_order: 303
+  summary_meaning: Based on the provided passages, the word **κυρτίς** (*kyrtis*) and its diminutive **κυρτίδιον** (*kyrtidion*) refer to a **woven wicker basket used as a strainer or pressing-filter**.
+  why_it_matters: Based on the provided passages, the word **κυρτίς** (*kyrtis*) and its diminutive **κυρτίδιον** (*kyrtidion*) refer to a **woven wicker basket used as a strainer or pressing-filter**.
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - kyrtis-early-sense-1
+  - kyrtis-early-sense-2
+  - kyrtis-sense-1
+  - kyrtis-sense-2
+- id: organon
+  headword_display: ὄργανον (organon)
+  headword_grc: ὄργανον (organon)
+  variants: []
+  family: Pressing, Straining, And Extraction
+  display_order: 304
+  summary_meaning: ὄργανον fundamentally means “tool,” “implement,” or “apparatus.” In the passages relevant to perfumery, pharmacology, and alchemy, it does not mean a bodily organ.
+  why_it_matters: ὄργανον fundamentally means “tool,” “implement,” or “apparatus.” In the passages relevant to perfumery, pharmacology, and alchemy, it does not mean a bodily organ.
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - organon-early-sense-1
+  - organon-sense-1
+- id: psiathos-araia
+  headword_display: ψίαθος ἀραιά (psiathos araia)
+  headword_grc: ψίαθος ἀραιά (psiathos araia)
+  variants: []
+  family: Pressing, Straining, And Extraction
+  display_order: 305
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - psiathos-araia-early-sense-1
+- id: ripos-ek-kalamoy
+  headword_display: ῥῖπος ἐκ καλάμου (ripos ek kalamou)
+  headword_grc: ῥῖπος ἐκ καλάμου (ripos ek kalamou)
+  variants: []
+  family: Pressing, Straining, And Extraction
+  display_order: 306
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - ripos-ek-kalamoy-early-sense-1
+- id: holmos
+  headword_display: ὅλμος (holmos)
+  headword_grc: ὅλμος (holmos)
+  variants: []
+  family: Grinding, Stirring, And Mixing
+  display_order: 401
+  summary_meaning: Based on the provided passages, the word **ὅλμος** (*holmos*) refers to a heavy mortar, normally used with a pestle for working ingredients, but in one medical passage also serving as a practical support.
+  why_it_matters: Based on the provided passages, the word **ὅλμος** (*holmos*) refers to a heavy mortar, normally used with a pestle for working ingredients, but in one medical passage also serving as a practical support.
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - holmos-early-sense-1
+  - holmos-sense-1
+  - holmos-sense-2
+  - holmos-sense-3
+- id: spathe
+  headword_display: σπάθη φοινικίνη (spathe phoinikine)
+  headword_grc: σπάθη φοινικίνη (spathe phoinikine)
+  variants: []
+  family: Grinding, Stirring, And Mixing
+  display_order: 402
+  summary_meaning: '1.'
+  why_it_matters: '1.'
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - spathe-early-sense-1
+  - spathe-early-sense-2
+  - spathe-sense-1
+- id: thyia-igdion
+  headword_display: θυία (thyia) & ἰγδίον (igdion)
+  headword_grc: θυία (thyia) & ἰγδίον (igdion)
+  variants:
+  - ἰγδίον
+  family: Grinding, Stirring, And Mixing
+  display_order: 403
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - thyia-igdion-early-sense-1
+- id: derma
+  headword_display: δέρμα (derma)
+  headword_grc: δέρμα (derma)
+  variants: []
+  family: Covers, Seals, Insulation, And Handling
+  display_order: 501
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - derma-early-sense-1
+- id: othonion
+  headword_display: ὀθόνιον / ὀθόνη ἀραιά (othonion / othone araia)
+  headword_grc: ὀθόνιον / ὀθόνη ἀραιά (othonion / othone araia)
+  variants:
+  - ὀθόνη ἀραιά
+  family: Covers, Seals, Insulation, And Handling
+  display_order: 502
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - othonion-early-sense-1
+- id: pelos
+  headword_display: πηλός (pelos)
+  headword_grc: πηλός (pelos)
+  variants: []
+  family: Covers, Seals, Insulation, And Handling
+  display_order: 503
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - pelos-early-sense-1
+- id: phrear
+  headword_display: φρέαρ (phrear)
+  headword_grc: φρέαρ (phrear)
+  variants: []
+  family: Covers, Seals, Insulation, And Handling
+  display_order: 504
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - phrear-early-sense-1
+- id: sanis
+  headword_display: σανίς (sanis)
+  headword_grc: σανίς (sanis)
+  variants: []
+  family: Covers, Seals, Insulation, And Handling
+  display_order: 505
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - sanis-early-sense-1
+- id: sindon
+  headword_display: σινδών (sindon)
+  headword_grc: σινδών (sindon)
+  variants: []
+  family: Covers, Seals, Insulation, And Handling
+  display_order: 506
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - sindon-early-sense-1
+- id: belone-spartion
+  headword_display: βελώνη (belone) & σπάρτιον (spartion)
+  headword_grc: βελώνη (belone) & σπάρτιον (spartion)
+  variants:
+  - σπάρτιον
+  family: Application And Use
+  display_order: 601
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - belone-spartion-early-sense-1
+- id: krokis
+  headword_display: κροκίς (krokis)
+  headword_grc: κροκίς (krokis)
+  variants: []
+  family: Application And Use
+  display_order: 602
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - krokis-early-sense-1
+- id: ptygma-eriou
+  headword_display: πτύγμα ἐρίου (ptygma eriou)
+  headword_grc: πτύγμα ἐρίου (ptygma eriou)
+  variants: []
+  family: Application And Use
+  display_order: 603
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - ptygma-eriou-early-sense-1
+- id: spongos
+  headword_display: σπόγγος (spongos)
+  headword_grc: σπόγγος (spongos)
+  variants: []
+  family: Application And Use
+  display_order: 604
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - spongos-early-sense-1
+- id: chalkos
+  headword_display: χαλκός
+  headword_grc: χαλκός
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 801
+  summary_meaning: Based on the provided passages, the word **χαλκός** (*chalkos*) and its related forms (such as *chalkeos*, *chalkous*, *chalkoma*) broadly refer to **copper or bronze**.
+  why_it_matters: Based on the provided passages, the word **χαλκός** (*chalkos*) and its related forms (such as *chalkeos*, *chalkous*, *chalkoma*) broadly refer to **copper or bronze**.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - chalkos-early-sense-1
+  - chalkos-sense-1
+  - chalkos-sense-2
+  - chalkos-sense-3
+  - chalkos-sense-4
+- id: tin-lined-vessels
+  headword_display: Tin-lined and related perfumer's vessels
+  headword_grc: Tin-lined and related perfumer's vessels
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 801
+  summary_meaning: 'The passages treat three things separately: the vessel’s technical affiliation (*myrepsikon*), its construction as a double vessel (*diploûn*, *diplōma*), and its material or lining (*kassiterinon*, *geganōmenon tō kassiterō*).'
+  why_it_matters: 'The passages treat three things separately: the vessel’s technical affiliation (*myrepsikon*), its construction as a double vessel (*diploûn*, *diplōma*), and its material or lining (*kassiterinon*, *geganōmenon tō kassiterō*).'
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - tin-lined-vessels-sense-1
+  - tin-lined-vessels-sense-2
+  - tin-lined-vessels-sense-3
+  - tin-lined-vessels-sense-4
+  - tin-lined-vessels-sense-5
+  - tin-lined-vessels-sense-6
+  - tin-lined-vessels-sense-7
+  - tin-lined-vessels-sense-8
+  - tin-lined-vessels-sense-9
+  - tin-lined-vessels-sense-10
+  - tin-lined-vessels-sense-11
+  - tin-lined-vessels-sense-12
+  - tin-lined-vessels-sense-13
+  - tin-lined-vessels-sense-14
+- id: lenos
+  headword_display: ληνός
+  headword_grc: ληνός
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 802
+  summary_meaning: Based on the provided passages, the word **ληνός** (*lenos*) fundamentally refers to a **vat, trough, or press** used to hold or squeeze liquids.
+  why_it_matters: Based on the provided passages, the word **ληνός** (*lenos*) fundamentally refers to a **vat, trough, or press** used to hold or squeeze liquids.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - lenos-early-sense-1
+  - lenos-sense-1
+  - lenos-sense-2
+  - lenos-sense-3
+  - lenos-sense-4
+  - lenos-sense-5
+- id: sphyris
+  headword_display: σφυρίς
+  headword_grc: σφυρίς
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 803
+  summary_meaning: Based on the provided passages, the word **σφυρίς** (*sphyris* / *spyris*) refers fundamentally to a **basket**, typically made of woven wicker, reeds, or similar flexible materials.
+  why_it_matters: Based on the provided passages, the word **σφυρίς** (*sphyris* / *spyris*) refers fundamentally to a **basket**, typically made of woven wicker, reeds, or similar flexible materials.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - sphyris-early-sense-1
+  - sphyris-sense-1
+  - sphyris-sense-2
+  - sphyris-sense-3
+- id: alabastron
+  headword_display: ἀλάβαστρον
+  headword_grc: ἀλάβαστρον
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 804
+  summary_meaning: '1.'
+  why_it_matters: '1.'
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - alabastron-sense-1
+- id: diployn-aggeion-myrepsikon
+  headword_display: διπλοῦν ἀγγεῖον μυρεψικόν
+  headword_grc: διπλοῦν ἀγγεῖον μυρεψικόν
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 805
+  summary_meaning: The term denotes a doubled working vessel in which a smaller container is set inside a larger one and the contents are heated indirectly.
+  why_it_matters: The term denotes a doubled working vessel in which a smaller container is set inside a larger one and the contents are heated indirectly.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - diployn-aggeion-myrepsikon-sense-1
+  - diployn-aggeion-myrepsikon-sense-2
+  - diployn-aggeion-myrepsikon-sense-3
+  - diployn-aggeion-myrepsikon-sense-4
+  - diployn-aggeion-myrepsikon-sense-5
+- id: igdion
+  headword_display: ἴγδις / ἰγδίον
+  headword_grc: ἴγδις / ἰγδίον
+  variants:
+  - ἰγδίον
+  family: Appendix And Semantic Control
+  display_order: 806
+  summary_meaning: '1.'
+  why_it_matters: '1.'
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - igdion-sense-1
+- id: lekythos
+  headword_display: λήκυθος / ληκύθιον
+  headword_grc: λήκυθος / ληκύθιον
+  variants:
+  - ληκύθιον
+  family: Appendix And Semantic Control
+  display_order: 807
+  summary_meaning: '**1.'
+  why_it_matters: '**1.'
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - lekythos-sense-1
+  - lekythos-sense-2
+  - lekythos-sense-3
+  - lekythos-sense-4
+  - lekythos-sense-5
+- id: loyter
+  headword_display: λουτήρ
+  headword_grc: λουτήρ
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 808
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids: []
+- id: myrepsike
+  headword_display: μυρεψική
+  headword_grc: μυρεψική
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 809
+  summary_meaning: Based on the provided passages, the word **μυρεψική** (*myrepsikē*) refers to the craft or art of perfume-making.
+  why_it_matters: Based on the provided passages, the word **μυρεψική** (*myrepsikē*) refers to the craft or art of perfume-making.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - myrepsike-sense-1
+  - myrepsike-sense-2
+- id: myrepsos
+  headword_display: μυρεψός
+  headword_grc: μυρεψός
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 810
+  summary_meaning: Based on the provided passages, the word **μυρεψός** (*myrepsos*) refers to a perfumer, that is, a maker or compounder of perfumes.
+  why_it_matters: Based on the provided passages, the word **μυρεψός** (*myrepsos*) refers to a perfumer, that is, a maker or compounder of perfumes.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - myrepsos-sense-1
+  - myrepsos-sense-2
+  - myrepsos-sense-3
+- id: myropoios
+  headword_display: μυροποιός
+  headword_grc: μυροποιός
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 811
+  summary_meaning: Based on the provided passages, the word **μυροποιός** (*myropoios*) refers to a maker of perfumes.
+  why_it_matters: Based on the provided passages, the word **μυροποιός** (*myropoios*) refers to a maker of perfumes.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - myropoios-sense-1
+  - myropoios-sense-2
+- id: myropolein
+  headword_display: μυροπωλεῖν
+  headword_grc: μυροπωλεῖν
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 812
+  summary_meaning: Based on the provided passages, the verb **μυροπωλεῖν** (*myropōlein*) means “to sell perfumes” or “to carry on the perfume trade.” In these texts it appears both as the simple designation of the activity and as a socially or legally marked occupation, especially for men.
+  why_it_matters: Based on the provided passages, the verb **μυροπωλεῖν** (*myropōlein*) means “to sell perfumes” or “to carry on the perfume trade.” In these texts it appears both as the simple designation of the activity and as a socially or legally marked occupation, especially for men.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - myropolein-sense-1
+  - myropolein-sense-2
+  - myropolein-sense-3
+- id: myropoleion
+  headword_display: μυροπωλεῖον
+  headword_grc: μυροπωλεῖον
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 813
+  summary_meaning: Based on the provided passages, the word **μυροπωλεῖον** (*myropōleion*) is another noun for a perfume-shop.
+  why_it_matters: Based on the provided passages, the word **μυροπωλεῖον** (*myropōleion*) is another noun for a perfume-shop.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - myropoleion-sense-1
+  - myropoleion-sense-2
+  - myropoleion-sense-3
+- id: myropoles
+  headword_display: μυροπώλης
+  headword_grc: μυροπώλης
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 814
+  summary_meaning: Based on the provided passages, the word **μυροπώλης** (*myropōlēs*) refers to a man whose trade is the selling of perfumes.
+  why_it_matters: Based on the provided passages, the word **μυροπώλης** (*myropōlēs*) refers to a man whose trade is the selling of perfumes.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - myropoles-sense-1
+  - myropoles-sense-2
+  - myropoles-sense-3
+- id: myropolion
+  headword_display: μυροπώλιον
+  headword_grc: μυροπώλιον
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 815
+  summary_meaning: Based on the provided passages, the word **μυροπώλιον** (*myropōlion*) refers to a perfume-shop or perfumery establishment.
+  why_it_matters: Based on the provided passages, the word **μυροπώλιον** (*myropōlion*) refers to a perfume-shop or perfumery establishment.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - myropolion-sense-1
+  - myropolion-sense-2
+  - myropolion-sense-3
+  - myropolion-sense-4
+- id: myropolis
+  headword_display: μυρόπωλις
+  headword_grc: μυρόπωλις
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 816
+  summary_meaning: Based on the provided passages, the word **μυρόπωλις** (*myropōlis*) refers to a woman who sells perfumes.
+  why_it_matters: Based on the provided passages, the word **μυρόπωλις** (*myropōlis*) refers to a woman who sells perfumes.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - myropolis-sense-1
+  - myropolis-sense-2
+  - myropolis-sense-3
+- id: myrotheke
+  headword_display: μυροθήκη
+  headword_grc: μυροθήκη
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 817
+  summary_meaning: Based on the provided passages, the word **μυροθήκη** (*myrothēkē*) refers to a concrete receptacle connected with perfume storage.
+  why_it_matters: Based on the provided passages, the word **μυροθήκη** (*myrothēkē*) refers to a concrete receptacle connected with perfume storage.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - myrotheke-sense-1
+  - myrotheke-sense-2
+  - myrotheke-sense-3
+- id: psiathos
+  headword_display: ψίαθος
+  headword_grc: ψίαθος
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 818
+  summary_meaning: Based on the provided passages from Dioscorides and Oribasius (who quotes him closely), the word **ψίαθος** (*psiathos*) refers to a **woven mat made of rushes, reeds, or similar materials**.
+  why_it_matters: Based on the provided passages from Dioscorides and Oribasius (who quotes him closely), the word **ψίαθος** (*psiathos*) refers to a **woven mat made of rushes, reeds, or similar materials**.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - psiathos-sense-1
+  - psiathos-sense-2
+  - psiathos-sense-3
+- id: ropopoles
+  headword_display: ῥωποπώλης
+  headword_grc: ῥωποπώλης
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 819
+  summary_meaning: Based on the provided passages, the word **ῥωποπώλης** (*rhōpopōlēs*) is treated in these lexicographical texts as a synonym of **μυροπώλης**.
+  why_it_matters: Based on the provided passages, the word **ῥωποπώλης** (*rhōpopōlēs*) is treated in these lexicographical texts as a synonym of **μυροπώλης**.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - ropopoles-sense-1
+  - ropopoles-sense-2
+  - ropopoles-sense-3
+- id: thyia
+  headword_display: θυία
+  headword_grc: θυία
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 820
+  summary_meaning: Based on the provided passages, the word **θυία** (*thyia*) refers to a mortar-like bowl or grinding vessel used to reduce substances to a fine or uniform state.
+  why_it_matters: Based on the provided passages, the word **θυία** (*thyia*) refers to a mortar-like bowl or grinding vessel used to reduce substances to a fine or uniform state.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - thyia-sense-1
+  - thyia-sense-2
+  - thyia-sense-3
+  - thyia-sense-4
+- id: tin-lined-and-related-perfumers-vessels
+  headword_display: Tin-lined and related perfumer's vessels
+  headword_grc: Tin-lined and related perfumer's vessels
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 821
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids: []

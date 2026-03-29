@@ -1,0 +1,56 @@
+{
+  "rhopos-and-the-perfumer": {
+    "hook.subText": {
+      "status": "keep"
+    },
+    "closer.subText": {
+      "status": "keep"
+    }
+  },
+  "stypsis-before-scent": {
+    "hook.subText": {
+      "status": "keep"
+    },
+    "closer.subText": {
+      "status": "replace",
+      "records": ["alchemy-T8", "alchemy-T17", "alchemy-table-1", "alchemy-table-2"],
+      "output_text": "Galen, Simp. Med. 2.27; Theophr., Odor. 17; P.Oxy. 5242; Pap. Holm. 100."
+    }
+  },
+  "maria-speaks-in-apparatus": {
+    "hook.subText": {
+      "status": "replace",
+      "records": ["alchem-caag2-146-10"],
+      "output_text": "Zos. Alchem., CAAG 2.146.10ff. Maria enters as quoted procedure."
+    },
+    "closer.subText": {
+      "status": "replace",
+      "records": ["alchem-caag2-146-10", "alchem-caag2-157-5"],
+      "output_text": "Zos. Alchem., CAAG 2.146.10ff.; cf. 2.157.5ff."
+    }
+  },
+  "drawn-up-dripped-fixed": {
+    "hook.subText": {
+      "status": "replace",
+      "records": ["alchem-caag2-155-1", "alchem-caag2-157-5"],
+      "output_text": "Democritus ap. Zos. Alchem., CAAG 2.155.1ff.; Zos. Alchem., CAAG 2.157.5ff."
+    },
+    "closer.subText": {
+      "status": "replace",
+      "records": ["alchem-caag2-155-1", "alchem-caag2-157-5", "alchem-caag2-303-9", "alchem-caag2-251-8"],
+      "output_text": "Democritus ap. Zos. Alchem., CAAG 2.155.1ff.; Zos. Alchem., CAAG 2.157.5ff., 2.251.8ff.; Moses Alchem., CAAG 2.303.9ff."
+    }
+  },
+  "copper-is-dyed": {
+    "hook.subText": {
+      "status": "replace",
+      "records": ["alchem-caag2-170-5", "alchem-caag2-171-12"],
+      "output_text": "Zos. Alchem., CAAG 2.170.5ff.; 2.171.12ff."
+    },
+    "closer.subText": {
+      "status": "replace",
+      "records": ["alchem-caag2-148-17", "alchem-caag2-149-15", "alchem-caag2-169-12", "alchem-caag2-170-5", "alchem-caag2-171-12"],
+      "output_text": "Zos. Alchem., CAAG 2.148.17ff., 2.149.15ff., 2.169.12ff., 2.170.5ff., 2.171.12ff."
+    }
+  }
+}

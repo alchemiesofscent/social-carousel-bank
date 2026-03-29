@@ -1,0 +1,96 @@
+# Review Batch: Heat, Soaking, And Controlled Processing
+
+Generated from the canonical YAML dataset. Edit the YAML records after reviewing each term.
+
+Workflow for each item:
+1. Read the linked term in `tools-texts.md`.
+2. Check all linked senses and citations.
+3. Confirm or reassign family.
+4. Replace auto summary text with editorial summaries.
+5. Update `editorial_status` and `family_status` in `terms.yaml`.
+
+## δίπλωμα (diploma)
+
+- Term id: `double-vessel`
+- Current family: `Heat, Soaking, And Controlled Processing`
+- Family status: `needs_review`
+- Editorial status: `auto`
+- Review priority: `201`
+- Senses: 1
+- Citations: 1
+- Reader: [tools-texts.md#term-double-vessel](../../tools-texts.md#term-double-vessel)
+- Auto summary detected: `true`
+- Auto why detected: `true`
+
+Current summary source:
+> [blank]
+
+Current why-it-matters source:
+> [blank]
+
+Linked senses:
+- `double-vessel-early-sense-1` | `core` | A critical piece of pharmacological equipment used to melt wax or boil delicate oils with gentle, indirect heat to prevent scorching.
+
+Editorial fields to complete in `terms.yaml`:
+- `family_status`
+- `family_rationale`
+- `editorial_summary_short`
+- `editorial_summary_long`
+- `editorial_why_it_matters`
+- `editorial_status`
+- `editorial_notes`
+
+LLM assist prompt:
+```text
+Read term `double-vessel` in terms.yaml, its linked senses in senses.yaml, and its linked citations in citations.yaml.
+Write:
+1. one 1-2 sentence editorial_summary_short
+2. one 3-5 sentence editorial_summary_long
+3. one 1-2 sentence editorial_why_it_matters
+4. one proposed family and one-sentence rationale
+Do not invent claims not supported by the linked citations.
+Distinguish perfume-core use from non-perfume semantic drift when relevant.
+```
+
+## ξεστίον ὀστράκινον (xestion ostrakinon)
+
+- Term id: `xestion-ostrakinon`
+- Current family: `Heat, Soaking, And Controlled Processing`
+- Family status: `needs_review`
+- Editorial status: `auto`
+- Review priority: `202`
+- Senses: 1
+- Citations: 1
+- Reader: [tools-texts.md#term-xestion-ostrakinon](../../tools-texts.md#term-xestion-ostrakinon)
+- Auto summary detected: `true`
+- Auto why detected: `true`
+
+Current summary source:
+> [blank]
+
+Current why-it-matters source:
+> [blank]
+
+Linked senses:
+- `xestion-ostrakinon-early-sense-1` | `core` | Used in a primitive downward-distillation/fumigation setup (Aetius 1.135).
+
+Editorial fields to complete in `terms.yaml`:
+- `family_status`
+- `family_rationale`
+- `editorial_summary_short`
+- `editorial_summary_long`
+- `editorial_why_it_matters`
+- `editorial_status`
+- `editorial_notes`
+
+LLM assist prompt:
+```text
+Read term `xestion-ostrakinon` in terms.yaml, its linked senses in senses.yaml, and its linked citations in citations.yaml.
+Write:
+1. one 1-2 sentence editorial_summary_short
+2. one 3-5 sentence editorial_summary_long
+3. one 1-2 sentence editorial_why_it_matters
+4. one proposed family and one-sentence rationale
+Do not invent claims not supported by the linked citations.
+Distinguish perfume-core use from non-perfume semantic drift when relevant.
+```

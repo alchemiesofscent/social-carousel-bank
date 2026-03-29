@@ -1,0 +1,1479 @@
+- id: aggeion-aggeion-platystomon
+  headword_display: ἀγγεῖον (angeion) / ἀγγεῖον πλατύστομον (angeion platystomon)
+  headword_grc: ἀγγεῖον (angeion) / ἀγγεῖον πλατύστομον (angeion platystomon)
+  variants:
+  - ἀγγεῖον πλατύστομον
+  family: Containers And Storage
+  display_order: 101
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - aggeion-aggeion-platystomon-early-sense-1
+  review_batch: containers-and-storage
+  review_priority: 101
+  family_status: needs_review
+  family_rationale: Bootstrapped into Containers And Storage from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: bikos
+  headword_display: βῖκος / βικίον (bikos / bikion)
+  headword_grc: βῖκος / βικίον (bikos / bikion)
+  variants:
+  - βικίον
+  family: Containers And Storage
+  display_order: 102
+  summary_meaning: Based on the provided passages, the word **βῖκος** (*bîkos*) refers either to a jar-like vessel—often of glass in medical and alchemical recipes—or to a leguminous pulse.
+  why_it_matters: Based on the provided passages, the word **βῖκος** (*bîkos*) refers either to a jar-like vessel—often of glass in medical and alchemical recipes—or to a leguminous pulse.
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - bikos-early-sense-1
+  - bikos-sense-1
+  - bikos-sense-2
+  - bikos-sense-3
+  - bikos-sense-4
+  - bikos-sense-5
+  review_batch: containers-and-storage
+  review_priority: 102
+  family_status: needs_review
+  family_rationale: Bootstrapped into Containers And Storage from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: glass-vessel
+  headword_display: ἀγγεῖον ὑάλινον / βικίοις ὑελοῖς (angeion hyalinon / bikiois hyelois)
+  headword_grc: ἀγγεῖον ὑάλινον / βικίοις ὑελοῖς (angeion hyalinon / bikiois hyelois)
+  variants:
+  - βικίοις ὑελοῖς
+  family: Containers And Storage
+  display_order: 103
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - glass-vessel-early-sense-1
+  review_batch: containers-and-storage
+  review_priority: 103
+  family_status: needs_review
+  family_rationale: Bootstrapped into Containers And Storage from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: kakkabe
+  headword_display: κακκάβη / κακάβιν (kakkabe / kakabin)
+  headword_grc: κακκάβη / κακάβιν (kakkabe / kakabin)
+  variants:
+  - κακάβιν
+  family: Containers And Storage
+  display_order: 104
+  summary_meaning: Based on the provided passages, the word **κακκάβη** (*kakkábē*) refers to a pot or cauldron, that is, a hollow vessel used for heating and boiling.
+  why_it_matters: Based on the provided passages, the word **κακκάβη** (*kakkábē*) refers to a pot or cauldron, that is, a hollow vessel used for heating and boiling.
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - kakkabe-early-sense-1
+  - kakkabe-sense-1
+  - kakkabe-sense-2
+  - kakkabe-sense-3
+  - kakkabe-sense-4
+  review_batch: containers-and-storage
+  review_priority: 104
+  family_status: needs_review
+  family_rationale: Bootstrapped into Containers And Storage from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: krater
+  headword_display: κρατήρ (krater)
+  headword_grc: κρατήρ (krater)
+  variants: []
+  family: Containers And Storage
+  display_order: 105
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - krater-early-sense-1
+  review_batch: containers-and-storage
+  review_priority: 105
+  family_status: needs_review
+  family_rationale: Bootstrapped into Containers And Storage from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: lekanidion
+  headword_display: λεκανίδιον (lekanidion)
+  headword_grc: λεκανίδιον (lekanidion)
+  variants: []
+  family: Containers And Storage
+  display_order: 106
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - lekanidion-early-sense-1
+  review_batch: containers-and-storage
+  review_priority: 106
+  family_status: needs_review
+  family_rationale: Bootstrapped into Containers And Storage from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: louter
+  headword_display: λουτήρ (louter) / λουτηρίδιον (louteridion)
+  headword_grc: λουτήρ (louter) / λουτηρίδιον (louteridion)
+  variants:
+  - λουτηρίδιον
+  family: Containers And Storage
+  display_order: 107
+  summary_meaning: Based on the provided passages from Dioscorides’ *De materia medica*, a **λουτήρ** (*louter*) and its diminutive **λουτηρίδιον** (*louteridion*) refer to a **broad, shallow basin or tub**.
+  why_it_matters: Based on the provided passages from Dioscorides’ *De materia medica*, a **λουτήρ** (*louter*) and its diminutive **λουτηρίδιον** (*louteridion*) refer to a **broad, shallow basin or tub**.
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - louter-early-sense-1
+  - louter-sense-1
+  - louter-sense-2
+  - louter-sense-3
+  - louter-sense-4
+  review_batch: containers-and-storage
+  review_priority: 107
+  family_status: needs_review
+  family_rationale: Bootstrapped into Containers And Storage from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: myakion
+  headword_display: μυάκιον (myakion)
+  headword_grc: μυάκιον (myakion)
+  variants: []
+  family: Containers And Storage
+  display_order: 108
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - myakion-early-sense-1
+  review_batch: containers-and-storage
+  review_priority: 108
+  family_status: needs_review
+  family_rationale: Bootstrapped into Containers And Storage from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: troullion
+  headword_display: τρουλλίον (troullion)
+  headword_grc: τρουλλίον (troullion)
+  variants: []
+  family: Containers And Storage
+  display_order: 109
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - troullion-early-sense-1
+  review_batch: containers-and-storage
+  review_priority: 109
+  family_status: needs_review
+  family_rationale: Bootstrapped into Containers And Storage from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: double-vessel
+  headword_display: δίπλωμα (diploma)
+  headword_grc: δίπλωμα (diploma)
+  variants: []
+  family: Heat, Soaking, And Controlled Processing
+  display_order: 201
+  summary_meaning: A δίπλωμα (*diploma*) is a doubled heating setup used to warm delicate materials by indirect heat rather than direct flame.
+  why_it_matters: It shows that perfumers and physicians used controlled, water-bath-style heating when waxes or fine aromatics would be damaged by harsher fire.
+  drafting_priority: core
+  safe_claims:
+  - Used for gentle heating rather than open direct contact with the flame.
+  - Appears in recipes for melting wax and warming delicate perfume materials.
+  - Belongs to the same doubled-heating tool family as the explicitly described double vessel.
+  do_not_infer:
+  - Do not infer a single fixed shape from the shorthand term alone.
+  - Do not infer that every use involved identical materials or dimensions.
+  note_ids: []
+  sense_ids:
+  - double-vessel-early-sense-1
+  review_batch: heat-soaking-and-controlled-processing
+  review_priority: 201
+  family_status: confirmed
+  family_rationale: Confirmed in Heat, Soaking, And Controlled Processing because the term names a controlled heating method rather than a storage vessel or filter.
+  editorial_summary_short: A δίπλωμα is the doubled heating arrangement used when delicate oils, waxes, or perfumes must be warmed gently.
+  editorial_summary_long: In the recipes, δίπλωμα is the shorthand term for gentle, indirect heating. It is the setup used to melt wax with rose oil or make an existing perfume merely lukewarm, not to subject aromatics to aggressive boiling. Read alongside the fuller descriptions of the doubled perfumer's vessel, it points to water-bath-style process control. The key point is technical function, not reconstructable shape.
+  editorial_why_it_matters: This is the clearest sign that ancient perfume work distinguished between direct fire and protected, indirect heat.
+  editorial_status: approved
+  editorial_notes: Keep this term tied to heating method and process control; use the fuller doubled-vessel entries for structural detail.
+  auto_summary_detected: false
+  auto_why_detected: false
+- id: xestion-ostrakinon
+  headword_display: ξεστίον ὀστράκινον (xestion ostrakinon)
+  headword_grc: ξεστίον ὀστράκινον (xestion ostrakinon)
+  variants: []
+  family: Heat, Soaking, And Controlled Processing
+  display_order: 202
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - xestion-ostrakinon-early-sense-1
+  review_batch: heat-soaking-and-controlled-processing
+  review_priority: 202
+  family_status: needs_review
+  family_rationale: Bootstrapped into Heat, Soaking, And Controlled Processing from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: kochlias
+  headword_display: κοχλίας (kochlias)
+  headword_grc: κοχλίας (kochlias)
+  variants: []
+  family: Pressing, Straining, And Extraction
+  display_order: 301
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - kochlias-early-sense-1
+  review_batch: pressing-straining-and-extraction
+  review_priority: 301
+  family_status: needs_review
+  family_rationale: Bootstrapped into Pressing, Straining, And Extraction from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: koskinon
+  headword_display: κόσκινον (koskinon)
+  headword_grc: κόσκινον (koskinon)
+  variants: []
+  family: Pressing, Straining, And Extraction
+  display_order: 302
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - koskinon-early-sense-1
+  review_batch: pressing-straining-and-extraction
+  review_priority: 302
+  family_status: needs_review
+  family_rationale: Bootstrapped into Pressing, Straining, And Extraction from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: kyrtis
+  headword_display: κυρτίς (kyrtis)
+  headword_grc: κυρτίς (kyrtis)
+  variants:
+  - κυρτίδιον
+  family: Pressing, Straining, And Extraction
+  display_order: 303
+  summary_meaning: Based on the provided passages, the word **κυρτίς** (*kyrtis*) and its diminutive **κυρτίδιον** (*kyrtidion*) refer to a **woven wicker basket used as a strainer or pressing-filter**.
+  why_it_matters: Based on the provided passages, the word **κυρτίς** (*kyrtis*) and its diminutive **κυρτίδιον** (*kyrtidion*) refer to a **woven wicker basket used as a strainer or pressing-filter**.
+  drafting_priority: core
+  safe_claims:
+  - A κυρτίς is a woven basket used as a pressing filter or strainer.
+  - It appears with floral oils and with seed-oil extraction.
+  - In one passage it works together with a screw-press.
+  do_not_infer:
+  - Do not collapse it into a plain cloth bag.
+  - Do not infer that every basket of this kind was built or used identically.
+  note_ids: []
+  sense_ids:
+  - kyrtis-early-sense-1
+  - kyrtis-early-sense-2
+  - kyrtis-sense-1
+  - kyrtis-sense-2
+  review_batch: pressing-straining-and-extraction
+  review_priority: 303
+  family_status: confirmed
+  family_rationale: Confirmed in Pressing, Straining, And Extraction because the term consistently names the basket that holds material while liquid is expressed.
+  editorial_summary_short: A κυρτίς is the wicker pressing basket through which oil is squeezed and strained.
+  editorial_summary_long: The κυρτίς is not just any basket. In perfume and oil-making passages it is the woven container that holds flowers, seeds, or soaked material while liquid is forced out. One passage explicitly places it on a screw-press, which makes the pressing/filtering function unmistakable. It belongs with extraction tools, not with storage or covering equipment.
+  editorial_why_it_matters: It helps separate the basket that holds material under pressure from the press that applies force and from the cloth that merely covers or breathes.
+  editorial_status: approved
+  editorial_notes: Use this as the main basket/filter term in any pressing post.
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: organon
+  headword_display: ὄργανον (organon)
+  headword_grc: ὄργανον (organon)
+  variants: []
+  family: Pressing, Straining, And Extraction
+  display_order: 304
+  summary_meaning: ὄργανον fundamentally means “tool,” “implement,” or “apparatus.” In the passages relevant to perfumery, pharmacology, and alchemy, it does not mean a bodily organ.
+  why_it_matters: ὄργανον fundamentally means “tool,” “implement,” or “apparatus.” In the passages relevant to perfumery, pharmacology, and alchemy, it does not mean a bodily organ.
+  drafting_priority: core
+  safe_claims:
+  - In the perfume passage, ὄργανον is the device through which bruised myrrh is squeezed.
+  - The term names the apparatus that performs extraction, not the aromatic being processed.
+  - It belongs with pressing and extraction language rather than with cloth-cover or storage terms.
+  do_not_infer:
+  - Do not infer the exact construction of the apparatus from the perfume passage alone.
+  - Do not equate it automatically with a cloth, basket, or bag.
+  - Do not claim that it was certainly a screw-press.
+  note_ids: []
+  sense_ids:
+  - organon-early-sense-1
+  - organon-sense-1
+  review_batch: pressing-straining-and-extraction
+  review_priority: 304
+  family_status: confirmed
+  family_rationale: Confirmed in Pressing, Straining, And Extraction because the term refers to the force-applying apparatus by which stacte is expressed.
+  editorial_summary_short: In the perfume passage, ὄργανον is the unnamed extraction apparatus through which bruised myrrh is pressed.
+  editorial_summary_long: Ὄργανον is too general to identify a precise machine, but in the stacte passage it is clearly not just “tool” in the abstract. It is the apparatus through which the prepared myrrh is squeezed. That makes it best read as a constructed pressing device of some kind, not as the cloth or basket that merely receives material. Supporting technical parallels may sharpen that distinction, but the safe claim is still functional rather than reconstructive.
+  editorial_why_it_matters: This term marks the device that applies extraction pressure, which is exactly the distinction needed to separate press, basket, and cloth in WP7.
+  editorial_status: approved
+  editorial_notes: 'Keep the wording cautious: apparatus or press is safer than naming a specific machine.'
+  auto_summary_detected: true
+  auto_why_detected: false
+- id: psiathos-araia
+  headword_display: ψίαθος ἀραιά (psiathos araia)
+  headword_grc: ψίαθος ἀραιά (psiathos araia)
+  variants: []
+  family: Covers, Seals, Insulation, And Handling
+  display_order: 507
+  summary_meaning: Ψίαθος ἀραιά is a loose woven mat used as a porous cover or barrier rather than a sealing lid.
+  why_it_matters: It helps distinguish breathable coverings from true seals, which matters for explaining how oils were protected without being suffocated.
+  drafting_priority: core
+  safe_claims:
+  - Used as a porous barrier or cover.
+  - Allows vapor or aroma to move while keeping solids apart.
+  do_not_infer:
+  - Do not treat it as a press.
+  - Do not treat it as a hermetic seal.
+  note_ids: []
+  sense_ids:
+  - psiathos-araia-early-sense-1
+  review_batch: covers-seals-insulation-and-handling
+  review_priority: 305
+  family_status: reassigned
+  family_rationale: Reassigned to Covers, Seals, Insulation, And Handling by function because it acts as a breathable barrier, not an extraction device.
+  editorial_summary_short: Ψίαθος ἀραιά is the loose mat used to cover or separate material without sealing it tight.
+  editorial_summary_long: This term belongs with coverings, not with presses. The mat is porous enough to let vapor or essence move while still keeping the material physically in place. That makes it useful for explaining the difference between breathable covers, filter baskets, and true lute-seals. Its technical value lies in controlled exposure, not force.
+  editorial_why_it_matters: WP7 needs this term because ancient perfume work often protected mixtures with porous covers rather than airtight closures.
+  editorial_status: approved
+  editorial_notes: Move with other cover/seal terms on regeneration.
+  auto_summary_detected: false
+  auto_why_detected: false
+- id: ripos-ek-kalamoy
+  headword_display: ῥῖπος ἐκ καλάμου (ripos ek kalamou)
+  headword_grc: ῥῖπος ἐκ καλάμου (ripos ek kalamou)
+  variants: []
+  family: Pressing, Straining, And Extraction
+  display_order: 306
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - ripos-ek-kalamoy-early-sense-1
+  review_batch: pressing-straining-and-extraction
+  review_priority: 306
+  family_status: needs_review
+  family_rationale: Bootstrapped into Pressing, Straining, And Extraction from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: holmos
+  headword_display: ὅλμος (holmos)
+  headword_grc: ὅλμος (holmos)
+  variants: []
+  family: Grinding, Stirring, And Mixing
+  display_order: 401
+  summary_meaning: Based on the provided passages, the word **ὅλμος** (*holmos*) refers to a heavy mortar, normally used with a pestle for working ingredients, but in one medical passage also serving as a practical support.
+  why_it_matters: Based on the provided passages, the word **ὅλμος** (*holmos*) refers to a heavy mortar, normally used with a pestle for working ingredients, but in one medical passage also serving as a practical support.
+  drafting_priority: core
+  safe_claims:
+  - A ὅλμος is a heavy mortar used to work ingredients together.
+  - In perfume recipes it is used to grind or incorporate aromatics like myrrh.
+  do_not_infer:
+  - Do not generalize from the Hippocratic support-use to the perfume-core sense.
+  - Do not confuse it with the pestle or spatula.
+  note_ids: []
+  sense_ids:
+  - holmos-early-sense-1
+  - holmos-sense-1
+  - holmos-sense-2
+  - holmos-sense-3
+  review_batch: grinding-stirring-and-mixing
+  review_priority: 401
+  family_status: confirmed
+  family_rationale: Confirmed in Grinding, Stirring, And Mixing because the perfume passage clearly uses it as the vessel for working aromatics.
+  editorial_summary_short: A ὅλμος is the heavy mortar in which aromatics are chopped, ground, and worked into the mixture.
+  editorial_summary_long: In perfume-making, the ὅλμος is the solid working mortar rather than a storage bowl. It is where the material is actively processed, especially when resins or powdered aromatics need to be incorporated properly. The corpus also preserves non-perfume uses, but those should not obscure the main technical sense. For WP7 it anchors the grinding side of the workshop.
+  editorial_why_it_matters: This is the clearest mortar term in the perfume corpus and gives the workshop a real working surface, not just vessels and filters.
+  editorial_status: approved
+  editorial_notes: Keep the occupational/technical sense foregrounded.
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: spathe
+  headword_display: σπάθη φοινικίνη (spathe phoinikine)
+  headword_grc: σπάθη φοινικίνη (spathe phoinikine)
+  variants: []
+  family: Grinding, Stirring, And Mixing
+  display_order: 402
+  summary_meaning: In the workshop passages, σπάθη is the perfumer's spatula or paddle used to keep oils and aromatics moving as they cool or steep.
+  why_it_matters: 'It gives WP7 an active workshop action: the perfumer is stirring, wiping, and managing the batch instead of leaving it unattended.'
+  drafting_priority: core
+  safe_claims:
+  - In the recipe passages, σπάθη is a stirring tool or paddle.
+  - It can be specified as palm-wood in technical perfumery contexts.
+  - The tool is used repeatedly during cooling, steeping, and controlled mixing.
+  do_not_infer:
+  - Do not collapse every occurrence of σπάθη into the tool sense; some passages refer to palm spathe as a material.
+  - Do not infer a precise modern implement beyond paddle or spatula function.
+  note_ids: []
+  sense_ids:
+  - spathe-early-sense-1
+  - spathe-early-sense-2
+  - spathe-sense-1
+  review_batch: grinding-stirring-and-mixing
+  review_priority: 402
+  family_status: confirmed
+  family_rationale: Confirmed in Grinding, Stirring, And Mixing because the perfume-core passages use it as a stirring implement, while the lexical ambiguity can be handled in the long summary.
+  editorial_summary_short: In the workshop passages, σπάθη is the perfumer's spatula or paddle used to keep oils and aromatics moving as they cool or steep.
+  editorial_summary_long: 'The word σπάθη is tricky because some texts use it for a palm spathe as a material, while recipe passages clearly use it for the stirring tool. WP7 should stay with the operational sense: a paddle or spatula, sometimes specified as palm-wood, used to move the batch continuously and keep it from souring or scorching. That ambiguity matters because it shows how easy it is to overread a single Greek tool word.'
+  editorial_why_it_matters: 'It gives WP7 an active workshop action: the perfumer is stirring, wiping, and managing the batch instead of leaving it unattended.'
+  editorial_status: approved
+  editorial_notes: Keep the lexical ambiguity explicit, but draft from the tool passages.
+  auto_summary_detected: false
+  auto_why_detected: false
+- id: thyia-igdion
+  headword_display: θυία (thyia) & ἰγδίον (igdion)
+  headword_grc: θυία (thyia) & ἰγδίον (igdion)
+  variants:
+  - ἰγδίον
+  family: Grinding, Stirring, And Mixing
+  display_order: 403
+  summary_meaning: Θυία and ἰγδίον are grinding vessels, a mortar and a smaller mortar used to break down aromatics and work them into wine, oil, or wax.
+  why_it_matters: They show that perfumery needed more than heat and vessels; aromatics had to be crushed, wetted, and incorporated at different scales before the batch moved on.
+  drafting_priority: core
+  safe_claims:
+  - Θυία is a mortar-like grinding vessel.
+  - ἰγδίον is a smaller mortar used for trituration with liquids like wine.
+  - The pair belongs to ingredient preparation and incorporation rather than to storage.
+  do_not_infer:
+  - Do not collapse them into the spatula or stirring-tool family.
+  - Do not infer a single standard size or material from the grouped entry alone.
+  note_ids: []
+  sense_ids:
+  - thyia-igdion-early-sense-1
+  review_batch: grinding-stirring-and-mixing
+  review_priority: 403
+  family_status: confirmed
+  family_rationale: Confirmed in Grinding, Stirring, And Mixing because the perfume-core passages use it as the tool that keeps the mixture moving.
+  editorial_summary_short: Θυία and ἰγδίον are the grinding vessels in which perfumers break down aromatics before they ever reach the heated vessel.
+  editorial_summary_long: 'The grouped entry keeps two related grinding terms together: θυία as a mortar-like bowl and ἰγδίον as a smaller mortar for trituration with wine or other liquids. Their value for WP7 is procedural. They show that perfume work includes a preparation phase of pounding, wetting, and incorporating ingredients before any pressing or gentle heating begins.'
+  editorial_why_it_matters: They show that perfumery needed more than heat and vessels; aromatics had to be crushed, wetted, and incorporated at different scales before the batch moved on.
+  editorial_status: approved
+  editorial_notes: Keep them as grinding tools, not stirring tools.
+  auto_summary_detected: false
+  auto_why_detected: false
+- id: derma
+  headword_display: δέρμα (derma)
+  headword_grc: δέρμα (derma)
+  variants: []
+  family: Covers, Seals, Insulation, And Handling
+  display_order: 501
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - derma-early-sense-1
+  review_batch: covers-seals-insulation-and-handling
+  review_priority: 501
+  family_status: needs_review
+  family_rationale: Bootstrapped into Covers, Seals, Insulation, And Handling from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: othonion
+  headword_display: ὀθόνιον / ὀθόνη ἀραιά (othonion / othone araia)
+  headword_grc: ὀθόνιον / ὀθόνη ἀραιά (othonion / othone araia)
+  variants:
+  - ὀθόνη ἀραιά
+  family: Covers, Seals, Insulation, And Handling
+  display_order: 502
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims:
+  - A loose cloth can cover the mouth of the jar while still allowing the oil to breathe.
+  - It is used to prevent rot during sun-steeping.
+  do_not_infer:
+  - Do not treat it as a hermetic seal.
+  - Do not confuse it with the pressing basket or extraction apparatus.
+  note_ids: []
+  sense_ids:
+  - othonion-early-sense-1
+  review_batch: covers-seals-insulation-and-handling
+  review_priority: 502
+  family_status: confirmed
+  family_rationale: Confirmed in Covers, Seals, Insulation, And Handling because the cloth controls airflow at the jar mouth rather than extracting liquid.
+  editorial_summary_short: Ὀθόνιον is the loose cloth cover that lets oil breathe while keeping the jar protected.
+  editorial_summary_long: This is not the cloth that squeezes material, but the cloth that regulates the container. In the perfume passage it covers the jar mouth loosely enough for the oil to vent and avoid spoilage. That makes it a handling/control term rather than an extraction tool. It is essential for separating breathable covers from true seals.
+  editorial_why_it_matters: WP7 needs this term because ancient perfume-making depended on controlled exposure, not just airtight closure.
+  editorial_status: approved
+  editorial_notes: Pair with ψίαθος and πηλός when explaining the difference between cover, wrapping, and seal.
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: pelos
+  headword_display: πηλός (pelos)
+  headword_grc: πηλός (pelos)
+  variants: []
+  family: Covers, Seals, Insulation, And Handling
+  display_order: 503
+  summary_meaning: Πηλός in the tools corpus is sealing clay used to lute a vessel joint all the way around.
+  why_it_matters: 'It marks the difference between a breathable cover and a true seal: some operations required the vessel to be shut tight enough to capture vapor.'
+  drafting_priority: core
+  safe_claims:
+  - Used as clay sealant around a vessel.
+  - Creates a tight closure in a distillation or fumigation setup.
+  do_not_infer:
+  - Do not generalize every mention of clay into technical lute-seal use.
+  - Do not use this alone to reconstruct the whole apparatus.
+  note_ids: []
+  sense_ids:
+  - pelos-early-sense-1
+  review_batch: covers-seals-insulation-and-handling
+  review_priority: 503
+  family_status: confirmed
+  family_rationale: Confirmed in Covers, Seals, Insulation, And Handling because the term's technical role here is sealing the vessel, not storing or heating by itself.
+  editorial_summary_short: Πηλός is the clay lute used to seal a vessel or vessel-joint tightly all the way around.
+  editorial_summary_long: This entry gives the corpus its clearest airtight seal. Where loose cloths and mats let the mixture breathe, πηλός closes the apparatus and keeps vapor inside. That is why it belongs beside cover and handling terms, even though it appears in a heating setup. Its role is closure, not fire.
+  editorial_why_it_matters: 'It lets WP7 explain that ancient perfume work used more than one closure regime: breathable cloth, tied lid, and clay-sealed apparatus.'
+  editorial_status: approved
+  editorial_notes: Use for the seal distinction, not for generic mud or pottery claims.
+  auto_summary_detected: false
+  auto_why_detected: false
+- id: phrear
+  headword_display: φρέαρ (phrear)
+  headword_grc: φρέαρ (phrear)
+  variants: []
+  family: Covers, Seals, Insulation, And Handling
+  display_order: 504
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - phrear-early-sense-1
+  review_batch: covers-seals-insulation-and-handling
+  review_priority: 504
+  family_status: needs_review
+  family_rationale: Bootstrapped into Covers, Seals, Insulation, And Handling from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: sanis
+  headword_display: σανίς (sanis)
+  headword_grc: σανίς (sanis)
+  variants: []
+  family: Covers, Seals, Insulation, And Handling
+  display_order: 505
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - sanis-early-sense-1
+  review_batch: covers-seals-insulation-and-handling
+  review_priority: 505
+  family_status: needs_review
+  family_rationale: Bootstrapped into Covers, Seals, Insulation, And Handling from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: sindon
+  headword_display: σινδών (sindon)
+  headword_grc: σινδών (sindon)
+  variants: []
+  family: Covers, Seals, Insulation, And Handling
+  display_order: 506
+  summary_meaning: Σινδών is the clean fine linen on which petals are laid out to cool or wilt before infusion.
+  why_it_matters: It shows that textile handling in perfume work was not only about sealing or filtering; it also structured pre-processing and ingredient care.
+  drafting_priority: core
+  safe_claims:
+  - Used as a clean surface for flowers or petals.
+  - Belongs to preparation and handling rather than pressing.
+  do_not_infer:
+  - Do not confuse it with a strainer or cover over the vessel mouth.
+  - Do not treat every fine linen mention as perfume-specific.
+  note_ids: []
+  sense_ids:
+  - sindon-early-sense-1
+  review_batch: covers-seals-insulation-and-handling
+  review_priority: 506
+  family_status: confirmed
+  family_rationale: Confirmed in Covers, Seals, Insulation, And Handling because its perfume use is preparatory handling of flowers on a clean textile.
+  editorial_summary_short: Σινδών is the clean linen used to lay out petals in the shade before they enter the oil.
+  editorial_summary_long: This is a handling textile, not a press or a seal. The passage shows flowers being cooled or wilted on clean linen before infusion, which means textiles were part of ingredient preparation as well as vessel management. It belongs in the workshop story because it captures an early stage of care and cleanliness. That makes the tools corpus less vessel-heavy and more process-aware.
+  editorial_why_it_matters: It is one of the terms that lets WP7 show how fragile aromatics were managed before they ever touched the jar or basin.
+  editorial_status: approved
+  editorial_notes: Useful for distinguishing pre-processing cloth from breathable jar covers.
+  auto_summary_detected: false
+  auto_why_detected: false
+- id: belone-spartion
+  headword_display: βελώνη (belone) & σπάρτιον (spartion)
+  headword_grc: βελώνη (belone) & σπάρτιον (spartion)
+  variants:
+  - σπάρτιον
+  family: Application And Use
+  display_order: 601
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - belone-spartion-early-sense-1
+  review_batch: application-and-use
+  review_priority: 601
+  family_status: needs_review
+  family_rationale: Bootstrapped into Application And Use from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: krokis
+  headword_display: κροκίς (krokis)
+  headword_grc: κροκίς (krokis)
+  variants: []
+  family: Application And Use
+  display_order: 602
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - krokis-early-sense-1
+  review_batch: application-and-use
+  review_priority: 602
+  family_status: needs_review
+  family_rationale: Bootstrapped into Application And Use from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: ptygma-eriou
+  headword_display: πτύγμα ἐρίου (ptygma eriou)
+  headword_grc: πτύγμα ἐρίου (ptygma eriou)
+  variants: []
+  family: Application And Use
+  display_order: 603
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - ptygma-eriou-early-sense-1
+  review_batch: application-and-use
+  review_priority: 603
+  family_status: needs_review
+  family_rationale: Bootstrapped into Application And Use from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: spongos
+  headword_display: σπόγγος (spongos)
+  headword_grc: σπόγγος (spongos)
+  variants: []
+  family: Application And Use
+  display_order: 604
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: core
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - spongos-early-sense-1
+  review_batch: application-and-use
+  review_priority: 604
+  family_status: needs_review
+  family_rationale: Bootstrapped into Application And Use from the current overview/source structure; review against linked senses and citations.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: chalkos
+  headword_display: χαλκός
+  headword_grc: χαλκός
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 801
+  summary_meaning: Based on the provided passages, the word **χαλκός** (*chalkos*) and its related forms (such as *chalkeos*, *chalkous*, *chalkoma*) broadly refer to **copper or bronze**.
+  why_it_matters: Based on the provided passages, the word **χαλκός** (*chalkos*) and its related forms (such as *chalkeos*, *chalkous*, *chalkoma*) broadly refer to **copper or bronze**.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - chalkos-early-sense-1
+  - chalkos-sense-1
+  - chalkos-sense-2
+  - chalkos-sense-3
+  - chalkos-sense-4
+  review_batch: appendix-and-semantic-control
+  review_priority: 801
+  family_status: needs_review
+  family_rationale: Defaulted to appendix until a perfume-first editorial placement is confirmed.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: tin-lined-vessels
+  headword_display: Tin-lined and related perfumer's vessels
+  headword_grc: Tin-lined and related perfumer's vessels
+  variants: []
+  family: Heat, Soaking, And Controlled Processing
+  display_order: 203
+  summary_meaning: 'The passages treat three things separately: the vessel’s technical affiliation (*myrepsikon*), its construction as a double vessel (*diploûn*, *diplōma*), and its material or lining (*kassiterinon*, *geganōmenon tō kassiterō*).'
+  why_it_matters: 'The passages treat three things separately: the vessel’s technical affiliation (*myrepsikon*), its construction as a double vessel (*diploûn*, *diplōma*), and its material or lining (*kassiterinon*, *geganōmenon tō kassiterō*).'
+  drafting_priority: core
+  safe_claims:
+  - Some perfume recipes specify tin or tin-lined perfumer's vessels.
+  - The same recipe sequences also involve stoppering, covering, binding, soaking, stirring, and later indirect heating.
+  - The vessel is part of a process chain, not just passive storage.
+  do_not_infer:
+  - Do not infer that all perfumer's vessels were tin or tin-lined.
+  - Do not collapse material, craft label, and double construction into one single feature.
+  - Do not infer one universal vessel shape from these recipes.
+  note_ids: []
+  sense_ids:
+  - tin-lined-vessels-sense-1
+  - tin-lined-vessels-sense-2
+  - tin-lined-vessels-sense-3
+  - tin-lined-vessels-sense-4
+  - tin-lined-vessels-sense-5
+  - tin-lined-vessels-sense-6
+  - tin-lined-vessels-sense-7
+  - tin-lined-vessels-sense-8
+  - tin-lined-vessels-sense-9
+  - tin-lined-vessels-sense-10
+  - tin-lined-vessels-sense-11
+  - tin-lined-vessels-sense-12
+  - tin-lined-vessels-sense-13
+  - tin-lined-vessels-sense-14
+  review_batch: heat-soaking-and-controlled-processing
+  review_priority: 801
+  family_status: reassigned
+  family_rationale: Reassigned out of appendix because these passages are central evidence for how perfume batches were soaked, sealed, stirred, and heated in working vessels.
+  editorial_summary_short: 'The tin-lined vessel passages show the perfumer''s vessel as a managed process tool: stopped, covered, bound, stirred, and later heated indirectly.'
+  editorial_summary_long: These long Aëtius and Galen passages are the best evidence that the perfumer's vessel is not just a container. They specify material treatment in some cases, repeated stoppering and covering, long soaking periods, careful stirring with a perfumer's spatula, and later boilings in the doubled-heating setup. The texts distinguish material, craft affiliation, and heating arrangement, which is exactly why they were confusing in the appendix. For WP7, this cluster is the backbone of the vessel post.
+  editorial_why_it_matters: This is the clearest recipe evidence that ancient perfume work used a repeatable vessel workflow rather than a single anonymous pot.
+  editorial_status: approved
+  editorial_notes: Keep this cluster tied to workflow and vessel management; use the doubled-vessel term for structural definition.
+  auto_summary_detected: true
+  auto_why_detected: false
+- id: lenos
+  headword_display: ληνός
+  headword_grc: ληνός
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 802
+  summary_meaning: Based on the provided passages, the word **ληνός** (*lenos*) fundamentally refers to a **vat, trough, or press** used to hold or squeeze liquids.
+  why_it_matters: Based on the provided passages, the word **ληνός** (*lenos*) fundamentally refers to a **vat, trough, or press** used to hold or squeeze liquids.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - lenos-early-sense-1
+  - lenos-sense-1
+  - lenos-sense-2
+  - lenos-sense-3
+  - lenos-sense-4
+  - lenos-sense-5
+  review_batch: appendix-and-semantic-control
+  review_priority: 802
+  family_status: needs_review
+  family_rationale: Defaulted to appendix until a perfume-first editorial placement is confirmed.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: sphyris
+  headword_display: σφυρίς
+  headword_grc: σφυρίς
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 803
+  summary_meaning: Based on the provided passages, the word **σφυρίς** (*sphyris* / *spyris*) refers fundamentally to a **basket**, typically made of woven wicker, reeds, or similar flexible materials.
+  why_it_matters: Based on the provided passages, the word **σφυρίς** (*sphyris* / *spyris*) refers fundamentally to a **basket**, typically made of woven wicker, reeds, or similar flexible materials.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - sphyris-early-sense-1
+  - sphyris-sense-1
+  - sphyris-sense-2
+  - sphyris-sense-3
+  review_batch: appendix-and-semantic-control
+  review_priority: 803
+  family_status: needs_review
+  family_rationale: Defaulted to appendix until a perfume-first editorial placement is confirmed.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: alabastron
+  headword_display: ἀλάβαστρον
+  headword_grc: ἀλάβαστρον
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 804
+  summary_meaning: '1.'
+  why_it_matters: '1.'
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - alabastron-sense-1
+  review_batch: appendix-and-semantic-control
+  review_priority: 804
+  family_status: needs_review
+  family_rationale: Defaulted to appendix until a perfume-first editorial placement is confirmed.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: diployn-aggeion-myrepsikon
+  headword_display: διπλοῦν ἀγγεῖον μυρεψικόν
+  headword_grc: διπλοῦν ἀγγεῖον μυρεψικόν
+  variants: []
+  family: Heat, Soaking, And Controlled Processing
+  display_order: 204
+  summary_meaning: The term denotes a doubled working vessel in which a smaller container is set inside a larger one and the contents are heated indirectly.
+  why_it_matters: The term denotes a doubled working vessel in which a smaller container is set inside a larger one and the contents are heated indirectly.
+  drafting_priority: core
+  safe_claims:
+  - Denotes a doubled perfumer's vessel.
+  - A smaller vessel can be set into a larger heated one.
+  - Used for soaking and indirect heating in technical perfume or medical recipes.
+  do_not_infer:
+  - Do not infer the exact material or exterior shape from the phrase alone.
+  - Do not assume every doubled vessel was tin-lined.
+  note_ids: []
+  sense_ids:
+  - diployn-aggeion-myrepsikon-sense-1
+  - diployn-aggeion-myrepsikon-sense-2
+  - diployn-aggeion-myrepsikon-sense-3
+  - diployn-aggeion-myrepsikon-sense-4
+  - diployn-aggeion-myrepsikon-sense-5
+  review_batch: heat-soaking-and-controlled-processing
+  review_priority: 805
+  family_status: reassigned
+  family_rationale: Reassigned out of appendix because the phrase is core structural evidence for the doubled perfumer's vessel used in heating and soaking.
+  editorial_summary_short: Διπλοῦν ἀγγεῖον μυρεψικόν is the explicit phrase for the doubled perfumer's vessel in which materials are soaked or warmed indirectly.
+  editorial_summary_long: This is the fullest structural label for the apparatus that the shorthand δίπλωμα only names elliptically. The texts make clear that it is a doubled vessel associated with the perfumer's craft and with indirect heating. In practice it is used for maceration, warming, and careful boilings that protect delicate materials. It is the safest entry point for describing the apparatus without pretending we can draw it.
+  editorial_why_it_matters: This term gives WP7 the strongest language for the apparatus itself, not just the operation performed in it.
+  editorial_status: approved
+  editorial_notes: Use this for the structural definition; keep exact-form reconstruction out of the copy.
+  auto_summary_detected: true
+  auto_why_detected: false
+- id: igdion
+  headword_display: ἴγδις / ἰγδίον
+  headword_grc: ἴγδις / ἰγδίον
+  variants:
+  - ἰγδίον
+  family: Appendix And Semantic Control
+  display_order: 806
+  summary_meaning: '1.'
+  why_it_matters: '1.'
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - igdion-sense-1
+  review_batch: appendix-and-semantic-control
+  review_priority: 806
+  family_status: needs_review
+  family_rationale: Defaulted to appendix until a perfume-first editorial placement is confirmed.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: lekythos
+  headword_display: λήκυθος / ληκύθιον
+  headword_grc: λήκυθος / ληκύθιον
+  variants:
+  - ληκύθιον
+  family: Appendix And Semantic Control
+  display_order: 807
+  summary_meaning: '**1.'
+  why_it_matters: '**1.'
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - lekythos-sense-1
+  - lekythos-sense-2
+  - lekythos-sense-3
+  - lekythos-sense-4
+  - lekythos-sense-5
+  review_batch: appendix-and-semantic-control
+  review_priority: 807
+  family_status: needs_review
+  family_rationale: Defaulted to appendix until a perfume-first editorial placement is confirmed.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: loyter
+  headword_display: λουτήρ
+  headword_grc: λουτήρ
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 808
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids: []
+  review_batch: appendix-and-semantic-control
+  review_priority: 808
+  family_status: needs_review
+  family_rationale: Defaulted to appendix until a perfume-first editorial placement is confirmed.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: myrepsike
+  headword_display: μυρεψική
+  headword_grc: μυρεψική
+  variants: []
+  family: Trade, Shops, And Perfume Professions
+  display_order: 701
+  summary_meaning: Based on the provided passages, the word **μυρεψική** (*myrepsikē*) refers to the craft or art of perfume-making.
+  why_it_matters: Based on the provided passages, the word **μυρεψική** (*myrepsikē*) refers to the craft or art of perfume-making.
+  drafting_priority: core
+  safe_claims:
+  - Names the craft or trade of perfume-making.
+  - Can describe a profession one sets up and finances.
+  do_not_infer:
+  - Do not treat it as a shop-building term by itself.
+  - Do not collapse the craft into retail alone.
+  note_ids: []
+  sense_ids:
+  - myrepsike-sense-1
+  - myrepsike-sense-2
+  review_batch: trade-shops-and-perfume-professions
+  review_priority: 809
+  family_status: reassigned
+  family_rationale: Reassigned because the term directly names perfumery as a profession and belongs in the trade/shop cluster.
+  editorial_summary_short: Μυρεψική is perfumery understood as a craft or trade, not just a vague art of nice smells.
+  editorial_summary_long: The important point here is economic and occupational. Athenaeus preserves the term in a context where someone is setting up the craft and needs capital, which means μυρεψική is something one can finance, organize, and pursue as a profession. That makes it a foundational shop term, even though it names the craft rather than the room. It belongs at the center of the trade vocabulary.
+  editorial_why_it_matters: WP7 needs a term for the craft itself if the workshop post is going to describe an actual trade rather than a generic room of vessels.
+  editorial_status: approved
+  editorial_notes: Use as the abstract craft term alongside maker/seller/shop nouns.
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: myrepsos
+  headword_display: μυρεψός
+  headword_grc: μυρεψός
+  variants: []
+  family: Trade, Shops, And Perfume Professions
+  display_order: 702
+  summary_meaning: Based on the provided passages, the word **μυρεψός** (*myrepsos*) refers to a perfumer, that is, a maker or compounder of perfumes.
+  why_it_matters: Based on the provided passages, the word **μυρεψός** (*myrepsos*) refers to a perfumer, that is, a maker or compounder of perfumes.
+  drafting_priority: core
+  safe_claims:
+  - A μυρεψός is a perfumer or compounder of perfumes.
+  - The term can be distinguished from the perfume-seller.
+  do_not_infer:
+  - Do not equate the term automatically with a retailer.
+  - Do not infer a single legal or social status from all occurrences.
+  note_ids: []
+  sense_ids:
+  - myrepsos-sense-1
+  - myrepsos-sense-2
+  - myrepsos-sense-3
+  review_batch: trade-shops-and-perfume-professions
+  review_priority: 810
+  family_status: reassigned
+  family_rationale: Reassigned because the term names the working perfumer as an occupational figure in the marketplace and craft vocabulary.
+  editorial_summary_short: Μυρεψός is the perfumer as maker and compounder, not simply the man behind the counter.
+  editorial_summary_long: The occupational lists are useful because they distinguish μυρεψός from μυροπώλης. That separation suggests manufacture or compounding rather than simple resale. Other passages place the perfumer among urban artisans and shopkeepers, which keeps the term grounded in the social world of work. For WP7 it is the maker-side noun the workshop post needs.
+  editorial_why_it_matters: This is one of the clearest ways the corpus distinguishes the perfumer from the perfume-seller.
+  editorial_status: approved
+  editorial_notes: Pair with μυροπώλης in any maker-vs-seller contrast.
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: myropoios
+  headword_display: μυροποιός
+  headword_grc: μυροποιός
+  variants: []
+  family: Trade, Shops, And Perfume Professions
+  display_order: 703
+  summary_meaning: Based on the provided passages, the word **μυροποιός** (*myropoios*) refers to a maker of perfumes.
+  why_it_matters: Based on the provided passages, the word **μυροποιός** (*myropoios*) refers to a maker of perfumes.
+  drafting_priority: core
+  safe_claims:
+  - Means maker of perfumes.
+  - Serves as an alternate designation for the perfumer.
+  do_not_infer:
+  - Do not treat it as a distinct technical office unless a passage makes that explicit.
+  note_ids: []
+  sense_ids:
+  - myropoios-sense-1
+  - myropoios-sense-2
+  review_batch: trade-shops-and-perfume-professions
+  review_priority: 811
+  family_status: reassigned
+  family_rationale: Reassigned because this is plainly another occupational term for the perfume-maker.
+  editorial_summary_short: Μυροποιός is another name for the maker of perfumes.
+  editorial_summary_long: This term is lexically valuable more than narratively dramatic. Pollux preserves it as an alternate label alongside μυρεψός, which is enough to show that the maker-side vocabulary had variants. That helps the workshop/shop cluster avoid over-reading one noun as the only valid profession word. It is supporting trade vocabulary rather than a headline post on its own.
+  editorial_why_it_matters: It confirms that the corpus distinguishes maker-language from seller-language in more than one way.
+  editorial_status: approved
+  editorial_notes: Supporting trade vocabulary; not a standalone carousel anchor unless needed.
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: myropolein
+  headword_display: μυροπωλεῖν
+  headword_grc: μυροπωλεῖν
+  variants: []
+  family: Trade, Shops, And Perfume Professions
+  display_order: 704
+  summary_meaning: Based on the provided passages, the verb **μυροπωλεῖν** (*myropōlein*) means “to sell perfumes” or “to carry on the perfume trade.” In these texts it appears both as the simple designation of the activity and as a socially or legally marked occupation, especially for men.
+  why_it_matters: Based on the provided passages, the verb **μυροπωλεῖν** (*myropōlein*) means “to sell perfumes” or “to carry on the perfume trade.” In these texts it appears both as the simple designation of the activity and as a socially or legally marked occupation, especially for men.
+  drafting_priority: core
+  safe_claims:
+  - Means to sell perfumes or carry on the perfume trade.
+  - Can describe ordinary shop activity.
+  - Can also appear in moralizing or legalizing contexts.
+  do_not_infer:
+  - Do not read every occurrence as neutral commercial description.
+  - Do not confuse the verb of selling with the craft of compounding.
+  note_ids: []
+  sense_ids:
+  - myropolein-sense-1
+  - myropolein-sense-2
+  - myropolein-sense-3
+  review_batch: trade-shops-and-perfume-professions
+  review_priority: 812
+  family_status: reassigned
+  family_rationale: Reassigned because this is the core trade verb for perfume selling and belongs with shop vocabulary.
+  editorial_summary_short: Μυροπωλεῖν is the verb for carrying on the perfume trade from the seller's side.
+  editorial_summary_long: This verb lets the corpus describe perfume retail as an actual urban occupation. Some passages treat it as ordinary shop behavior, while others mark it as morally suspect or legally restricted. That mix is useful because it shows that the perfume trade had both economic normality and social charge. The verb belongs in the workshop/shop cluster, not in appendix cleanup.
+  editorial_why_it_matters: It gives WP7 the action word for the trade itself and helps distinguish making perfume from selling it.
+  editorial_status: approved
+  editorial_notes: Good support term for a shop-centered carousel, not a main tool term.
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: myropoleion
+  headword_display: μυροπωλεῖον
+  headword_grc: μυροπωλεῖον
+  variants: []
+  family: Trade, Shops, And Perfume Professions
+  display_order: 705
+  summary_meaning: Based on the provided passages, the word **μυροπωλεῖον** (*myropōleion*) is another noun for a perfume-shop.
+  why_it_matters: Based on the provided passages, the word **μυροπωλεῖον** (*myropōleion*) is another noun for a perfume-shop.
+  drafting_priority: core
+  safe_claims:
+  - Means perfume-shop.
+  - Can denote a literal place of buying and selling perfume.
+  - Can also function as a socially recognizable kind of shop-space.
+  do_not_infer:
+  - Do not treat rhetorical or metaphorical uses as direct architectural evidence.
+  - Do not infer a standard floorplan from the noun alone.
+  note_ids: []
+  sense_ids:
+  - myropoleion-sense-1
+  - myropoleion-sense-2
+  - myropoleion-sense-3
+  review_batch: trade-shops-and-perfume-professions
+  review_priority: 813
+  family_status: reassigned
+  family_rationale: Reassigned because the term directly names the perfume-shop as a social and commercial place.
+  editorial_summary_short: Μυροπωλεῖον is the perfume-shop as a literal place of transaction and social recognition.
+  editorial_summary_long: 'The practical anecdotal passage is simple and valuable: someone goes to the perfume-shop to ask the price of perfume. Other uses show that the term was socially legible enough to serve as shorthand for an ordinary noisy secular shop-space. That is useful for WP7 because it grounds the shop post in real vocabulary rather than modern paraphrase. It gives us the place-word without forcing a detailed reconstruction.'
+  editorial_why_it_matters: This is one of the best nouns for the perfume-shop as a place you could actually go to.
+  editorial_status: approved
+  editorial_notes: Strong candidate for the main shop noun in the workshop/source map.
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: myropoles
+  headword_display: μυροπώλης
+  headword_grc: μυροπώλης
+  variants: []
+  family: Trade, Shops, And Perfume Professions
+  display_order: 706
+  summary_meaning: Based on the provided passages, the word **μυροπώλης** (*myropōlēs*) refers to a man whose trade is the selling of perfumes.
+  why_it_matters: Based on the provided passages, the word **μυροπώλης** (*myropōlēs*) refers to a man whose trade is the selling of perfumes.
+  drafting_priority: core
+  safe_claims:
+  - A μυροπώλης is a perfume-seller.
+  - The term can denote a proprietor or regular commercial operator.
+  - Some passages connect the perfume-seller with storage knowledge and shop location.
+  do_not_infer:
+  - Do not turn every perfume-seller into a maker.
+  - Do not treat one commercial passage as a full workshop description.
+  note_ids: []
+  sense_ids:
+  - myropoles-sense-1
+  - myropoles-sense-2
+  - myropoles-sense-3
+  review_batch: trade-shops-and-perfume-professions
+  review_priority: 814
+  family_status: reassigned
+  family_rationale: Reassigned because the term clearly belongs to the trade/shop vocabulary and helps define the commercial actor.
+  editorial_summary_short: Μυροπώλης is the perfume-seller, often the man who owns or runs the perfume business.
+  editorial_summary_long: The commercial passages make this term especially useful because they show the seller as a real market figure with shop property, stock, and routine presence in the agora. Theophrastus also uses perfume-sellers as technical authorities on storage conditions, which links the trade noun back to workshop practice. That combination makes μυροπώλης more than a generic merchant label. It is the seller-side counterpart to μυρεψός.
+  editorial_why_it_matters: This is the term that ties shop, stock, and technical handling together in one occupational figure.
+  editorial_status: approved
+  editorial_notes: Use with Theophrastus' shade passage for the shop post.
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: myropolion
+  headword_display: μυροπώλιον
+  headword_grc: μυροπώλιον
+  variants: []
+  family: Trade, Shops, And Perfume Professions
+  display_order: 707
+  summary_meaning: Based on the provided passages, the word **μυροπώλιον** (*myropōlion*) refers to a perfume-shop or perfumery establishment.
+  why_it_matters: Based on the provided passages, the word **μυροπώλιον** (*myropōlion*) refers to a perfume-shop or perfumery establishment.
+  drafting_priority: core
+  safe_claims:
+  - Means perfume-shop or perfumery establishment.
+  - Can denote both a place of resort and a business asset.
+  do_not_infer:
+  - Do not over-distinguish it from μυροπωλεῖον unless a passage requires that.
+  - Do not infer architecture from the noun alone.
+  note_ids: []
+  sense_ids:
+  - myropolion-sense-1
+  - myropolion-sense-2
+  - myropolion-sense-3
+  - myropolion-sense-4
+  review_batch: trade-shops-and-perfume-professions
+  review_priority: 815
+  family_status: reassigned
+  family_rationale: Reassigned because this is another direct shop noun and belongs in the trade/place cluster.
+  editorial_summary_short: Μυροπώλιον is another word for the perfume-shop as a place and commercial establishment.
+  editorial_summary_long: Like μυροπωλεῖον, this noun locates perfumery in real urban space. The passages show it both as a place people frequent and as a business holding someone may own. That makes it useful evidence for the social visibility of perfume retail, even if it does not by itself describe the room. It supports the shop post as place-language rather than tool-language.
+  editorial_why_it_matters: It confirms that perfume retail had established place-nouns, not just abstract trade labels.
+  editorial_status: approved
+  editorial_notes: Treat alongside μυροπωλεῖον; do not force a strong distinction.
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: myropolis
+  headword_display: μυρόπωλις
+  headword_grc: μυρόπωλις
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 816
+  summary_meaning: Based on the provided passages, the word **μυρόπωλις** (*myropōlis*) refers to a woman who sells perfumes.
+  why_it_matters: Based on the provided passages, the word **μυρόπωλις** (*myropōlis*) refers to a woman who sells perfumes.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - myropolis-sense-1
+  - myropolis-sense-2
+  - myropolis-sense-3
+  review_batch: appendix-and-semantic-control
+  review_priority: 816
+  family_status: needs_review
+  family_rationale: Defaulted to appendix until a perfume-first editorial placement is confirmed.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: myrotheke
+  headword_display: μυροθήκη
+  headword_grc: μυροθήκη
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 817
+  summary_meaning: Based on the provided passages, the word **μυροθήκη** (*myrothēkē*) refers to a concrete receptacle connected with perfume storage.
+  why_it_matters: Based on the provided passages, the word **μυροθήκη** (*myrothēkē*) refers to a concrete receptacle connected with perfume storage.
+  drafting_priority: appendix
+  safe_claims:
+  - Refers to a concrete receptacle or case connected with perfume storage.
+  - In some glosses it can mean the case that holds alabaster perfume flasks.
+  do_not_infer:
+  - Do not assume it always names the flask itself.
+  - Do not treat the term as a shop noun.
+  note_ids: []
+  sense_ids:
+  - myrotheke-sense-1
+  - myrotheke-sense-2
+  - myrotheke-sense-3
+  review_batch: appendix-and-semantic-control
+  review_priority: 817
+  family_status: confirmed
+  family_rationale: Confirmed in appendix for now because the entry still straddles flask, case, and storage semantics rather than the main workshop toolset.
+  editorial_summary_short: Μυροθήκη is a perfume container term that can point either to a receptacle or to the case that holds perfume flasks.
+  editorial_summary_long: This is a useful storage word, but not yet a clean workshop anchor. The glosses move between the perfume receptacle itself and the case in which alabaster flasks are kept, which means the term still needs semantic caution. It helps with the material culture of perfume storage, but less with the operational tool chain. For now it should stay supportive rather than central to WP7 drafting.
+  editorial_why_it_matters: It is valuable as a storage/accessory term, but it should not be mistaken for direct evidence about workshop layout or pressing technology.
+  editorial_status: approved
+  editorial_notes: Leave in appendix until a stronger non-glossary placement emerges.
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: psiathos
+  headword_display: ψίαθος
+  headword_grc: ψίαθος
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 818
+  summary_meaning: Based on the provided passages from Dioscorides and Oribasius (who quotes him closely), the word **ψίαθος** (*psiathos*) refers to a **woven mat made of rushes, reeds, or similar materials**.
+  why_it_matters: Based on the provided passages from Dioscorides and Oribasius (who quotes him closely), the word **ψίαθος** (*psiathos*) refers to a **woven mat made of rushes, reeds, or similar materials**.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - psiathos-sense-1
+  - psiathos-sense-2
+  - psiathos-sense-3
+  review_batch: appendix-and-semantic-control
+  review_priority: 818
+  family_status: needs_review
+  family_rationale: Defaulted to appendix until a perfume-first editorial placement is confirmed.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: ropopoles
+  headword_display: ῥωποπώλης
+  headword_grc: ῥωποπώλης
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 819
+  summary_meaning: Based on the provided passages, the word **ῥωποπώλης** (*rhōpopōlēs*) is treated in these lexicographical texts as a synonym of **μυροπώλης**.
+  why_it_matters: Based on the provided passages, the word **ῥωποπώλης** (*rhōpopōlēs*) is treated in these lexicographical texts as a synonym of **μυροπώλης**.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - ropopoles-sense-1
+  - ropopoles-sense-2
+  - ropopoles-sense-3
+  review_batch: appendix-and-semantic-control
+  review_priority: 819
+  family_status: needs_review
+  family_rationale: Defaulted to appendix until a perfume-first editorial placement is confirmed.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: thyia
+  headword_display: θυία
+  headword_grc: θυία
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 820
+  summary_meaning: Based on the provided passages, the word **θυία** (*thyia*) refers to a mortar-like bowl or grinding vessel used to reduce substances to a fine or uniform state.
+  why_it_matters: Based on the provided passages, the word **θυία** (*thyia*) refers to a mortar-like bowl or grinding vessel used to reduce substances to a fine or uniform state.
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids:
+  - thyia-sense-1
+  - thyia-sense-2
+  - thyia-sense-3
+  - thyia-sense-4
+  review_batch: appendix-and-semantic-control
+  review_priority: 820
+  family_status: needs_review
+  family_rationale: Defaulted to appendix until a perfume-first editorial placement is confirmed.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true
+- id: tin-lined-and-related-perfumers-vessels
+  headword_display: Tin-lined and related perfumer's vessels
+  headword_grc: Tin-lined and related perfumer's vessels
+  variants: []
+  family: Appendix And Semantic Control
+  display_order: 821
+  summary_meaning: ''
+  why_it_matters: ''
+  drafting_priority: appendix
+  safe_claims: []
+  do_not_infer: []
+  note_ids: []
+  sense_ids: []
+  review_batch: appendix-and-semantic-control
+  review_priority: 821
+  family_status: needs_review
+  family_rationale: Defaulted to appendix until a perfume-first editorial placement is confirmed.
+  editorial_summary_short: ''
+  editorial_summary_long: ''
+  editorial_why_it_matters: ''
+  editorial_status: auto
+  editorial_notes: ''
+  auto_summary_detected: true
+  auto_why_detected: true

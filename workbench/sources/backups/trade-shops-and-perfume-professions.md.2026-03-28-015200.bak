@@ -1,0 +1,10 @@
+# Review Batch: Trade, Shops, And Perfume Professions
+
+Generated from the canonical YAML dataset. Edit the YAML records after reviewing each term.
+
+Workflow for each item:
+1. Read the linked term in `tools-texts.md`.
+2. Check all linked senses and citations.
+3. Confirm or reassign family.
+4. Replace auto summary text with editorial summaries.
+5. Update `editorial_status` and `family_status` in `terms.yaml`.

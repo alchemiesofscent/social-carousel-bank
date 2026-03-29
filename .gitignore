@@ -1,0 +1,5 @@
+carousel-bank/node_modules/
+carousel-bank/dist/
+.venv/
+__pycache__/
+.DS_Store

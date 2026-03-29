@@ -1,0 +1,1873 @@
+- id: aggeion-aggeion-platystomon-early-cit-1
+  term_ids:
+  - aggeion-aggeion-platystomon
+  sense_id: aggeion-aggeion-platystomon-early-sense-1
+  author: ''
+  work: ''
+  reference: 1.43; 1.45
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 1
+  greek: '"...ἄλλαξον τὸ ὑποδεχόμενον ἀγγεῖον..." / "...βάλε εἰς ἀγγεῖον πλατύστομον...".'
+  translation: '"...change the receiving vessel..." / "...put it into a wide-mouthed vessel..."'
+  context_note: Used for receiving, holding, or storing the oils during and after preparation.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-aggeion-aggeion-platystomon
+  reader_anchor: cit-aggeion-aggeion-platystomon-early-cit-1
+- id: alabastron-cit-1
+  term_ids:
+  - alabastron
+  sense_id: alabastron-sense-1
+  author: ''
+  work: ''
+  reference: Theophrastus, *Fragmenta* 4.41.
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: «διὸ καὶ εἰς ἀγγεῖα μολυβδᾶ ἐγχέουσι καὶ τοὺς ἀλαβάστρους ζητοῦσι τοιούτου λίθου· ψυχρὸν γὰρ καὶ πυκνὸν … Ὥστε δι' ἄμφω τηροῦσι, καὶ τῷ ψυχρῷ καὶ τῷ πυκνῷ, μήτε διιέντες ἔξω τὴν ὀσμὴν…»
+  translation: “That is why they pour the perfumes into lead containers and seek alabastra made from such stone; for both lead and such stone are cold and dense … Thus they preserve them by both qualities, coldness and density, not letting the scent escape outward…”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἀλάβαστρον
+  overview_anchor: term-alabastron
+  reader_anchor: cit-alabastron-cit-1
+- id: alabastron-cit-2
+  term_ids:
+  - alabastron
+  sense_id: alabastron-sense-1
+  author: ''
+  work: ''
+  reference: Ctesias, *Fragmenta* 45.47.
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: «ῥέουσι δὲ ἐξ αὐτοῦ ἐλαίου σταγόνες, ἃς ἐρίῳ ἀναψῶντες ἀπὸ τοῦ δένδρου ἀποπιέζουσιν εἰς ἀλαβάστρους λιθίνους.»
+  translation: “Drops of oil flow from it; soaking them up with wool, they squeeze them from the tree into stone alabaster flasks.”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἀλάβαστρον
+  overview_anchor: term-alabastron
+  reader_anchor: cit-alabastron-cit-2
+- id: alabastron-cit-3
+  term_ids:
+  - alabastron
+  sense_id: alabastron-sense-1
+  author: ''
+  work: ''
+  reference: Galen, *De compositione medicamentorum secundum locos*, vol. 12, p. 866, line 13.
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 3
+  greek: «ἄλλο. ♃ ἀλαβάστρου κεκαυμένου … κισσήρεως κεκαυμένου … ἁλὸς πεφρυγμένου … λεάνας ὡσαύτως χρῶ.»
+  translation: '“Another preparation: take burnt alabaster, burnt pumice, and roasted salt; grind them and use them in the same way.”'
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἀλάβαστρον
+  overview_anchor: term-alabastron
+  reader_anchor: cit-alabastron-cit-3
+- id: alabastron-cit-4
+  term_ids:
+  - alabastron
+  sense_id: alabastron-sense-1
+  author: ''
+  work: ''
+  reference: Dioscorides, *De materia medica* 5.135.1.
+  source_class: primary_technical
+  usage_type: recipe
+  family: Appendix And Semantic Control
+  citation_order: 4
+  greek: «λίθος ἀλαβαστρίτης ὁ καλούμενος ὄνυξ … κεκαυμένος ῥητίνῃ ἢ πίσσῃ διαφορεῖ σκληρίας, στομάχου δὲ ἀλγήματα μετὰ κηρωτῆς παρηγορεῖ· στέλλει δὲ καὶ οὖλα.»
+  translation: “The stone called alabastrites, also called onyx, when calcined with resin or pitch disperses hard swellings; with wax salve it soothes pains of the stomach, and it also contracts the gums.”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἀλάβαστρον
+  overview_anchor: term-alabastron
+  reader_anchor: cit-alabastron-cit-4
+- id: alabastron-cit-5
+  term_ids:
+  - alabastron
+  sense_id: alabastron-sense-1
+  author: ''
+  work: ''
+  reference: Dioscorides, *De materia medica* 4.76.1.
+  source_class: primary_technical
+  usage_type: recipe
+  family: Appendix And Semantic Control
+  citation_order: 5
+  greek: «ῥίζα ὁμοία σκορπίου οὐρᾷ, στίλβουσα ἀλαβαστροειδῶς.»
+  translation: “Its root is like a scorpion’s tail, gleaming like alabaster.”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἀλάβαστρον
+  overview_anchor: term-alabastron
+  reader_anchor: cit-alabastron-cit-5
+- id: alabastron-cit-6
+  term_ids:
+  - alabastron
+  sense_id: alabastron-sense-1
+  author: ''
+  work: ''
+  reference: Zosimus, *Ζώσιμος λέγει περὶ τῆς ἀσβέστου*, line 2.
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 6
+  greek: «Γινώσκεται γὰρ ὅτι ὁ λίθος ὁ ἀλαβαστρίτης ἐγκέφαλος κέκληται… Λαβὼν οὖν τὸν ἀλαβάστρινον λίθον, ὄπτα νυχθήμερον καὶ ἔχε ἄσβεστον.»
+  translation: “It is known that the stone called alabastrites is called ‘brain’ … So take the alabastrine stone, fire it for a day and a night, and you will have quicklime.”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἀλάβαστρον
+  overview_anchor: term-alabastron
+  reader_anchor: cit-alabastron-cit-6
+- id: alabastron-cit-7
+  term_ids:
+  - alabastron
+  sense_id: alabastron-sense-1
+  author: ''
+  work: ''
+  reference: '*Fragmenta Alchemica*, *Lexicon alchemicum*, vol. 2, p. 4, line 14.'
+  source_class: supporting_lexical
+  usage_type: alchemy
+  family: Appendix And Semantic Control
+  citation_order: 7
+  greek: «Ἀλάβαστρός ἐστιν ἄσβεστος, ἀπὸ τῶν φλοιῶν τῶν ὠῶν, καὶ ἅλας.»
+  translation: “‘Alabastros’ means quicklime, from eggshells and salt.”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἀλάβαστρον
+  overview_anchor: term-alabastron
+  reader_anchor: cit-alabastron-cit-7
+- id: alabastron-cit-8
+  term_ids:
+  - alabastron
+  sense_id: alabastron-sense-1
+  author: ''
+  work: ''
+  reference: Zosimus, *Περὶ συνθέσεως ὑδάτων πρᾶξις αʹ*, line 101.
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 8
+  greek: «κτίσαι σοι ναὸν μονόλιθον ψιμυθοειδῆ, ἀλαβαστροειδῆ…»
+  translation: “Build for yourself a monolithic temple, white-lead-like, alabaster-like…”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἀλάβαστρον
+  overview_anchor: term-alabastron
+  reader_anchor: cit-alabastron-cit-8
+- id: belone-spartion-early-cit-1
+  term_ids:
+  - belone-spartion
+  sense_id: belone-spartion-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 16.126
+  source_class: primary_technical
+  usage_type: application
+  family: Application And Use
+  citation_order: 1
+  greek: '"...καὶ βελόνῃ διατρήσας καὶ διάρας σπαρτίῳ ἰσχυρῷ ξήραινε, καὶ δίδου φορεῖν περὶ τὸν τράχηλον."'
+  translation: '"...and piercing it with a needle and threading it with a strong cord, dry it, and give it to be worn around the neck."'
+  context_note: Used to pierce small, handmade beads of hardened incense (pastilles) to string them together as a wearable, scented necklace.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-belone-spartion
+  reader_anchor: cit-belone-spartion-early-cit-1
+- id: bikos-cit-1
+  term_ids:
+  - bikos
+  sense_id: bikos-sense-2
+  author: ''
+  work: ''
+  reference: Paulus, *Epitomae medicae libri septem*, 7.20.4
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 1
+  greek: Ῥόδων ἐρυθρῶν ὠνυχισμένων καὶ διεψυγμένων νυχθήμερον <α> 𐆄 <γ>, ἐλαίου ὀμφακίνου ξ̸ Ἰταλικὸν <α>· περισφίγξας ἐπιμελῶς τὸν βῖκον, ὡς μὴ διαπνεῖσθαι, ἡλίου ἐν ὑπαίθρῳ ἐπὶ <μ> ἡμέρας
+  translation: With three ounces of red roses, trimmed and cooled for a day and a night, and one Italian sextarius of omphacine oil, after carefully binding the jar so that it does not vent, keep it in the open air under the sun for forty days.
+  context_note: In perfumery recipes a βῖκος is the jar into which oil and aromatic flowers are put for infusion.
+  raw_source_location: tools-texts-raw.md:## βῖκος
+  overview_anchor: term-bikos
+  reader_anchor: cit-bikos-cit-1
+- id: bikos-early-cit-1
+  term_ids:
+  - bikos
+  sense_id: bikos-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 1.113; Paul 7.21.2
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 1
+  greek: '"...περισφίγγειν χρὴ τὸ στόμα τοῦ βίκου..." / "...σύνθες εἰς βῖκον πλατύστομον..."'
+  translation: '"...it is necessary to bind the mouth of the jar tightly..." / "...put them into a wide-mouthed jar..."'
+  context_note: A standard vessel for steeping oils and flowers in the sun. Paul specifies a "wide-mouthed" (*platystomon*) variant for lily oil.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-bikos
+  reader_anchor: cit-bikos-early-cit-1
+- id: bikos-cit-2
+  term_ids:
+  - bikos
+  sense_id: bikos-sense-3
+  author: ''
+  work: ''
+  reference: Dioscorides, *De materia medica*, 2.78.1
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 2
+  greek: τὰς δὲ εἰς τὰ ὀφθαλμικὰ λίνῳ ἀποδήσας βάλε εἰς βῖκον ὑελοῦν ἔχοντα μέλι, καὶ τὴν ἀρχὴν τοῦ λίνου περιδήσας τῷ στόματι τοῦ βίκου πωμάσας ἀπόθου
+  translation: For the portions meant for eye-medicines, after tying them with linen, put them into a glass jar containing honey; then, after fastening the end of the linen to the mouth of the jar and stoppering it, store it.
+  context_note: In medical recipes βῖκος denotes a glass vessel used to receive and preserve medicinal substances.
+  raw_source_location: tools-texts-raw.md:## βῖκος
+  overview_anchor: term-bikos
+  reader_anchor: cit-bikos-cit-2
+- id: bikos-cit-3
+  term_ids:
+  - bikos
+  sense_id: bikos-sense-4
+  author: ''
+  work: ''
+  reference: Zosimus, *Περὶ τοῦ θείου ὕδατος*, lines 48–49
+  source_class: appendix_context
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 3
+  greek: λαβὼν βῖκον ὑάλινον, χάλασον τὰ ὄντα ἐν τῷ ἄμβικι ἐν αὐτῷ, καὶ πωμάσας τὸν βῖκον ὀστράκῳ γεγανωμένῳ ἰσομέτρῳ τοῦ χείλους τοῦ βίκου, περιφίμου ἀσφαλείᾳ οἵᾳ βούλει … καὶ ἔασον τοῦτο ἐν βολβίτοις καμίνου ἡμέρας μαʹ
+  translation: Taking a glass jar, transfer into it what is in the alembic, and, after stoppering the jar with a sealed potsherd fitted to the rim of the jar and luting it securely as you wish … leave it in the furnace’s dung-fuel for forty-one days.
+  context_note: In alchemical instructions a βῖκος is a glass vessel incorporated into the apparatus itself.
+  raw_source_location: tools-texts-raw.md:## βῖκος
+  overview_anchor: term-bikos
+  reader_anchor: cit-bikos-cit-3
+- id: bikos-cit-4
+  term_ids:
+  - bikos
+  sense_id: bikos-sense-5
+  author: ''
+  work: ''
+  reference: Galen, *De alimentorum facultatibus*, section *Περὶ ἀφάκης καὶ βίκου*
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 4
+  greek: τό γε μὴν ὄνομα τοῦ βίκου παρ' ἡμῖν μὲν πάνυ σύνηθές ἐστι καὶ μόνως οὕτως ὀνομάζεται, παρὰ δὲ τοῖς Ἀττικοῖς ἴσως ἄρακος ἢ λάθυρος ἐκαλεῖτο
+  translation: The name βῖκος is very familiar among us and it is called only by this name; among the Attics, however, it was perhaps called ἄρακος or λάθυρος.
+  context_note: 'In dietetic and veterinary passages βῖκος is not a vessel but a plant product: a pulse or leguminous seed used as food or fodder.'
+  raw_source_location: tools-texts-raw.md:## βῖκος
+  overview_anchor: term-bikos
+  reader_anchor: cit-bikos-cit-4
+- id: chalkos-early-cit-1
+  term_ids:
+  - chalkos
+  sense_id: chalkos-early-sense-1
+  author: ''
+  work: ''
+  reference: 1.55; 1.56
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '"...καθελὼν ἀπήθησον τοῦ χαλκοῦ τὸ ἔλαιον..." / "...βαλὼν εἰς χαλκὸν ἕψε...".'
+  translation: '"...having taken it down, strain the oil from the copper vessel..." / "...putting it into a copper vessel, boil it..."'
+  context_note: A metal cooking pot used for boiling oil with aromatics.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-chalkos
+  reader_anchor: cit-chalkos-early-cit-1
+- id: derma-early-cit-1
+  term_ids:
+  - derma
+  sense_id: derma-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 1.113
+  source_class: primary_technical
+  usage_type: unknown
+  family: Covers, Seals, Insulation, And Handling
+  citation_order: 1
+  greek: '"...ἔσωθεν μὲν ὀθονίῳ, ἔξωθεν δὲ δέρματι διὰ τοὺς γιγνομένους ὄμβρους αἰφνίδιον..."'
+  translation: '"...on the inside with linen, and on the outside with hide because of sudden rainstorms..."'
+  context_note: Tied over the outside of the linen cloth on a jar to waterproof it against sudden rain while sun-steeping outdoors.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-derma
+  reader_anchor: cit-derma-early-cit-1
+- id: diployn-aggeion-myrepsikon-cit-1
+  term_ids:
+  - diployn-aggeion-myrepsikon
+  sense_id: diployn-aggeion-myrepsikon-sense-2
+  author: ''
+  work: ''
+  reference: Galenus, *De compositione medicamentorum per genera* vii, Kühn 13.1028.11.
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: τὰ μὲν ἀρωματικὰ καὶ ξηρὰ κόψαντες εἰς παχέα καὶ βαλόντες εἰς ἄγγος διπλοῦν μυρεψικὸν καὶ τούτοις ἐπιβαλόντες οἶνον, ἐῶμεν βρέχεσθαι ἐπὶ ἡμέρας γʹ.
+  translation: Having cut the aromatics and dry ingredients into coarse pieces and put them into a double perfumer’s vessel, and having poured wine onto them, we leave them to soak for three days.
+  context_note: With *myrepsikon* the phrase marks the apparatus as belonging to the perfumer’s craft.
+  raw_source_location: tools-texts-raw.md:## διπλοῦν ἀγγεῖον μυρεψικόν
+  overview_anchor: term-diployn-aggeion-myrepsikon
+  reader_anchor: cit-diployn-aggeion-myrepsikon-cit-1
+- id: diployn-aggeion-myrepsikon-cit-2
+  term_ids:
+  - diployn-aggeion-myrepsikon
+  sense_id: diployn-aggeion-myrepsikon-sense-3
+  author: ''
+  work: ''
+  reference: Galenus, *De sanitate tuenda* vi, Kühn 6.290.1.
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: καλεῖται δ' οὕτως, ἐπειδὰν προϋποκειμένου λέβητος ὕδωρ ἔχοντος ζέον ἐνιστῆταί τι τούτῳ μικρότερον ἀγγεῖον, εἰς ὃ μέλλει τὸ ἔλαιον ἐγχεῖσθαι.
+  translation: It is so called when, a cauldron containing boiling water having been placed underneath, a smaller vessel is set into it, into which the oil to be heated is to be poured.
+  context_note: When the texts stress construction rather than craft, the apparatus appears simply as ἀγγεῖον διπλοῦν or ἐπ’ ἀγγείου διπλοῦ.
+  raw_source_location: tools-texts-raw.md:## διπλοῦν ἀγγεῖον μυρεψικόν
+  overview_anchor: term-diployn-aggeion-myrepsikon
+  reader_anchor: cit-diployn-aggeion-myrepsikon-cit-2
+- id: diployn-aggeion-myrepsikon-cit-3
+  term_ids:
+  - diployn-aggeion-myrepsikon
+  sense_id: diployn-aggeion-myrepsikon-sense-4
+  author: ''
+  work: ''
+  reference: Galenus, *De compositione medicamentorum secundum locos* x, Kühn 13.37.4.
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 3
+  greek: διὰ διπλώματος ἕψων, ὅπερ ἐστὶν ἐπ' ἀγγείου διπλοῦ.
+  translation: by boiling by means of a *diplōma*, that is, on a double vessel.
+  context_note: The noun *diplōma* is the ordinary shorthand for the same apparatus, and therefore also for the operation carried out in it.
+  raw_source_location: tools-texts-raw.md:## διπλοῦν ἀγγεῖον μυρεψικόν
+  overview_anchor: term-diployn-aggeion-myrepsikon
+  reader_anchor: cit-diployn-aggeion-myrepsikon-cit-3
+- id: diployn-aggeion-myrepsikon-cit-4
+  term_ids:
+  - diployn-aggeion-myrepsikon
+  sense_id: diployn-aggeion-myrepsikon-sense-5
+  author: ''
+  work: ''
+  reference: Aëtius, *Iatricorum liber* xii, ch. 55, ll. 43–44.
+  source_class: appendix_context
+  usage_type: recipe
+  family: Appendix And Semantic Control
+  citation_order: 4
+  greek: τὸ μαλαβάθρινον μύρον, προχλιανθὲν ἐν διπλώματι ἐπὶ θερμοῦ ὕδατος.
+  translation: the malabathrum perfume, having first been made lukewarm in a double vessel over hot water.
+  context_note: The double vessel is preferred when a substance must be softened or gently heated rather than exposed to harsh direct fire.
+  raw_source_location: tools-texts-raw.md:## διπλοῦν ἀγγεῖον μυρεψικόν
+  overview_anchor: term-diployn-aggeion-myrepsikon
+  reader_anchor: cit-diployn-aggeion-myrepsikon-cit-4
+- id: double-vessel-early-cit-1
+  term_ids:
+  - double-vessel
+  sense_id: double-vessel-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 1.113
+  source_class: primary_technical
+  usage_type: unknown
+  family: Heat, Soaking, And Controlled Processing
+  citation_order: 1
+  greek: '"τῆκε τὸν κηρὸν μετ'' ὀλίγου ῥοδίνου ἐπὶ διπλώματος..."'
+  translation: '"Melt the wax with a little rose oil in a double-vessel [water-bath]..."'
+  context_note: A critical piece of pharmacological equipment used to melt wax or boil delicate oils with gentle, indirect heat to prevent scorching.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-double-vessel
+  reader_anchor: cit-double-vessel-early-cit-1
+- id: glass-vessel-early-cit-1
+  term_ids:
+  - glass-vessel
+  sense_id: glass-vessel-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 1.121; Paul 7.20.33
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 1
+  greek: '"...ἐμβάλλειν εἰς ὑάλινον ἀγγεῖον..." / "...κατάγγιζε ἐν βικίοις ὑελοῖς."'
+  translation: '"...put it into a glass vessel..." / "...store them in glass jars."'
+  context_note: Specifically used for the final storage of fine, finished oils to preserve their fragrance and prevent contamination from porous clay.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-glass-vessel
+  reader_anchor: cit-glass-vessel-early-cit-1
+- id: holmos-cit-1
+  term_ids:
+  - holmos
+  sense_id: holmos-sense-2
+  author: ''
+  work: ''
+  reference: Dioscorides, *De materia medica* 1.54.1
+  source_class: primary_technical
+  usage_type: recipe
+  family: Grinding, Stirring, And Mixing
+  citation_order: 1
+  greek: πρόσμειξον σμύρνης κεκομμένης καὶ σεσησμένης δραχμὰς τεσσαράκοντα καὶ κίνει ἐν ὅλμῳ χρησίμως
+  translation: Add forty drachms of myrrh, chopped and sifted, and work it well in a mortar.
+  context_note: In recipe language, **ὅλμος** is the mortar in which substances are chopped, pounded, or thoroughly worked together.
+  raw_source_location: tools-texts-raw.md:## ὅλμος
+  overview_anchor: term-holmos
+  reader_anchor: cit-holmos-cit-1
+- id: holmos-early-cit-1
+  term_ids:
+  - holmos
+  sense_id: holmos-early-sense-1
+  author: ''
+  work: ''
+  reference: '1.54'
+  source_class: primary_technical
+  usage_type: unknown
+  family: Grinding, Stirring, And Mixing
+  citation_order: 1
+  greek: '"...πρόσμειξον σμύρνης... καὶ κίνει ἐν ὅλμῳ χρησίμως..."'
+  translation: '"...mix in myrrh... and stir it usefully in a mortar..."'
+  context_note: Used for grinding and mixing aromatic resins (like myrrh) into the oil.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-holmos
+  reader_anchor: cit-holmos-early-cit-1
+- id: holmos-cit-2
+  term_ids:
+  - holmos
+  sense_id: holmos-sense-3
+  author: ''
+  work: ''
+  reference: Hippocrates, *De haemorrhoidibus* 4
+  source_class: appendix_context
+  usage_type: unknown
+  family: Grinding, Stirring, And Mixing
+  citation_order: 2
+  greek: Καθίσας οὖν τὸν ἄνθρωπον ὀκλὰξ ἐπὶ ὅλμων δύο, σκόπει
+  translation: Then, having seated the man squatting on two mortars, examine him.
+  context_note: In the Hippocratic procedural passage, **ὅλμοι** are the solid objects on which the patient is made to squat.
+  raw_source_location: tools-texts-raw.md:## ὅλμος
+  overview_anchor: term-holmos
+  reader_anchor: cit-holmos-cit-2
+- id: igdion-cit-1
+  term_ids:
+  - igdion
+  sense_id: igdion-sense-1
+  author: ''
+  work: ''
+  reference: Paulus Aegineta, *Epitomae medicae* 3.59.5
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: «Ψιμύθιον οἴνῳ καὶ ῥοδίνῳ ἐν μολυβδίνῳ ἰγδίῳ καὶ μολυβδίνῳ δοίδυκι λειώσας…»
+  translation: “Grind white lead with wine and rose-oil in a lead mortar and with a lead pestle…”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἴγδις / ἰγδίον
+  overview_anchor: term-igdion
+  reader_anchor: cit-igdion-cit-1
+- id: igdion-cit-2
+  term_ids:
+  - igdion
+  sense_id: igdion-sense-1
+  author: ''
+  work: ''
+  reference: Olympiodorus, *De arte sacra*, Berthelot–Ruelle II, p. 76, l. 14
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: «εἶθ’ οὕτως λειοῖς αὐτὸν εἰς θυείαν ἤτοι ἰγδίον καθαρὸν…»
+  translation: “Then grind it in a clean *thyeia*, that is, a clean mortar…”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἴγδις / ἰγδίον
+  overview_anchor: term-igdion
+  reader_anchor: cit-igdion-cit-2
+- id: igdion-cit-3
+  term_ids:
+  - igdion
+  sense_id: igdion-sense-1
+  author: ''
+  work: ''
+  reference: Dioscorides, *De materia medica* 5.89.2
+  source_class: primary_technical
+  usage_type: recipe
+  family: Appendix And Semantic Control
+  citation_order: 3
+  greek: «κόψας αὐτὴν ἔμβαλε εἰς θυίαν καὶ ἐπιχέας ὕδωρ τρῖβε πλατείᾳ τῇ χειρὶ πρὸς τὴν ἴγδιν εὐτόνως…»
+  translation: “Break it up, put it into a mortar, pour on water, and rub it vigorously with the flat of the hand against the mortar…”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἴγδις / ἰγδίον
+  overview_anchor: term-igdion
+  reader_anchor: cit-igdion-cit-3
+- id: igdion-cit-4
+  term_ids:
+  - igdion
+  sense_id: igdion-sense-1
+  author: ''
+  work: ''
+  reference: '*Hippiatrica*, *Excerpta Lugdunensia* 81.14–25'
+  source_class: appendix_context
+  usage_type: recipe
+  family: Appendix And Semantic Control
+  citation_order: 4
+  greek: «καὶ λαβὼν τὸ ὕλισμα ἕνωσον αὐτὸ μετὰ τοῦ φάβατος εἰς ἰγδίον… καὶ κίνησον αὐτά, ἕως οὗ ἑνωθῶσιν ἀμφότερα.»
+  translation: “Take the expressed pulp and combine it with the bean mash in a mortar… and stir them until the two are fully united.”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἴγδις / ἰγδίον
+  overview_anchor: term-igdion
+  reader_anchor: cit-igdion-cit-4
+- id: igdion-cit-5
+  term_ids:
+  - igdion
+  sense_id: igdion-sense-1
+  author: ''
+  work: ''
+  reference: '*Hippiatrica*, *Hippiatrica Berolinensia* 130.48'
+  source_class: appendix_context
+  usage_type: recipe
+  family: Appendix And Semantic Control
+  citation_order: 5
+  greek: «…καὶ μετὰ τὸ ἑψηθῆναι εἰς ἴγδιν ψυγέσθω. εἶτα τῇ χειρὶ μάλασσε καὶ χρῶ.»
+  translation: “…and after it has been boiled, let it cool in a mortar. Then knead it with the hand and use it.”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἴγδις / ἰγδίον
+  overview_anchor: term-igdion
+  reader_anchor: cit-igdion-cit-5
+- id: igdion-cit-6
+  term_ids:
+  - igdion
+  sense_id: igdion-sense-1
+  author: ''
+  work: ''
+  reference: '*Geoponica* 12.19.5'
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 6
+  greek: «ἐὰν ἐν ἰγδίῳ ἤ τινι ἄλλῳ ἀγγείῳ ἐμβαλὼν ὕδωρ παρατιθῇς…»
+  translation: “If, after putting water in a mortar or in some other vessel, you place it nearby…”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἴγδις / ἰγδίον
+  overview_anchor: term-igdion
+  reader_anchor: cit-igdion-cit-6
+- id: igdion-cit-7
+  term_ids:
+  - igdion
+  sense_id: igdion-sense-1
+  author: ''
+  work: ''
+  reference: Julius Pollux, *Onomasticon* 4.101
+  source_class: supporting_lexical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 7
+  greek: «μακτρισμὸς δὲ καὶ ἀπόκινος καὶ ἀπόσεισις καὶ ἴγδις ἀσελγῆ εἴδη ὀρχήσεων ἐν τῇ τῆς ὀσφύος περιφορᾷ.»
+  translation: “Mactrismos, apokinos, aposeisis, and *igdis* are indecent kinds of dances involving the gyration of the hips.”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## ἴγδις / ἰγδίον
+  overview_anchor: term-igdion
+  reader_anchor: cit-igdion-cit-7
+- id: kakkabe-cit-1
+  term_ids:
+  - kakkabe
+  sense_id: kakkabe-sense-2
+  author: ''
+  work: ''
+  reference: Orion, *Etymologicum*, p. 87, line 26
+  source_class: appendix_context
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 1
+  greek: <κακκάβη>· σκεῦος πρὸς ἕψησιν ἐπιτήδειον.
+  translation: '“*Kakkábē*: a vessel suitable for boiling.”'
+  context_note: In medical and pharmaceutical texts, **κακκάβη** denotes the vessel in which ingredients are directly boiled, cooked, or thickened.
+  raw_source_location: tools-texts-raw.md:## κακκάβη
+  overview_anchor: term-kakkabe
+  reader_anchor: cit-kakkabe-cit-1
+- id: kakkabe-early-cit-1
+  term_ids:
+  - kakkabe
+  sense_id: kakkabe-early-sense-1
+  author: ''
+  work: ''
+  reference: Paul 7.20.26; Paul 7.20.33
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 1
+  greek: '"...ἄφες τὸ ἔλαιον ἐν τῷ κακκάβῳ ἀγανώτῳ ὄντι, καὶ βαφήσεται..." / "...ἕψε ἐν κακκάβῃ γεγανωμένῃ..."'
+  translation: '"...leave the oil in the cauldron, it being untinned, and it will be dyed..." / "...boil it in a tinned cauldron..."'
+  context_note: A metal pot used for boiling oil and aromatics. Paul remarkably distinguishes between an **untinned** (*aganotos*) cauldron (used to purposefully tint the oil green via copper oxidation) and a **tinned** (*geganomene*) cauldron (to prevent unwanted metallic reactions).
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-kakkabe
+  reader_anchor: cit-kakkabe-early-cit-1
+- id: kakkabe-cit-2
+  term_ids:
+  - kakkabe
+  sense_id: kakkabe-sense-3
+  author: ''
+  work: ''
+  reference: Galen, *De compositione medicamentorum per genera*, 7.13 (Kühn 13.629)
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 2
+  greek: ὀνομάζομεν δὲ οὕτως, ὅταν ἐν κακκάβῃ θερμὸν ὕδωρ ἐχούσῃ σκεῦος ἕτερον ἐνίσταται μετὰ τῶν τηκτῶν ἔχον καὶ τὴν χαλβάνην, ὑποκαιομένης τῆς κακκάβης.
+  translation: “We call it this when another vessel containing the meltable substances and galbanum is set inside a *kakkábē* holding hot water, while the *kakkábē* is heated from below.”
+  context_note: In compound pharmacology, **κακκάβη** can name the outer pot that holds hot water while a second container is set inside it.
+  raw_source_location: tools-texts-raw.md:## κακκάβη
+  overview_anchor: term-kakkabe
+  reader_anchor: cit-kakkabe-cit-2
+- id: kakkabe-cit-3
+  term_ids:
+  - kakkabe
+  sense_id: kakkabe-sense-4
+  author: ''
+  work: ''
+  reference: Moses Alchemist, *Εὐποία καὶ εὐτυχία τοῦ κτισαμένου καὶ ἐπιτυχία καμάτου καὶ μακροχρονία βίου*, vol. 2, p. 301, line 7
+  source_class: appendix_context
+  usage_type: alchemy
+  family: Containers And Storage
+  citation_order: 3
+  greek: καὶ πυρώσας κακκάβην, παρόπτα ἐν αὐτῷ τὸ ξηρίον
+  translation: “And after heating a *kakkábē*, parch the dry preparation in it.”
+  context_note: In alchemical and related technical procedure, **κακκάβη** is also the vessel that is first heated and then used to roast or dry a prepared solid.
+  raw_source_location: tools-texts-raw.md:## κακκάβη
+  overview_anchor: term-kakkabe
+  reader_anchor: cit-kakkabe-cit-3
+- id: kochlias-early-cit-1
+  term_ids:
+  - kochlias
+  sense_id: kochlias-early-sense-1
+  author: ''
+  work: ''
+  reference: Paul 7.20.1
+  source_class: primary_technical
+  usage_type: unknown
+  family: Pressing, Straining, And Extraction
+  citation_order: 1
+  greek: '"...τιεζομένων αὐτῶν ἐν κοχλίαις..."'
+  translation: '"...being pressed in screw-presses..."'
+  context_note: An advanced mechanical press used to extract oils from hard nuts and seeds (like sesame), replacing or supplementing the older lever-and-weight presses.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-kochlias
+  reader_anchor: cit-kochlias-early-cit-1
+- id: koskinon-early-cit-1
+  term_ids:
+  - koskinon
+  sense_id: koskinon-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 16.131
+  source_class: primary_technical
+  usage_type: unknown
+  family: Pressing, Straining, And Extraction
+  citation_order: 1
+  greek: '"...κόψας καὶ σήσας λεπτοτάτῳ κοσκίνῳ..."'
+  translation: '"...having pounded and sifted through the finest sieve..."'
+  context_note: Used to sift powdered spices and aromatics. Aetius explicitly mentions a "very fine" sieve.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-koskinon
+  reader_anchor: cit-koskinon-early-cit-1
+- id: krater-early-cit-1
+  term_ids:
+  - krater
+  sense_id: krater-early-sense-1
+  author: ''
+  work: ''
+  reference: '1.43'
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 1
+  greek: '"...ἀποτίθεσο δὲ εἰς κρατῆρα μέλιτι κατακεχρισμένον."'
+  translation: '"...store it in a mixing bowl smeared with honey."'
+  context_note: A large bowl used for storing the pressed oils, often lined with honey to prevent spoiling.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-krater
+  reader_anchor: cit-krater-early-cit-1
+- id: krokis-early-cit-1
+  term_ids:
+  - krokis
+  sense_id: krokis-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 16.130
+  source_class: primary_technical
+  usage_type: application
+  family: Application And Use
+  citation_order: 1
+  greek: '"...καὶ διὰ κροκίδος ἐντιθέασι τοῖς ὠσί."'
+  translation: '"...and by means of a tuft of wool they put it into the ears."'
+  context_note: Used to apply liquid perfumes directly into the ear canal.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-krokis
+  reader_anchor: cit-krokis-early-cit-1
+- id: kyrtis-early-cit-1
+  term_ids:
+  - kyrtis
+  sense_id: kyrtis-early-sense-1
+  author: ''
+  work: ''
+  reference: 1.49; 1.52
+  source_class: primary_technical
+  usage_type: unknown
+  family: Pressing, Straining, And Extraction
+  citation_order: 1
+  greek: '"...ἐκκενώσας δὲ τὸ ἀπὸ τῆς κυρτίδος..." / "...ἀνελόμενος εἰς κυρτίδα ἐξίπου...".'
+  translation: '"...having emptied the contents from the wicker basket..." / "...taking it up into a basket, press it..."'
+  context_note: Used specifically to strain and press infused oils (like basil and lily oil).
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-kyrtis
+  reader_anchor: cit-kyrtis-early-cit-1
+- id: kyrtis-early-cit-2
+  term_ids:
+  - kyrtis
+  sense_id: kyrtis-early-sense-2
+  author: ''
+  work: ''
+  reference: Paul 7.20.11
+  source_class: primary_technical
+  usage_type: unknown
+  family: Pressing, Straining, And Extraction
+  citation_order: 2
+  greek: '"...ἐκπιεζομένων διὰ κυρτίδων ἐπὶ κοχλίου..."'
+  translation: '"...pressed out through wicker baskets on a screw-press..."'
+  context_note: Baskets used in conjunction with the screw-press to hold the crushed sesame seeds while the oil is squeezed out.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-kyrtis
+  reader_anchor: cit-kyrtis-early-cit-2
+- id: lekanidion-early-cit-1
+  term_ids:
+  - lekanidion
+  sense_id: lekanidion-early-sense-1
+  author: ''
+  work: ''
+  reference: Paul 7.20.33
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 1
+  greek: '"...τὰ δὲ τῆς βʹ ἐν ἑτέρῳ λεκανιδίῳ ἐν οἴνῳ..."'
+  translation: '"...and the [ingredients] of the second [addition] in another small basin in wine..."'
+  context_note: Used for macerating/steeping aromatic dry ingredients in wine prior to boiling.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-lekanidion
+  reader_anchor: cit-lekanidion-early-cit-1
+- id: lekythos-cit-1
+  term_ids:
+  - lekythos
+  sense_id: lekythos-sense-3
+  author: ''
+  work: ''
+  reference: Aretaeus Med., *De causis et signis acutorum morborum*, Book 1, chapter 6, section 5, line 8
+  source_class: appendix_context
+  usage_type: medical
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: γίγνονται δὲ καὶ ἀλλόκοτοι φαντασίαι. ἐδεδίει γάρ τις ληκύθων ἔκπτωσιν, καὶ ἄλλος οὐκ ἔπινε, δοκέων ἑωυτὸν πλίνθον ἔμμεναι...
+  translation: '"Bizarre hallucinations also occur. For one person feared the falling [and breaking] of oil-flasks, and another would not drink, believing himself to be a brick..."'
+  context_note: The physician Aretaeus references the flask as the subject of a specific hallucination or phobia experienced by a melancholic or manic patient.
+  raw_source_location: tools-texts-raw.md:## λήκυθος / ληκύθιον
+  overview_anchor: term-lekythos
+  reader_anchor: cit-lekythos-cit-1
+- id: lekythos-cit-2
+  term_ids:
+  - lekythos
+  sense_id: lekythos-sense-4
+  author: ''
+  work: ''
+  reference: Pseudo-Galenus Med., *De remediis parabilibus libri iii*, Volume 14, page 483, line 10 *(Identical instruction also found in Oribasius Med., Libri ad Eunapium 4.115.6)*
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: Λαβὼν βύσμα ἀπὸ ληκύθου βίβλινον περιείλησον ὀθονίῳ, ἔπειτα μάνναν ὠοῦ τῷ λευκῷ ἀναλαβὼν κατάχρισον καὶ ἔνθες εἰς τὸν ὀμφαλὸν καὶ ἐπίδει προστύπως.
+  translation: '"Taking a papyrus stopper from an oil-flask, wrap it in a linen cloth, then taking incense dust mixed with egg white, smear it on, place it into the navel, and bind it so that it forms a mold."'
+  context_note: In Late Antique medical treatises, parts of the *lekythos* are integrated directly into pharmaceutical recipes and physical therapies.
+  raw_source_location: tools-texts-raw.md:## λήκυθος / ληκύθιον
+  overview_anchor: term-lekythos
+  reader_anchor: cit-lekythos-cit-2
+- id: lenos-cit-1
+  term_ids:
+  - lenos
+  sense_id: lenos-sense-3
+  author: ''
+  work: ''
+  reference: 'Galen, *De usu partium* (Kühn vol. 3, p. 708) *(Note: This exact anatomical description is also repeated in Galen''s De anatomicis administrationibus and Oribasius''s Collectiones medicae).*'
+  source_class: primary_technical
+  usage_type: anatomy
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '"...συμβάλλουσι δὲ κατὰ τὴν κορυφὴν τῆς κεφαλῆς αἱ παράγουσαι τὸ αἷμα διπλώσεις τῆς μήνιγγος εἰς χώραν τινὰ κοινὴν οἷον δεξαμενήν, ἣν δὴ καὶ δι'' αὐτὸ τοῦτο προσαγορεύειν ἔθος ἐστὶν Ἡροφίλῳ ληνόν..."'
+  translation: '"...and the folds of the meninx that channel the blood converge at the top of the head into a certain common space, like a cistern, which for this very reason it is the custom of Herophilus to call a vat (*lenos*)..."'
+  context_note: The most frequent use of the word in these specific medical texts is anatomical.
+  raw_source_location: tools-texts-raw.md:## ληνός
+  overview_anchor: term-lenos
+  reader_anchor: cit-lenos-cit-1
+- id: lenos-early-cit-1
+  term_ids:
+  - lenos
+  sense_id: lenos-early-sense-1
+  author: ''
+  work: ''
+  reference: '1.43'
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '"...κεχρίσθω δὲ καὶ ἡ ληνὸς μέλιτι."'
+  translation: '"...and let the press [vat] also be smeared with honey."'
+  context_note: A heavy press used to squeeze the oil out of the botanical materials.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-lenos
+  reader_anchor: cit-lenos-early-cit-1
+- id: lenos-cit-2
+  term_ids:
+  - lenos
+  sense_id: lenos-sense-4
+  author: ''
+  work: ''
+  reference: Theophilus Protospatharius, *De corporis humani fabrica* (Book 4, section 13)
+  source_class: appendix_context
+  usage_type: anatomy
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: '"...τὰ δὲ ἐδάφη τῶν κοιλωμάτων παρὰ τοῖς ποιηταῖς ὀνομάζονται ληνοὶ, τὰ δὲ ἑκατέρωθεν μέρη τοῦ χόνδρου τῆς ῥινὸς πτερύγια."'
+  translation: '"...and the floors of the cavities [of the nose] are named troughs (*lenoi*) by the poets, and the parts on either side of the cartilage of the nose [are called] wings."'
+  context_note: Because a *lenos* is a trough-like structure, poets and medical writers also applied the term to the hollow troughs or "floors" of the nasal cavities.
+  raw_source_location: tools-texts-raw.md:## ληνός
+  overview_anchor: term-lenos
+  reader_anchor: cit-lenos-cit-2
+- id: lenos-cit-3
+  term_ids:
+  - lenos
+  sense_id: lenos-sense-5
+  author: ''
+  work: ''
+  reference: Hippocrates, *Vectiarius* (Section 38)
+  source_class: appendix_context
+  usage_type: metaphor
+  family: Appendix And Semantic Control
+  citation_order: 3
+  greek: '"...καταγλύφους δὲ, ὥσπερ ληνοὺς, λείας ἔχειν, τετραδακτύλους εὖρος καὶ βάθος..."'
+  translation: '"...and to have smooth carved-out hollows, like troughs (*lenoi*), four fingers in width and depth..."'
+  context_note: In the Hippocratic corpus, the word is used to describe a physical, trough-like depression carved into a wooden board.
+  raw_source_location: tools-texts-raw.md:## ληνός
+  overview_anchor: term-lenos
+  reader_anchor: cit-lenos-cit-3
+- id: louter-cit-1
+  term_ids:
+  - louter
+  sense_id: louter-sense-2
+  author: ''
+  work: ''
+  reference: Dioscorides, *De materia medica* (Book 1, chapter 52, section 1)
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 1
+  greek: '"...κρίνα ἀριθμῷ χίλια ἀποφυλλίσας θὲς ἐν λουτῆρι πλατεῖ, μὴ βαθεῖ, ἐπιχέας τε τὸ ἔλαιον ἀνακίνει ταῖς χερσὶ μέλιτι κεχρισμέναις."'
+  translation: '"...having stripped a thousand lilies of their leaves [petals], place them in a broad, not deep basin (*louter*), and pouring the oil over them, stir with hands smeared with honey."'
+  context_note: Dioscorides explicitly describes the physical dimensions of the *louter* when instructing how to steep delicate lily petals.
+  raw_source_location: tools-texts-raw.md:## λουτήρ
+  overview_anchor: term-louter
+  reader_anchor: cit-louter-cit-1
+- id: louter-early-cit-1
+  term_ids:
+  - louter
+  sense_id: louter-early-sense-1
+  author: ''
+  work: ''
+  reference: 1.52; 1.43
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 1
+  greek: '"...θὲς ἐν λουτῆρι πλατεῖ, μὴ βαθεῖ..." / "...βαλὼν δὲ εἰς λουτηρίδιον τὰ ἐξιπωθέντα ῥόδα...".'
+  translation: '"...place in a wide, not deep, basin..." / "...having put the pressed roses into a small tub..."'
+  context_note: A wide, sometimes shallow basin used for soaking flowers (like roses or lilies) in oil.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-louter
+  reader_anchor: cit-louter-early-cit-1
+- id: louter-cit-2
+  term_ids:
+  - louter
+  sense_id: louter-sense-3
+  author: ''
+  work: ''
+  reference: Dioscorides, *De materia medica* (Book 1, chapter 52, section 4)
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 2
+  greek: '"...κρόκου καὶ κιναμώμου τὸ ἴσον κόψας σήσας ἔμβαλε εἰς τὸν λουτῆρα μεθ'' ὕδατος καὶ ἐπίχει τὸ πρῶτον ἐκπιεσθὲν μύρον..."'
+  translation: '"...having pounded and sifted an equal amount of saffron and cinnamon, put them into the basin (*louter*) with water, and pour on the first-pressed ointment..."'
+  context_note: Beyond just soaking fresh flowers, the *louter* is also used as a mixing tub where dry aromatic spices (like cinnamon and saffron) and water are combined with previously pressed oils.
+  raw_source_location: tools-texts-raw.md:## λουτήρ
+  overview_anchor: term-louter
+  reader_anchor: cit-louter-cit-2
+- id: louter-cit-3
+  term_ids:
+  - louter
+  sense_id: louter-sense-4
+  author: ''
+  work: ''
+  reference: Dioscorides, *De materia medica* (Book 1, chapter 43, section 1)
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 3
+  greek: '"...βαλὼν δὲ εἰς λουτηρίδιον τὰ ἐξιπωθέντα ῥόδα ἐπίχει λίτρας ὀκτὼ οὐγγίας τρεῖς τοῦ ἐστυμμένου ἐλαίου καὶ πάλιν ἐξίπου."'
+  translation: '"...and having put the pressed-out roses into a small basin (*louteridion*), pour on eight litrai and three ounces of the thickened oil and press it out again."'
+  context_note: The text also uses the diminutive form, *louteridion* (a small basin or small tub).
+  raw_source_location: tools-texts-raw.md:## λουτήρ
+  overview_anchor: term-louter
+  reader_anchor: cit-louter-cit-3
+- id: myakion-early-cit-1
+  term_ids:
+  - myakion
+  sense_id: myakion-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 1.131
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 1
+  greek: '"...καὶ οὕτως μυακίῳ ἀναλάμβανε."'
+  translation: '"...and thus take it up in a mussel shell."'
+  context_note: Used to scoop up and store highly precious, small-batch ointments (like nard).
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-myakion
+  reader_anchor: cit-myakion-early-cit-1
+- id: myrepsike-cit-1
+  term_ids:
+  - myrepsike
+  sense_id: myrepsike-sense-2
+  author: ''
+  work: ''
+  reference: Athenaeus, *Deipnosophistae* 13.94
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '`κατασκευάζομαι δ'', ἔφη, τέχνην μυρεψικήν· ἀφορμῆς δὲ δέομαι`'
+  translation: “‘I am setting up,’ he said, ‘the craft of perfumery; but I need capital.’”
+  context_note: Here the word names perfumery as a trade one can set up and finance.
+  raw_source_location: tools-texts-raw.md:## μυρεψική
+  overview_anchor: term-myrepsike
+  reader_anchor: cit-myrepsike-cit-1
+- id: myrepsos-cit-1
+  term_ids:
+  - myrepsos
+  sense_id: myrepsos-sense-2
+  author: ''
+  work: ''
+  reference: Dorotheus, *Fragmenta Graeca* (p. 359)
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '`τινὲς βαφεῖς, ἱστουργοί, ζωγράφοι, ἀνθοπλόκοι, μυρεψοί, μυροπῶλοι, τορνευταὶ γίνονται`'
+  translation: “Some become dyers, weavers, painters, garland-makers, perfumers, perfume-sellers, or turners.”
+  context_note: Occupational lists distinguish the *myrepsos* from the perfume-seller, which shows that the term points to manufacture or preparation rather than mere resale.
+  raw_source_location: tools-texts-raw.md:## μυρεψός
+  overview_anchor: term-myrepsos
+  reader_anchor: cit-myrepsos-cit-1
+- id: myrepsos-cit-2
+  term_ids:
+  - myrepsos
+  sense_id: myrepsos-sense-3
+  author: ''
+  work: ''
+  reference: Joannes Chrysostomus, *Contra eos qui subintroductas habent virgines* 10.26
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: '`εἶτα ἀπὸ τοῦ μυρεψοῦ πρὸς τὸν τὰς ὀθόνας πωλοῦντα`'
+  translation: “Then from the perfumer to the man who sells linens.”
+  context_note: The word can also denote the perfumer as one among several artisans and shopkeepers in the urban marketplace.
+  raw_source_location: tools-texts-raw.md:## μυρεψός
+  overview_anchor: term-myrepsos
+  reader_anchor: cit-myrepsos-cit-2
+- id: myropoios-cit-1
+  term_ids:
+  - myropoios
+  sense_id: myropoios-sense-2
+  author: ''
+  work: ''
+  reference: Julius Pollux, *Onomasticon* 7.177
+  source_class: supporting_lexical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '`μυρεψός· Κριτίας γὰρ οὕτως ὠνόμασεν. μυροποιός· οὕτω δὲ Ἀνακρέων.`'
+  translation: '“‘Myrepsos’: Critias used this term. ‘Myropoios’: thus Anacreon [called him].”'
+  context_note: The term is presented as an alternate designation for the perfumer.
+  raw_source_location: tools-texts-raw.md:## μυροποιός
+  overview_anchor: term-myropoios
+  reader_anchor: cit-myropoios-cit-1
+- id: myropolein-cit-1
+  term_ids:
+  - myropolein
+  sense_id: myropolein-sense-2
+  author: ''
+  work: ''
+  reference: Pherecrates, fr. 64
+  source_class: appendix_context
+  usage_type: trade
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '`κᾆτα μυροπωλεῖν τί παθόντ'' ἄνδρ'' ἐχρῆν καθήμενον ὑψηλῶς ὑπὸ σκιαδείῳ`'
+  translation: “And then what had to happen to a man that he should sit there, up under a parasol, selling perfumes?”
+  context_note: The verb can denote the ordinary act or profession of sitting in a shop and dealing in perfumes.
+  raw_source_location: tools-texts-raw.md:## μυροπωλεῖν
+  overview_anchor: term-myropolein
+  reader_anchor: cit-myropolein-cit-1
+- id: myropolein-cit-2
+  term_ids:
+  - myropolein
+  sense_id: myropolein-sense-3
+  author: ''
+  work: ''
+  reference: Athenaeus, *Deipnosophistae* 15.34
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: '`Σόλων τε ὁ σοφὸς διὰ τῶν νόμων κεκώλυκε τοὺς ἄνδρας μυροπωλεῖν`'
+  translation: “And Solon the wise, by his laws, forbade men to sell perfumes.”
+  context_note: In moralizing and antiquarian contexts, the verb marks a trade associated with luxury and effeminacy.
+  raw_source_location: tools-texts-raw.md:## μυροπωλεῖν
+  overview_anchor: term-myropolein
+  reader_anchor: cit-myropolein-cit-2
+- id: myropoleion-cit-1
+  term_ids:
+  - myropoleion
+  sense_id: myropoleion-sense-2
+  author: ''
+  work: ''
+  reference: Teles, *Περὶ αὐταρκείας* (p. 13)
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '`λαβὼν γὰρ αὐτὸν ἦγεν εἰς τὸ μυροπωλεῖον καὶ ἐπυνθάνετο πόσου τῆς κύπρου ἡ κοτύλη`'
+  translation: “For he took him to the perfume-shop and asked how much a cotyle of cyprus-oil cost.”
+  context_note: In practical anecdotal use, *myropōleion* denotes the place where one goes to ask prices and buy perfume.
+  raw_source_location: tools-texts-raw.md:## μυροπωλεῖον
+  overview_anchor: term-myropoleion
+  reader_anchor: cit-myropoleion-cit-1
+- id: myropoleion-cit-2
+  term_ids:
+  - myropoleion
+  sense_id: myropoleion-sense-3
+  author: ''
+  work: ''
+  reference: Joannes Chrysostomus, *In epistulam I ad Corinthios* (PG 61, p. 313, l. 35)
+  source_class: appendix_context
+  usage_type: metaphor
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: '`Οὐ γὰρ κουρεῖον, οὐδὲ μυροπωλεῖον ἡ ἐκκλησία`'
+  translation: “For the church is not a barber’s shop, nor a perfume-shop.”
+  context_note: Christian authors use the word as shorthand for a noisy, ordinary, socially busy place, precisely in order to contrast such a setting with the dignity of the church.
+  raw_source_location: tools-texts-raw.md:## μυροπωλεῖον
+  overview_anchor: term-myropoleion
+  reader_anchor: cit-myropoleion-cit-2
+- id: myropoles-cit-1
+  term_ids:
+  - myropoles
+  sense_id: myropoles-sense-2
+  author: ''
+  work: ''
+  reference: Hyperides, *In Athenogenem* (col. 9)
+  source_class: appendix_context
+  usage_type: trade
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '`οὗτ[ος] δὲ ὁ ἐκ τριγωνίας [ὢν] μυροπώλης, καθ[ήμε]νος δ'' ἐν τῇ ἀγορᾷ ὅσαι ἡμέραι, τρία δὲ μυροπώλια κεκτημένος`'
+  translation: “This man, a perfume-seller from the Triangular [quarter], sitting in the agora every day and owning three perfume-shops...”
+  context_note: In the clearest commercial passages, *myropōlēs* is simply the man who runs or owns a perfume business.
+  raw_source_location: tools-texts-raw.md:## μυροπώλης
+  overview_anchor: term-myropoles
+  reader_anchor: cit-myropoles-cit-1
+- id: myropoles-cit-2
+  term_ids:
+  - myropoles
+  sense_id: myropoles-sense-3
+  author: ''
+  work: ''
+  reference: Theophrastus, *Fragmenta* 4.40
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: '`διὸ καὶ οἱ μυροπῶλαι ζητοῦσι τὰς οἰκίας ὑπερῴους καὶ μὴ προσηλίους ἀλλ'' ὅτι μάλιστα παλισκίους`'
+  translation: “That is why perfume-sellers look for upper rooms that are not sunny, but as shaded as possible.”
+  context_note: In technical discussion, the *myropōlēs* is not just a shopkeeper but someone who knows how perfumes must be preserved.
+  raw_source_location: tools-texts-raw.md:## μυροπώλης
+  overview_anchor: term-myropoles
+  reader_anchor: cit-myropoles-cit-2
+- id: myropolion-cit-1
+  term_ids:
+  - myropolion
+  sense_id: myropolion-sense-2
+  author: ''
+  work: ''
+  reference: Lysias, *Pro invalido* 20
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '`ἕκαστος γὰρ ὑμῶν εἴθισται προσφοιτᾶν ὁ μὲν πρὸς μυροπώλιον, ὁ δὲ πρὸς κουρεῖον`'
+  translation: “For each of you is accustomed to visit, one a perfume-shop, another a barber’s shop.”
+  context_note: Here *myropōlion* means the actual shop to which people go, much like a barber’s shop or other workshop.
+  raw_source_location: tools-texts-raw.md:## μυροπώλιον
+  overview_anchor: term-myropolion
+  reader_anchor: cit-myropolion-cit-1
+- id: myropolion-cit-2
+  term_ids:
+  - myropolion
+  sense_id: myropolion-sense-3
+  author: ''
+  work: ''
+  reference: Hyperides, *In Athenogenem* (col. 4)
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: '`ἐλθόντες δ'' ἐπὶ τὸ μυροπώλιον τὸ μὲν γραμματεῖον τιθέμεθα παρὰ Λυσικλεῖ Λευκονοεῖ· τὰς δὲ τετταράκοντα μνᾶς ἐγὼ καταβαλὼν τὴν ὠνὴν ἐποιησάμην`'
+  translation: “When we came to the perfume-shop, we deposited the document with Lysikles of Leukonoe, and I paid the forty minas and completed the purchase.”
+  context_note: In legal and financial contexts, *myropōlion* can denote the perfumery establishment as something transferred, purchased, or burdened with debts.
+  raw_source_location: tools-texts-raw.md:## μυροπώλιον
+  overview_anchor: term-myropolion
+  reader_anchor: cit-myropolion-cit-2
+- id: myropolion-cit-3
+  term_ids:
+  - myropolion
+  sense_id: myropolion-sense-4
+  author: ''
+  work: ''
+  reference: Constantinus VII Porphyrogenitus, *De sententiis* (p. 72)
+  source_class: appendix_context
+  usage_type: metaphor
+  family: Appendix And Semantic Control
+  citation_order: 3
+  greek: '`καὶ περιφέρει γε τὴν ἱστορίαν ἐκ πολλῶν καὶ παντοδαπῶν τῶν ταῦτα εἰρηκότων ὥσπερ ῥῶπόν τινα ποικίλον καὶ χρήσιμον εἰς ἓν μυροπώλιον τὴν ἰδίαν ἐξήγησιν κατακεκλειμένην καὶ συνηγμένην`'
+  translation: “And he brings together his history from many and varied sources, as though he had packed assorted and useful wares into a single perfume-shop within his own exposition.”
+  context_note: Later prose extends the concrete image of the perfume-shop into a metaphor for a place where many different fine or useful things are gathered together.
+  raw_source_location: tools-texts-raw.md:## μυροπώλιον
+  overview_anchor: term-myropolion
+  reader_anchor: cit-myropolion-cit-3
+- id: myropolis-cit-1
+  term_ids:
+  - myropolis
+  sense_id: myropolis-sense-2
+  author: ''
+  work: ''
+  reference: Asclepiades, *Epigrammata* 5.181
+  source_class: appendix_context
+  usage_type: trade
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '`νῦν δὲ πρὸς Αἴσχραν τὴν μυρόπωλιν ἰὼν πέντε λάβ'' ἀργυρέας`'
+  translation: “But for now go to Aischra the perfume-seller and get five silver pieces.”
+  context_note: The noun can designate an individual woman whose occupation is the sale of perfume.
+  raw_source_location: tools-texts-raw.md:## μυρόπωλις
+  overview_anchor: term-myropolis
+  reader_anchor: cit-myropolis-cit-1
+- id: myropolis-cit-2
+  term_ids:
+  - myropolis
+  sense_id: myropolis-sense-3
+  author: ''
+  work: ''
+  reference: Aristophanes, *Ecclesiazusae* 841–842
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: '`κρατῆρας ἐγκιρνᾶσιν, αἱ μυροπώλιδες ἑστᾶσ'' ἐφεξῆς`'
+  translation: “The perfume-women stand in a row, mixing the kraters.”
+  context_note: In comedy, the plural refers to perfume-women acting together in a scene of public festivity and organized abundance.
+  raw_source_location: tools-texts-raw.md:## μυρόπωλις
+  overview_anchor: term-myropolis
+  reader_anchor: cit-myropolis-cit-2
+- id: myrotheke-cit-1
+  term_ids:
+  - myrotheke
+  sense_id: myrotheke-sense-2
+  author: ''
+  work: ''
+  reference: Photius, *Lexicon* (alpha, entry 885)
+  source_class: supporting_lexical
+  usage_type: lexicon
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '`<Ἀλάβαστρον>· ἄγγος μύρου μὴ ἔχον λαβὰς λίθινον. ἢ ψήφινος μυροθήκη.`'
+  translation: '“*Alabastron*: a perfume vessel without handles, made of stone; or a stone perfume-container.”'
+  context_note: In several lexicographical notices, *myrothēkē* is the actual container that holds perfume or unguent.
+  raw_source_location: tools-texts-raw.md:## μυροθήκη
+  overview_anchor: term-myrotheke
+  reader_anchor: cit-myrotheke-cit-1
+- id: myrotheke-cit-2
+  term_ids:
+  - myrotheke
+  sense_id: myrotheke-sense-3
+  author: ''
+  work: ''
+  reference: Harpocration, *Lexicon in decem oratores Atticos* (p. 20, l. 6)
+  source_class: supporting_lexical
+  usage_type: lexicon
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: '`Ἀλαβαστοθῆκαι: αἱ θῆκαι τῶν ἀλαβάστων, ἃς ἐν τῇ συνηθείᾳ μυροθήκας καλοῦσι· ἀλάβαστοι δ'' εἰσὶ λήκυθοι ὧν οὐκ ἔστι λαβέσθαι διὰ λειότητα.`'
+  translation: '“*Alabastothēkai*: the cases for alabaster flasks, which in ordinary usage they call perfume-cases; alabasters are flasks that cannot be grasped because of their smoothness.”'
+  context_note: In another group of glosses, *myrothēkē* denotes not the flask itself but the case in which alabaster perfume vessels are kept.
+  raw_source_location: tools-texts-raw.md:## μυροθήκη
+  overview_anchor: term-myrotheke
+  reader_anchor: cit-myrotheke-cit-2
+- id: organon-early-cit-1
+  term_ids:
+  - organon
+  sense_id: organon-early-sense-1
+  author: ''
+  work: ''
+  reference: '1.60'
+  source_class: primary_technical
+  usage_type: unknown
+  family: Pressing, Straining, And Extraction
+  citation_order: 1
+  greek: '"...κεκομμένης μεθ'' ὕδατος ὀλίγου ἀποτεθλιμμένης τε δι'' ὀργάνου."'
+  translation: '"...bruised with a little water and squeezed out through an instrument [press]."'
+  context_note: Used to crush and squeeze out the fatty extract (stakte) from fresh myrrh.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-organon
+  reader_anchor: cit-organon-early-cit-1
+- id: othonion-early-cit-1
+  term_ids:
+  - othonion
+  sense_id: othonion-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 1.114
+  source_class: primary_technical
+  usage_type: unknown
+  family: Covers, Seals, Insulation, And Handling
+  citation_order: 1
+  greek: '"...ὀθόνῃ δὲ ἀραιᾷ χρὴ σκεπάζειν τὸ στόμα τοῦ βίκου, ἵνα διαπνέηται τὸ ἔλαιον..."'
+  translation: '"...it is necessary to cover the mouth of the jar with a loose cloth, so that the oil may breathe [evaporate]..."'
+  context_note: Used as a breathable cover over jars to allow water vapor to escape during sun-steeping, preventing the oil from rotting.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-othonion
+  reader_anchor: cit-othonion-early-cit-1
+- id: pelos-early-cit-1
+  term_ids:
+  - pelos
+  sense_id: pelos-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 1.135
+  source_class: primary_technical
+  usage_type: unknown
+  family: Covers, Seals, Insulation, And Handling
+  citation_order: 1
+  greek: '"...χρίε ἔξωθεν τὸ ξεστίον πηλῷ ὅλον κύκλῳ..."'
+  translation: '"...smear the outside of the vessel with clay all the way around..."'
+  context_note: Used as a sealant (lute) to hermetically seal the joint between two distillation/sublimation vessels to capture vaporized oils.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-pelos
+  reader_anchor: cit-pelos-early-cit-1
+- id: phrear-early-cit-1
+  term_ids:
+  - phrear
+  sense_id: phrear-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 1.113
+  source_class: primary_technical
+  usage_type: unknown
+  family: Covers, Seals, Insulation, And Handling
+  citation_order: 1
+  greek: '"...ἀποκρημνοῦσι τὸν βίκον εἰς φρέαρ ὕδατος ψυχροῦ..."'
+  translation: '"...they suspend the jar into a well of cold water..."'
+  context_note: Used as a natural refrigerator; sealed jars of oil were suspended down a cold well to extract the scent without using heat or sun.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-phrear
+  reader_anchor: cit-phrear-early-cit-1
+- id: psiathos-cit-1
+  term_ids:
+  - psiathos
+  sense_id: psiathos-sense-2
+  author: ''
+  work: ''
+  reference: Dioscorides, *De materia medica* (Book 1, chapter 64, section 1) *(Also repeated closely by Oribasius, Collectiones medicae, Book 12).*
+  source_class: primary_technical
+  usage_type: recipe
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '"...οὗ ἐγκοπτομένου ἀπορρεῖ τὸ δάκρυον εἰς ὑπεστρωμένας ψιάθους, τὸ δὲ τῷ στελέχει περιπήγνυται."'
+  translation: '"...from which, when it is cut, the tear [resin] flows down onto rush mats (*psiathous*) spread underneath, while some congeals around the trunk."'
+  context_note: In the harvesting of myrrh (*smyrna*), *psiathoi* are spread out on the ground beneath the myrrh tree.
+  raw_source_location: tools-texts-raw.md:## ψίαθος
+  overview_anchor: term-psiathos
+  reader_anchor: cit-psiathos-cit-1
+- id: psiathos-cit-2
+  term_ids:
+  - psiathos
+  sense_id: psiathos-sense-3
+  author: ''
+  work: ''
+  reference: Dioscorides, *De materia medica* (Book 1, chapter 45, section 1)
+  source_class: primary_technical
+  usage_type: recipe
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: '"...εἶτα ἀπηθήσας τὸ ἔλαιον βάλε εἰς ἀγγεῖον πλατύστομον, ἐπιθείς τε ῥῖπον ἐκ καλάμου ἢ ψίαθον ἀραιὰν ἄνωθέν τε ἐπιθεὶς κυδώνια μῆλα καὶ περικαλύψας ἱματίοις ἔασον ἡμέρας ἱκανάς..."'
+  translation: '"...then having strained the oil, put it into a wide-mouthed vessel, and having placed upon it a hurdle of reeds or a loosely-woven rush mat (*psiathon araian*), and having placed quinces on top and covered them with cloths, leave them for a sufficient number of days..."'
+  context_note: During the preparation of quince oil (*melinon*), a loosely woven rush mat (*psiathos araia*) is placed across the mouth of a wide vessel containing hot oil.
+  raw_source_location: tools-texts-raw.md:## ψίαθος
+  overview_anchor: term-psiathos
+  reader_anchor: cit-psiathos-cit-2
+- id: psiathos-araia-early-cit-1
+  term_ids:
+  - psiathos-araia
+  sense_id: psiathos-araia-early-sense-1
+  author: ''
+  work: ''
+  reference: '1.45'
+  source_class: primary_technical
+  usage_type: unknown
+  family: Pressing, Straining, And Extraction
+  citation_order: 1
+  greek: '"...ἢ ψίαθον ἀραιὰν ἄνωθέν τε ἐπιθεὶς κυδώνια μῆλα..."'
+  translation: '"...or having placed a loose rush mat on top, and putting quinces on it..."'
+  context_note: Used interchangeably with the reed mat as a porous barrier or lid.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-psiathos-araia
+  reader_anchor: cit-psiathos-araia-early-cit-1
+- id: ptygma-eriou-early-cit-1
+  term_ids:
+  - ptygma-eriou
+  sense_id: ptygma-eriou-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 1.135
+  source_class: primary_technical
+  usage_type: application
+  family: Application And Use
+  citation_order: 1
+  greek: '"...θερμὸν πτύγματι ἐρίου ἀναλαμβανόμενον καὶ ἐπιτιθέμενον..."'
+  translation: '"...taken up hot on a fold of wool and applied..."'
+  context_note: Used to apply hot, smoked medicinal oils topically to the abdomen and lower back.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-ptygma-eriou
+  reader_anchor: cit-ptygma-eriou-early-cit-1
+- id: ripos-ek-kalamoy-early-cit-1
+  term_ids:
+  - ripos-ek-kalamoy
+  sense_id: ripos-ek-kalamoy-early-sense-1
+  author: ''
+  work: ''
+  reference: '1.45'
+  source_class: primary_technical
+  usage_type: unknown
+  family: Pressing, Straining, And Extraction
+  citation_order: 1
+  greek: '"...ἐπιθείς τε ῥῖπον ἐκ καλάμου..."'
+  translation: '"...having placed a mat made of reeds upon it..."'
+  context_note: Placed over a vessel to hold ingredients (like quinces) so their essence can seep into or vaporize over the oil without falling in.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-ripos-ek-kalamoy
+  reader_anchor: cit-ripos-ek-kalamoy-early-cit-1
+- id: ropopoles-cit-1
+  term_ids:
+  - ropopoles
+  sense_id: ropopoles-sense-2
+  author: ''
+  work: ''
+  reference: Hesychius, *Lexicon* (rho 582)
+  source_class: supporting_lexical
+  usage_type: trade
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '`ῥωποπῶλαι· μυροπῶλαι`'
+  translation: '“‘Rhōpopōlai’: perfume-sellers.”'
+  context_note: The gloss equates the word directly with perfume-sellers in the plural.
+  raw_source_location: tools-texts-raw.md:## ῥωποπώλης
+  overview_anchor: term-ropopoles
+  reader_anchor: cit-ropopoles-cit-1
+- id: ropopoles-cit-2
+  term_ids:
+  - ropopoles
+  sense_id: ropopoles-sense-3
+  author: ''
+  work: ''
+  reference: Photius, *Lexicon* (p. 494)
+  source_class: supporting_lexical
+  usage_type: lexicon
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: '`ὅθεν ῥωποπώλης, ὁ μυροπώλης`'
+  translation: “Hence *rhōpopōlēs*, that is, a perfume-seller.”
+  context_note: A second lexicon repeats the same equation in the singular.
+  raw_source_location: tools-texts-raw.md:## ῥωποπώλης
+  overview_anchor: term-ropopoles
+  reader_anchor: cit-ropopoles-cit-2
+- id: sanis-early-cit-1
+  term_ids:
+  - sanis
+  sense_id: sanis-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 1.113
+  source_class: primary_technical
+  usage_type: unknown
+  family: Covers, Seals, Insulation, And Handling
+  citation_order: 1
+  greek: '"...ἀποτίθεσθαι τοὺς βίκους ἐπὶ σανίδων..."'
+  translation: '"...store the jars upon boards..."'
+  context_note: Used to insulate jars of oil from the cold or damp ground during storage.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-sanis
+  reader_anchor: cit-sanis-early-cit-1
+- id: sindon-early-cit-1
+  term_ids:
+  - sindon
+  sense_id: sindon-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 16.133
+  source_class: primary_technical
+  usage_type: unknown
+  family: Covers, Seals, Insulation, And Handling
+  citation_order: 1
+  greek: '"...ψύχε ἐν σκιᾷ ἐν σινδόνι καθαρᾷ..."'
+  translation: '"...cool them in the shade on a clean fine linen..."'
+  context_note: Used as a clean surface to lay out and gently dry/wilt flower petals (like lilies and roses) in the shade before infusing them.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-sindon
+  reader_anchor: cit-sindon-early-cit-1
+- id: spathe-cit-1
+  term_ids:
+  - spathe
+  sense_id: spathe-sense-1
+  author: ''
+  work: ''
+  reference: ''
+  source_class: appendix_context
+  usage_type: unknown
+  family: Grinding, Stirring, And Mixing
+  citation_order: 1
+  greek: «<φοῖνιξ>, ὃν ἔνιοι <ἐλάτην> ἢ <σπάθην> καλοῦσι, περικάλυμμά ἐστι τοῦ καρποῦ τῶν φοινίκων ἀκμὴν ἀνθούντων· χρῶνται δὲ αὐτῷ οἱ μυρεψοὶ εἰς τὰς τῶν μύρων στύψεις.»
+  translation: “‘Phoenix,’ which some call ‘elatē’ or ‘spathē,’ is the sheath covering the fruit-cluster of the date palm when it is in flower; perfumers use it for the astringent element in perfumes.”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## σπάθη
+  overview_anchor: term-spathe
+  reader_anchor: cit-spathe-cit-1
+- id: spathe-early-cit-1
+  term_ids:
+  - spathe
+  sense_id: spathe-early-sense-1
+  author: ''
+  work: ''
+  reference: '1.55'
+  source_class: primary_technical
+  usage_type: unknown
+  family: Grinding, Stirring, And Mixing
+  citation_order: 1
+  greek: '"...καὶ κίνει σπάθῃ, ἕως ἂν ψυγῇ, μὴ διαλείπων."'
+  translation: '"...and stir with a spatula [paddle] without stopping, until it cools."'
+  context_note: 'Used to continuously stir hot oil and aromatics while they cool. *(Note: "Spathe" is also used elsewhere in the text as a botanical ingredient—palm spathe—but in 1.55 it clearly denotes the tool).*'
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-spathe
+  reader_anchor: cit-spathe-early-cit-1
+- id: spathe-cit-2
+  term_ids:
+  - spathe
+  sense_id: spathe-sense-1
+  author: ''
+  work: ''
+  reference: ''
+  source_class: appendix_context
+  usage_type: unknown
+  family: Grinding, Stirring, And Mixing
+  citation_order: 2
+  greek: «… ἀσπαλάθου λι εʹ, σπάθης μυρεψικῆς ἣν καλοῦσιν ἐλάτην λι εʹ …»
+  translation: “… 5 litrai of aspalathos, 5 litrai of the perfumers’ spathe, which they call *elatē* …”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## σπάθη
+  overview_anchor: term-spathe
+  reader_anchor: cit-spathe-cit-2
+- id: spathe-early-cit-2
+  term_ids:
+  - spathe
+  sense_id: spathe-early-sense-2
+  author: ''
+  work: ''
+  reference: Paul 7.20.33
+  source_class: primary_technical
+  usage_type: unknown
+  family: Grinding, Stirring, And Mixing
+  citation_order: 2
+  greek: '"...κινῶν ἑκάστης ἡμέρας σπάθῃ φοινικίνῃ..."'
+  translation: '"...stirring each day with a palm-wood spatula..."'
+  context_note: A wooden paddle explicitly used for stirring steeping aromatics. The choice of palm wood likely prevented unwanted flavors from transferring to the oil.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-spathe
+  reader_anchor: cit-spathe-early-cit-2
+- id: spathe-cit-3
+  term_ids:
+  - spathe
+  sense_id: spathe-sense-1
+  author: ''
+  work: ''
+  reference: ''
+  source_class: appendix_context
+  usage_type: unknown
+  family: Grinding, Stirring, And Mixing
+  citation_order: 3
+  greek: «εἶτα ἐπίβαλε τῷ γλεύκει πάντα τὰ ἐν τῷ παλαιῷ οἴνῳ βεβρεγμένα καὶ τὸ ἔλαιον καὶ σάλευε σπάθῃ μυρεψικῇ δὶς τῆς ἡμέρας· ἐπιμελῶς δὲ ἡ σπάθη ἀπομασσέσθω, ἵνα μὴ τὸ προσκείμενον αὐτῇ ὀξίσαν βλάψῃ τὸ φάρμακον.»
+  translation: “Then add to the must all the ingredients that have been soaked in the old wine, together with the oil, and stir with a perfumer’s spatula twice a day. The spatula must be carefully wiped clean, so that what clings to it, after turning sour, does not damage the preparation.”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## σπάθη
+  overview_anchor: term-spathe
+  reader_anchor: cit-spathe-cit-3
+- id: spathe-cit-4
+  term_ids:
+  - spathe
+  sense_id: spathe-sense-1
+  author: ''
+  work: ''
+  reference: ''
+  source_class: appendix_context
+  usage_type: unknown
+  family: Grinding, Stirring, And Mixing
+  citation_order: 4
+  greek: «τῆς μὲν πρώτης ἐμβολῆς ὁ κάλαμος καὶ ἡ σμύρνα οἴνῳ λεῖα προαποβραχέντα <γ> ἡμέρας καὶ κινούμενα τρὶς τῆς ἡμέρας φοινικίνῃ σπάθῃ, εἶτα συνεψόμενα τῷ ἐλαίῳ …»
+  translation: “For the first infusion, let the calamus and myrrh, after being finely ground, be soaked beforehand in wine for three days and stirred three times a day with a palm spatula, then boiled together with the oil …”
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## σπάθη
+  overview_anchor: term-spathe
+  reader_anchor: cit-spathe-cit-4
+- id: spathe-cit-5
+  term_ids:
+  - spathe
+  sense_id: spathe-sense-1
+  author: ''
+  work: ''
+  reference: ''
+  source_class: appendix_context
+  usage_type: unknown
+  family: Grinding, Stirring, And Mixing
+  citation_order: 5
+  greek: '«<Σπαθίδα>: τὴν τῶν μυρεψῶν σπάθην· οὕτως Ἀριστοφάνης.»'
+  translation: '“*Spathidā*: the perfumers’ spathe; this is how Aristophanes uses the word.”'
+  context_note: '1.'
+  raw_source_location: tools-texts-raw.md:## σπάθη
+  overview_anchor: term-spathe
+  reader_anchor: cit-spathe-cit-5
+- id: sphyris-cit-1
+  term_ids:
+  - sphyris
+  sense_id: sphyris-sense-3
+  author: ''
+  work: ''
+  reference: Hippocrates, *De articulis* (Section 78) *(Repeated almost verbatim by Apollonius of Kition in his commentary).*
+  source_class: appendix_context
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '"...ἐκ δὲ τοῦ σιναροῦ ἐς κεράμιον ὕδωρ ἐγχέαντα ἐκκρεμάσαι ἢ ἐς σφυρίδα λίθους ἐμβαλόντα."'
+  translation: '"...and from the injured [leg], having poured water into an earthen pot, hang it, or having cast stones into a basket (*sphyrida*) [hang it]."'
+  context_note: In the Hippocratic treatise *De articulis* (On Joints) and Apollonius of Kition's commentary on it, the *sphyris* is used as an improvised mechanical tool for setting dislocated hips.
+  raw_source_location: tools-texts-raw.md:## σφυρίς
+  overview_anchor: term-sphyris
+  reader_anchor: cit-sphyris-cit-1
+- id: sphyris-early-cit-1
+  term_ids:
+  - sphyris
+  sense_id: sphyris-early-sense-1
+  author: ''
+  work: ''
+  reference: 1.44; 1.55
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: '"...ἀνελόμενός τε εἰς σφυρίδα ἐξίπου..." / "...ἐξίπωσον διὰ σφυρίδος.".'
+  translation: '"...and taking it up into a basket, press it..." / "...press it out through a basket."'
+  context_note: A basket used to hold the botanical matter while it is being squeezed/pressed to extract the liquid.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-sphyris
+  reader_anchor: cit-sphyris-early-cit-1
+- id: spongos-early-cit-1
+  term_ids:
+  - spongos
+  sense_id: spongos-early-sense-1
+  author: ''
+  work: ''
+  reference: Paul 7.21.2
+  source_class: primary_technical
+  usage_type: application
+  family: Application And Use
+  citation_order: 1
+  greek: '"...βάπτων σπόγγους καὶ τιθεὶς πρὸς πρόσωπον."'
+  translation: '"...dipping sponges and placing them to the face."'
+  context_note: Used to wipe tables, or soaked in perfumed wine and applied to the face of a swooning or sick patient to revive them.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-spongos
+  reader_anchor: cit-spongos-early-cit-1
+- id: thyia-cit-1
+  term_ids:
+  - thyia
+  sense_id: thyia-sense-2
+  author: ''
+  work: ''
+  reference: Aëtius, *Iatricorum liber xvi* 131
+  source_class: appendix_context
+  usage_type: recipe
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: καρύων βασιλικῶν λέπη καύσας καὶ τρίψας ἐν θυίᾳ ἕνωσον, πρόσμιγε δὲ καὶ ὀποβαλσάμου κοχλιάρια γ. καὶ χρῶ πολυτελεστάτῳ μύρῳ.
+  translation: Burn walnut shells, grind them in a *thyia*, combine them, add three spoonfuls of balsam-juice, and use it as a very costly perfume.
+  context_note: In perfumery, θυία is the bowl in which fragrant materials are ground and blended.
+  raw_source_location: tools-texts-raw.md:## θυία
+  overview_anchor: term-thyia
+  reader_anchor: cit-thyia-cit-1
+- id: thyia-cit-2
+  term_ids:
+  - thyia
+  sense_id: thyia-sense-3
+  author: ''
+  work: ''
+  reference: Dioscorides, *De materia medica* 4.64.7
+  source_class: primary_technical
+  usage_type: recipe
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: ἔνιοι μὲν οὖν τὰς κωδύας μετὰ τῶν φύλλων κόπτοντες ἐκθλίβουσι διὰ πιεστῆρος καὶ τρίβοντες ἐν θυΐᾳ ἀναπλάττουσι τροχίσκους
+  translation: Some cut the capsules together with the leaves, squeeze them in a press, and, grinding the material in a *thyia*, form little cakes.
+  context_note: By extension, θυία is the ordinary vessel in which drugs are ground, mixed, and brought to a workable consistency.
+  raw_source_location: tools-texts-raw.md:## θυία
+  overview_anchor: term-thyia
+  reader_anchor: cit-thyia-cit-2
+- id: thyia-cit-3
+  term_ids:
+  - thyia
+  sense_id: thyia-sense-4
+  author: ''
+  work: ''
+  reference: Dioscorides, *De materia medica* 5.81.2
+  source_class: primary_technical
+  usage_type: recipe
+  family: Appendix And Semantic Control
+  citation_order: 3
+  greek: βαλὼν εἰς μολυβῆν θυίαν ὕδωρ τρῖβε δοίδυκι μολυβῷ, ἕως ἂν μελανθῇ τὸ ὕδωρ καὶ γένηται ὑλῶδες
+  translation: Put water into a lead *thyia* and grind with a lead pestle until the water turns black and becomes muddy.
+  context_note: In mineral pharmacy, θυία denotes a more specialized grinding and washing vessel for hard substances.
+  raw_source_location: tools-texts-raw.md:## θυία
+  overview_anchor: term-thyia
+  reader_anchor: cit-thyia-cit-3
+- id: thyia-igdion-early-cit-1
+  term_ids:
+  - thyia-igdion
+  sense_id: thyia-igdion-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 16.131; Paul 7.20.33
+  source_class: primary_technical
+  usage_type: unknown
+  family: Grinding, Stirring, And Mixing
+  citation_order: 1
+  greek: '"...τρίψας ἐν θυίᾳ ἕνωσον..." / "...προεκλειωθέντα ἐν ἰγδίῳ μετὰ τοῦ οἴνου..."'
+  translation: '"...having ground it in a mortar, unite it..." / "...previously triturated in a small mortar with wine..."'
+  context_note: Used heavily throughout the texts for grinding resins, aromatics, and mixing waxes with liquids.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-thyia-igdion
+  reader_anchor: cit-thyia-igdion-early-cit-1
+- id: tin-lined-vessels-cit-1
+  term_ids:
+  - tin-lined-vessels
+  sense_id: tin-lined-vessels-sense-6
+  author: ''
+  work: ''
+  reference: '** Aëtius, *Iatricorum liber* xii, ch. 55, ll. 37–44.'
+  source_class: appendix_context
+  usage_type: recipe
+  family: Appendix And Semantic Control
+  citation_order: 1
+  greek: κόψας τὰ ξηρὰ καὶ ἀραιοτέρῳ κοσκίνῳ σήσας βρέχε πάντα τῷ παλαιῷ οἴνῳ, τὸ δὲ βδέλλιον καὶ τὸ λάδανον προβρέχων καὶ λεάνας ἐν θυείᾳ ἐπίβαλε τοῖς βεβρεγμένοις· ἔστω δὲ τὸ ἀγγεῖον μυρεψικὸν κασσιτέρινον καὶ πωμάσας ἐπιμελῶς ἔα ἡμέρας καὶ νύκτας δύο. εἶτα τὴν σταφυλὴν προμεμαρασμένην λαβών, ἵνα μηδὲν σχῇ δρόσου, καὶ καθαρίως ἐκθλίψας καὶ διηθήσας ἐκ τῶν γιγάρτων ἔμβαλε τὸ γλεῦκος εἰς ἕτερον ἀγγεῖον γεγανωμένον τῷ κασσιτέρῳ· ἔστω δὲ μέγα, ὥστε καὶ εἰς τὸ ζέμα τοῦ γλεύκους χώραν ἔχειν ἱκανήν. εἶτα ἐπίβαλε τῷ γλεύκει πάντα τὰ ἐν τῷ παλαιῷ οἴνῳ βεβρεγμένα καὶ τὸ ἔλαιον καὶ σάλευε σπάθῃ μυρεψικῇ δὶς τῆς ἡμέρας· ἐπιμελῶς δὲ ἡ σπάθη ἀπομασσέσθω, ἵνα μὴ τὸ προσκείμενον αὐτῇ ὀξίσαν βλάψῃ τὸ φάρμακον. σκεπέσθω δὲ τὸ σκεῦος πώματι καὶ ἄνωθεν ἱματίοις καὶ κέντρωσιν ἀραιοῖς πλείοσι καὶ περιδείσθω ἐπιμελῶς, ὑποκείσθω δὲ τῷ ἀγγείῳ σπεῖρα ἑδράζουσα. ὅταν δὲ ἡμέραι ιεʹ διέλθωσιν, τὸ ἄμωμον ἀποδιδόσθω κεκομμένον καὶ πάλιν σαλευέσθω ὡς εἴρηται· τριακοστῇ δὲ ἡμέρᾳ ἐπὶ διπλώματος ἕψε καί, ὅταν γʹ ἢ δʹ ζέματα
+    λάβῃ, καθελὼν ἀπὸ τοῦ πυρὸς ἐπίβαλε εὐθέως τὸ ὀποβάλσαμον καὶ ἀνακινήσας καὶ σκεπάσας καλῶς ἔα χλιαίνεσθαι. ... καὶ ποιήσας τὸ μύρον κατ' ἰδίαν ἐπίβαλε αὐτῷ τὸ μαλαβάθρινον μύρον, προχλιανθὲν ἐν διπλώματι ἐπὶ θερμοῦ ὕδατος.
+  translation: After cutting the dry ingredients and sifting them through a rather open sieve, soak them all in old wine; and after first moistening bdellium and ladanum and grinding them in a mortar, add them to the soaked materials. Let the vessel be a tin perfumer’s vessel, and after carefully stoppering it leave it for two days and nights. Then take grapes that have first been slightly withered so that they have no dew on them, press them cleanly, strain out the pips, and put the must into another vessel tinned with tin; it should be large, so that it has enough room for the must’s boiling up. Then add to the must all the ingredients that have been soaked in the old wine, along with the oil, and stir with a perfumer’s spatula twice a day; and the spatula must be carefully wiped, so that what clings to it, if it turns sour, does not damage the medicine. The container must be covered with a lid and with cloths above, and carefully bound round with several loose stitches; and a supporting
+    coil should be placed beneath the vessel. When fifteen days have passed, the amomum is to be added, chopped more finely, and it is to be stirred again as directed. On the thirtieth day boil it in a double vessel; and when it has taken three or four boilings, remove it from the fire and immediately add the opobalsamum, then stir it and cover it well and let it grow warm. ... and after making the perfume separately, add to it the malabathrum perfume, first made lukewarm in a double vessel over hot water.
+  context_note: '**Greek** > κόψας τὰ ξηρὰ καὶ ἀραιοτέρῳ κοσκίνῳ σήσας βρέχε πάντα τῷ παλαιῷ οἴνῳ, τὸ δὲ βδέλλιον καὶ τὸ λάδανον προβρέχων καὶ λεάνας ἐν θυείᾳ ἐπίβαλε τοῖς βεβρεγμένοις· ἔστω δὲ τὸ ἀγγεῖον μυρεψικὸν κασσιτέρινον καὶ πωμάσας ἐπιμελῶς ἔα ἡμέρας καὶ νύκτας δύο.'
+  raw_source_location: tools-texts-raw.md:## Tin-lined and related perfumer's vessels
+  overview_anchor: term-tin-lined-vessels
+  reader_anchor: cit-tin-lined-vessels-cit-1
+- id: tin-lined-vessels-cit-2
+  term_ids:
+  - tin-lined-vessels
+  sense_id: tin-lined-vessels-sense-7
+  author: ''
+  work: ''
+  reference: '** Galenus, *De compositione medicamentorum per genera* vii, Kühn 13.1043.17–1044.6.'
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 2
+  greek: βαλὼν εἰς μικρὸν ἀγγεῖον μυρεψικὸν κασσιτερινὸν, πωμάσας ἐπιμελῶς ἔα ἐπὶ δώδεκα ἡμέρας καὶ δώδεκα νύκτας. συγχρονισάτω δὲ τὸ γλεῦκος καθαρῶς σταφυλῆς ἐκτεθλιμμένης, ἵνα μηδὲν ἔχῃ δρόσου. βαλὼν δὲ τὸ γλεῦκος εἰς μέγα χαλκεῖον, ὥστε καὶ εἰς τὸ ζέμα τοῦ γλεύκους χώραν ἔχειν, ἐπιβάλλειν πάντα ἐν τῷ οἴνῳ βεβρεγμένα καὶ τὸ ἔλαιον καὶ τὸν οἶνον δὶς τῆς ἡμέρας ἐν σπάθῃ μυρεψικῇ σαλευέσθω ἐπὶ ὥραν. ἡ δὲ σπάθη ἀπομασσέσθω ἐπιμελῶς, ἵνα μὴ τὸ προσμεῖναν ἐν αὐτῇ ὀξῦσαν βλάπτῃ τὸ φάρμακον πάλιν καταθείσης τῆς σπάθης. ἐσκευάσθω δὲ τὸ σκεῦος πώματι καὶ ἄνωθεν κεντρῶσι πλείοσι καὶ περιδείσθω ἐπιμελῶς. ὑποκείσθω δὲ τῷ ἀγγείῳ σπείρα. ὅταν δὲ ἡμέραι ιεʹ. διέλθωσι, τὸ ἀμμωνιακὸν καὶ αὐτὸ τὸ ἄμωμον ἀποδιδόσθω, ὁλοσχερέστερον κεκομμένον. λʹ. δὲ ἡμέρας ἐν διπλῷ ἀγγείῳ ἐπ' ἀνθράκων δύο ἢ τρία ζέματα δεῖ ἐνδιδόναι, τῷ μύρῳ ἀποδιδόντας καὶ τὸ ὀποβάλσαμον.
+  translation: Put it into a small tin perfumer’s vessel, stopper it carefully, and leave it for twelve days and twelve nights. The must too should be prepared at the same time from grapes cleanly pressed, so that it has no dew in it. Put the must into a large bronze vessel, with enough room for the must to rise in boiling; add all the ingredients that have been soaked in the wine, together with the oil, and let the mixture be stirred with a perfumer’s spatula twice a day for an hour. The spatula must be carefully wiped, so that whatever remains on it, if it turns sour, does not damage the medicine when the spatula is put back again. The vessel must be fitted with a lid and above that with several coverings, and carefully bound around; and a coil-support should be placed beneath the vessel. When fifteen days have passed, the ammoniacum and the amomum are to be added, chopped more completely. On the thirtieth day, in a double vessel over coals, it must be given two or three boilings, while
+    the opobalsamum is also added to the perfume.
+  context_note: '**Greek** > βαλὼν εἰς μικρὸν ἀγγεῖον μυρεψικὸν κασσιτερινὸν, πωμάσας ἐπιμελῶς ἔα ἐπὶ δώδεκα ἡμέρας καὶ δώδεκα νύκτας.'
+  raw_source_location: tools-texts-raw.md:## Tin-lined and related perfumer's vessels
+  overview_anchor: term-tin-lined-vessels
+  reader_anchor: cit-tin-lined-vessels-cit-2
+- id: tin-lined-vessels-cit-3
+  term_ids:
+  - tin-lined-vessels
+  sense_id: tin-lined-vessels-sense-8
+  author: ''
+  work: ''
+  reference: '** Galenus, *De compositione medicamentorum secundum locos* x, Kühn 13.53.14 ff.'
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 3
+  greek: '... καὶ βάλλοντες εἰς κεραμεοῦν ἀγγεῖον, ἐπιβάλλομεν αὐταῖς ὕδατος γλυκέος ... καὶ θέντες ἐπὶ πυρὸς ἕψομεν. ὅταν δὲ εἰς ἥμισυ καταχθῇ, καθαιροῦμεν καὶ διϋλίζομεν εἰς διπλοῦν ἀγγεῖον μυρεψικόν. καὶ τὰς μὲν ῥίζας ἐκθλίψαντες ῥίπτομεν, εἰς δὲ τὸ ὕδωρ ἐπιβάλλομεν ἁδρομερῶς κεκομμένα ... εἶτ'' ἐπὶ τὸ πῦρ ἐπιθέντες πάλιν ἕψομεν, καὶ ὅταν εἰς ἡμίσειαν καταντήσῃ, πάλιν διϋλίζομεν εἰς ἕτερον ἀγγεῖον μυρεψικὸν μικρόν. ... μεταίρομεν εἰς ἀγγεῖον ὑελοῦν ἢ ἀργυροῦν.'
+  translation: '... putting them into a ceramic vessel, we pour sweet water over them ... and setting it on the fire we boil it. When it has been reduced to half, we skim it and strain it into a double perfumer’s vessel. After squeezing out the roots, we throw them away, and into the liquid we put the other ingredients, cut in coarse pieces ... then setting it on the fire again we boil it once more, and when it has come down to half, we again strain it into another small perfumer’s vessel. ... we transfer it into a glass or silver vessel.'
+  context_note: '**Greek** > ...'
+  raw_source_location: tools-texts-raw.md:## Tin-lined and related perfumer's vessels
+  overview_anchor: term-tin-lined-vessels
+  reader_anchor: cit-tin-lined-vessels-cit-3
+- id: tin-lined-vessels-cit-4
+  term_ids:
+  - tin-lined-vessels
+  sense_id: tin-lined-vessels-sense-9
+  author: ''
+  work: ''
+  reference: '** Galenus, *De compositione medicamentorum secundum locos* x, Kühn 13.55.14 ff.'
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 4
+  greek: τὰ προειρημένα εἰς παχέα κόπτεται καὶ βρέχεται ἐν ἀγγείῳ διπλῷ μυρεψικῷ ἐπὶ ἡμέρας γʹ. τῇ δ' ἐπιούσῃ ἕψεται εἰς τὸ τρίτον, ἔπειτα εἰς κυρτίδα βαλόντες ἐκθλίβομεν τὸ ὑγρὸν εἰς ἕτερον ἀγγεῖον μυρεψικὸν, τὰ δὲ ἀφεψημένα ἀποῤῥίπτομεν.
+  translation: The ingredients mentioned above are cut into coarse pieces and soaked in a double perfumer’s vessel for three days. On the following day it is boiled down to a third; then, after putting it into a straining bag, we press the liquid out into another perfumer’s vessel, and the boiled-out solids we throw away.
+  context_note: '**Greek** > τὰ προειρημένα εἰς παχέα κόπτεται καὶ βρέχεται ἐν ἀγγείῳ διπλῷ μυρεψικῷ ἐπὶ ἡμέρας γʹ.'
+  raw_source_location: tools-texts-raw.md:## Tin-lined and related perfumer's vessels
+  overview_anchor: term-tin-lined-vessels
+  reader_anchor: cit-tin-lined-vessels-cit-4
+- id: tin-lined-vessels-cit-5
+  term_ids:
+  - tin-lined-vessels
+  sense_id: tin-lined-vessels-sense-10
+  author: ''
+  work: ''
+  reference: '** Aëtius, *Iatricorum liber* viii, ch. 56, l. 126 ff.'
+  source_class: appendix_context
+  usage_type: recipe
+  family: Appendix And Semantic Control
+  citation_order: 5
+  greek: τὰ προειρημένα ἅπαντα παχυμερῶς κόπτεται καὶ βρέχεται ἐπὶ ἡμέρας <γ>, τῇ δὲ ἑξῆς ἕψεται ἐν διπλώματι εἰς τὸ τρίτον, ἔπειτα ἐκθλίβομεν καὶ διηθοῦμεν.
+  translation: All the ingredients mentioned above are cut in thick pieces and soaked for three days; on the next day they are boiled in a double vessel down to a third, then we press them out and filter them.
+  context_note: '**Greek** > τὰ προειρημένα ἅπαντα παχυμερῶς κόπτεται καὶ βρέχεται ἐπὶ ἡμέρας <γ>, τῇ δὲ ἑξῆς ἕψεται ἐν διπλώματι εἰς τὸ τρίτον, ἔπειτα ἐκθλίβομεν καὶ διηθοῦμεν.'
+  raw_source_location: tools-texts-raw.md:## Tin-lined and related perfumer's vessels
+  overview_anchor: term-tin-lined-vessels
+  reader_anchor: cit-tin-lined-vessels-cit-5
+- id: tin-lined-vessels-cit-6
+  term_ids:
+  - tin-lined-vessels
+  sense_id: tin-lined-vessels-sense-11
+  author: ''
+  work: ''
+  reference: '** Galenus, *De compositione medicamentorum per genera* vii, Kühn 13.1011.9 ff.'
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 6
+  greek: πάντα θλάσας καὶ βαλὼν εἰς ἄγγος διπλοῦν μυρεψικὸν, ἐπίβαλλε οἴνου τμωλίτου ξε. ηʹ. ἔα βρέχεσθαι ἐπὶ ἡμέρας γʹ. εἶτ' ἐπίβαλλε ἐλαίου Σαβίνου λίτρας ιστʹ. ἰρίνου λίτραν αʹ. σχινίνου λίτραν αʹ. Συριακοῦ λίτραν αʹ. γλευκίνου λίτραν αʹ. μυρσίνου λίτραν αʹ. δαφνίνου λίτραν αʹ. καὶ θεὶς ἐπὶ τὸ πῦρ ἕψε, ἔπειτα τὸ ὑγρὸν ἐκθλίψας τῶν ἡψημένων, ἐξέρα εἰς ἕτερον ἀγγεῖον καὶ πάλιν ἕψε.
+  translation: Crush everything and put it into a double perfumer’s vessel; pour in eight sextarii of Tmolian wine; leave it to soak for three days. Then add sixteen pounds of Sabine oil, one pound of iris oil, one pound of mastic oil, one pound of Syrian oil, one pound of must-oil, one pound of myrtle oil, and one pound of bay oil; and setting it on the fire boil it. Then, after pressing the liquid out from the boiled materials, transfer it to another vessel and boil it again.
+  context_note: '**Greek** > πάντα θλάσας καὶ βαλὼν εἰς ἄγγος διπλοῦν μυρεψικὸν, ἐπίβαλλε οἴνου τμωλίτου ξε.'
+  raw_source_location: tools-texts-raw.md:## Tin-lined and related perfumer's vessels
+  overview_anchor: term-tin-lined-vessels
+  reader_anchor: cit-tin-lined-vessels-cit-6
+- id: tin-lined-vessels-cit-7
+  term_ids:
+  - tin-lined-vessels
+  sense_id: tin-lined-vessels-sense-12
+  author: ''
+  work: ''
+  reference: '** Galenus, *De compositione medicamentorum per genera* vii, Kühn 13.1022.8 ff.'
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 7
+  greek: τοὺς ἀκρέμονας τῆς αἰγείρου κόψας ἐπιμελῶς, ἔχε ἐν ἀγγείῳ διπλῷ μυρεψικῷ καὶ τούτοις ἐπίβαλλε σάμψυχον, ῥίζαν σικύου κόψας παχυμερῶς καὶ τούτοις ἐπίβαλλε τὸν οἶνον καὶ πάντα ἔα βρέχεσθαι ἐπὶ ἡμέρας θʹ. τῇ δ' ἐπιούσῃ ἐπιβαλὼν τὸ ἔλαιον καὶ ἀνακόψας ἐπιμελῶς ἕψε, πυρὶ χρώμενος μαλακῷ.
+  translation: After carefully cutting the poplar catkins, keep them in a double perfumer’s vessel, and add sweet marjoram to them; after cutting the squirting-cucumber root in coarse pieces, add the wine to these, and leave everything to soak for nine days. On the next day, after adding the oil and stirring carefully, boil it, using a gentle fire.
+  context_note: '**Greek** > τοὺς ἀκρέμονας τῆς αἰγείρου κόψας ἐπιμελῶς, ἔχε ἐν ἀγγείῳ διπλῷ μυρεψικῷ καὶ τούτοις ἐπίβαλλε σάμψυχον, ῥίζαν σικύου κόψας παχυμερῶς καὶ τούτοις ἐπίβαλλε τὸν οἶνον καὶ πάντα ἔα βρέχεσθαι ἐπὶ ἡμέρας θʹ.'
+  raw_source_location: tools-texts-raw.md:## Tin-lined and related perfumer's vessels
+  overview_anchor: term-tin-lined-vessels
+  reader_anchor: cit-tin-lined-vessels-cit-7
+- id: tin-lined-vessels-cit-8
+  term_ids:
+  - tin-lined-vessels
+  sense_id: tin-lined-vessels-sense-13
+  author: ''
+  work: ''
+  reference: '** Galenus, *De sanitate tuenda* vi, Kühn 6.290.1.'
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 8
+  greek: καλεῖται δ' οὕτως, ἐπειδὰν προϋποκειμένου λέβητος ὕδωρ ἔχοντος ζέον ἐνιστῆταί τι τούτῳ μικρότερον ἀγγεῖον, εἰς ὃ μέλλει τὸ ἔλαιον ἐγχεῖσθαι.
+  translation: It is so called when, with a cauldron set underneath that contains boiling water, a smaller vessel is inserted into it, into which the oil that is to be heated is about to be poured.
+  context_note: '**Greek** > καλεῖται δ'' οὕτως, ἐπειδὰν προϋποκειμένου λέβητος ὕδωρ ἔχοντος ζέον ἐνιστῆταί τι τούτῳ μικρότερον ἀγγεῖον, εἰς ὃ μέλλει τὸ ἔλαιον ἐγχεῖσθαι.'
+  raw_source_location: tools-texts-raw.md:## Tin-lined and related perfumer's vessels
+  overview_anchor: term-tin-lined-vessels
+  reader_anchor: cit-tin-lined-vessels-cit-8
+- id: tin-lined-vessels-cit-9
+  term_ids:
+  - tin-lined-vessels
+  sense_id: tin-lined-vessels-sense-14
+  author: ''
+  work: ''
+  reference: '** Galenus, *De methodo medendi* xiv, Kühn 10.573.14.'
+  source_class: primary_technical
+  usage_type: unknown
+  family: Appendix And Semantic Control
+  citation_order: 9
+  greek: οἶσθα δὲ καὶ ὡς ἐπ' ἀγγείου διπλοῦ προϋποβεβλημένου κατὰ τὸ ἕτερον αὐτῶν τὸ μεῖζον ὕδατος ζέοντος, ἔθος ἡμῖν ἐστι θερμαίνειν τὰ μύρα· διαφθείρεται γὰρ ἡ δύναμις αὐτῶν ἑτέρως θερμανθέντων.
+  translation: You know too that we are accustomed to heat perfumes on a double vessel, with boiling water placed beforehand in the larger of the two parts; for their potency is destroyed if they are heated in another way.
+  context_note: '**Greek** > οἶσθα δὲ καὶ ὡς ἐπ'' ἀγγείου διπλοῦ προϋποβεβλημένου κατὰ τὸ ἕτερον αὐτῶν τὸ μεῖζον ὕδατος ζέοντος, ἔθος ἡμῖν ἐστι θερμαίνειν τὰ μύρα· διαφθείρεται γὰρ ἡ δύναμις αὐτῶν ἑτέρως θερμανθέντων.'
+  raw_source_location: tools-texts-raw.md:## Tin-lined and related perfumer's vessels
+  overview_anchor: term-tin-lined-vessels
+  reader_anchor: cit-tin-lined-vessels-cit-9
+- id: troullion-early-cit-1
+  term_ids:
+  - troullion
+  sense_id: troullion-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 16.136
+  source_class: primary_technical
+  usage_type: storage
+  family: Containers And Storage
+  citation_order: 1
+  greek: '"...τὸν δὲ στύρακα διαλύσας ἐν τρουλλίῳ..."'
+  translation: '"...having dissolved the styrax in a small bowl..."'
+  context_note: Used for gently melting resins (like styrax) with honey over coals.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-troullion
+  reader_anchor: cit-troullion-early-cit-1
+- id: xestion-ostrakinon-early-cit-1
+  term_ids:
+  - xestion-ostrakinon
+  sense_id: xestion-ostrakinon-early-sense-1
+  author: ''
+  work: ''
+  reference: Aetius 1.135
+  source_class: primary_technical
+  usage_type: unknown
+  family: Heat, Soaking, And Controlled Processing
+  citation_order: 1
+  greek: '"...ἕτερον ὀστράκινον ἀγγεῖον ἄωτον λαβὼν μακροτράχηλον..."'
+  translation: '"...taking another handle-less earthenware vessel with a long neck..."'
+  context_note: Used in a primitive downward-distillation/fumigation setup (Aetius 1.135). Aetius specifies using a handleless vessel (**ἄωτον**) and another with a long neck (**μακροτράχηλον**) buried in the earth to catch infused vapors without catching fire.
+  raw_source_location: tools-texts-raw.md:early
+  overview_anchor: term-xestion-ostrakinon
+  reader_anchor: cit-xestion-ostrakinon-early-cit-1
