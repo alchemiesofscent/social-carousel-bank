@@ -1,9 +1,7 @@
-// Draft revision 2: 2026-03-28-wp13a
-// Posts: 3
-// Date: 2026-03-28
+// Published base captured from carousel-bank/src/data/carousels.js before live reset
+// Date: 2026-03-29
 
-const DRAFT_CAROUSELS = [
-  // 1. rhopos-and-the-perfumer
+const PUBLISHED_BASE = [
   {
     id: "rhopos-and-the-perfumer",
     series: "THE TRANSMUTATION",
@@ -17,7 +15,7 @@ const DRAFT_CAROUSELS = [
       },
       {
         type: "body",
-        mainText: "Ptolemy runs these trades together. He moves from flowers and perfumes to colors, dyes, and aromatics, then lists perfumers, painters, dyers, and cloth-sellers in one professional cluster.",
+        mainText: "Ptolemy runs these trades together. He moves from flowers and perfumes to colors, dyes, and aromatics, then lists perfumers, painters, dyers, and cloth-sellers in one professional cluster. From that same world comes rhopopoles: the perfume seller.",
       },
       {
         type: "body",
@@ -30,8 +28,6 @@ const DRAFT_CAROUSELS = [
       },
     ],
   },
-
-  // 2. stypsis-before-scent
   {
     id: "stypsis-before-scent",
     series: "THE TRANSMUTATION",
@@ -58,8 +54,6 @@ const DRAFT_CAROUSELS = [
       },
     ],
   },
-
-  // 3. maria-speaks-in-apparatus
   {
     id: "maria-speaks-in-apparatus",
     series: "THE TRANSMUTATION",
@@ -83,6 +77,62 @@ const DRAFT_CAROUSELS = [
         type: "closer",
         mainText: "Maria survives here as procedure: where to set it, how long to leave it, what the heat should do.",
         subText: "alchem.md:21-37.",
+      },
+    ],
+  },
+  {
+    id: "drawn-up-dripped-fixed",
+    series: "THE TRANSMUTATION",
+    slides: [
+      {
+        type: "hook",
+        topLine: "anaspasis",
+        script: "ἀνάσπασις",
+        mainText: "One alchemical sequence is easy to picture: draw it up through the apparatus, let it drip out, then fix it.",
+        subText: "Zosimos and related alchemical passages. The process already reads like a set of workshop verbs.",
+      },
+      {
+        type: "body",
+        mainText: "Sulfur-water goes up through pan and tube. Liquid drips through a spout or filter. Then the batch is sealed in the apparatus, boiled, and left shut until it runs.",
+      },
+      {
+        type: "body",
+        mainText: "Zosimos makes the payoff explicit by stacking the terms together: anaspasis, dripping, fixation. The end of the art, he says, lies in the setup that draws copper upward and in its fixing.",
+      },
+      {
+        type: "closer",
+        mainText: "Up. Drip. Set. The workshop is already in the verbs.",
+        subText: "alchem.md:149-151, 165-173, 2448-2464, 3093-3120.",
+      },
+    ],
+  },
+  {
+    id: "copper-is-dyed",
+    series: "THE TRANSMUTATION",
+    slides: [
+      {
+        type: "hook",
+        topLine: "baphe",
+        script: "βαφή",
+        mainText: "Maria says copper does not dye first. Copper gets dyed.",
+        subText: "Zosimos, alchem.md. The metal enters the sentence as a dyed thing before it becomes a dyeing one.",
+      },
+      {
+        type: "body",
+        mainText: "Zosimos says the art speaks about one dye, and under that word he gathers metals, liquids, earths, and plants into one process.",
+      },
+      {
+        type: "body",
+        mainText: "The stages stay visible. Thin it down. Blacken it. Whiten it. Then comes secure yellowing.",
+      },
+      {
+        type: "body",
+        mainText: "Then Maria says it flatly: copper is dyed first, and only then does it dye.",
+      },
+      {
+        type: "closer",
+        mainText: "Here metal enters the sentence the way cloth usually does: as something worked on until the color takes.",
+        subText: "alchem.md:46-63, 70-80, 232-246, 268-281.",
       },
     ],
   },

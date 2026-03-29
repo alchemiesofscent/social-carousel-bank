@@ -1,6 +1,6 @@
 # Production Dashboard — Ancient Perfumery Content Bank
 
-**185 / 150 posts complete** | target exceeded | Last updated: 2026-03-29
+**183 / 150 posts complete** | target exceeded | Last updated: 2026-03-29
 
 **Overflow fix complete:** All 23 body slides trimmed to ≤350 chars 2026-03-24. Validator passes clean.
 
@@ -347,19 +347,17 @@ Physical equipment: presses, mortars, strainers, vessels, heat.
 
 ---
 
-### 11. THE TRANSMUTATION — 5 done, 0 planned
+### 11. THE TRANSMUTATION — 3 done, 0 planned
 
-Perfumery and alchemy: shared vocabulary, tools, and logic.
+Perfumery and alchemy: shared vocabulary and craft-language overlap.
 
-**Status: COMPLETE** — WP13 merged 2026-03-28.
+**Status: COMPLETE** — live set revised 2026-03-29.
 
 | # | Carousel ID | Source / WP | Status |
 |---|-------------|-------------|--------|
 | 1 | `rhopos-and-the-perfumer` | WP13 — `Alchemy.md` profession lists + lexica | ✅ |
-| 2 | `stypsis-before-scent` | WP13 — Theophrastus + Galen + recipe tables in `Alchemy.md` | ✅ |
-| 3 | `maria-speaks-in-apparatus` | WP13 — `alchem.md` Zosimos/Maria passages | ✅ |
-| 4 | `drawn-up-dripped-fixed` | WP13 — `alchem.md` process/apparatus passages | ✅ |
-| 5 | `copper-is-dyed` | WP13 — `alchem.md` on `μία βαφή` and copper | ✅ |
+| 2 | `stypsis-before-scent` | WP13 — Theophrastus + Galen + recipe-table evidence | ✅ |
+| 3 | `alteration-means-dyeing` | WP13 — `alchem.md` lexicon fragment on `ἀλλοίωσις` and `βαφή` | ✅ |
 
 ---
 
@@ -377,10 +375,10 @@ Perfumery and alchemy: shared vocabulary, tools, and logic.
 | PHARMAKON | 12 | 0 | 12 | **Yes** |
 | ARTS OF VENUS | 12 | 0 | 12 | **Yes** |
 | TOOLS OF THE TRADE | 9 | 0 | 9 | **Yes** |
-| THE TRANSMUTATION | 5 | 0 | 5 | **Yes** |
-| **TOTAL** | **185** | **0** | **185** | |
+| THE TRANSMUTATION | 3 | 0 | 3 | **Yes** |
+| **TOTAL** | **183** | **0** | **183** | |
 
-Note: The planned WBS scope is now fully executed. The live bank stands at 185 posts against the original 150-post target.
+Note: The planned WBS scope is now fully executed. The live bank stands at 183 posts against the original 150-post target.
 
 ---
 
@@ -400,6 +398,6 @@ Note: The planned WBS scope is now fully executed. The live bank stands at 185 p
 | WP10 | The Marketplace | 11 | 11 | **Complete** |
 | WP11 | Perfume as Medicine | 8 | 8 | **Complete** |
 | WP12 | Arts of Venus | 6 | 6 | **Complete** |
-| WP13 | Perfumery & Alchemy | 5 | 5 | **Complete** |
+| WP13 | Perfumery & Alchemy | 3 | 3 | **Complete** |
 | WP14 | Perfumery & Philosophy | 4 | 4 | **Complete** |
 | WP15 | Individual Ingredients | 8 | 11 | **Complete** (exceeded: 11 merged) |

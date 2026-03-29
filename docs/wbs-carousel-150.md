@@ -1,7 +1,7 @@
 # CAROUSEL BANK — WORK BREAKDOWN STRUCTURE
 ## Original target: 150 posts (77 existing → 73 new)
 
-Note: This is the original 150-post planning artifact. Live production has now reached `185 / 150` as of 2026-03-29. For live counts, completed IDs, and current WP status, use `workbench/status.md` and `workbench/dashboard.md`.
+Note: This is the original 150-post planning artifact. Live production has now reached `183 / 150` as of 2026-03-29. For live counts, completed IDs, and current WP status, use `workbench/status.md` and `workbench/dashboard.md`.
 
 ---
 
@@ -236,7 +236,7 @@ Series: ARTS OF VENUS
 ### WP13 — PERFUMERY & ALCHEMY (5 posts)
 Series: THE TRANSMUTATION
 
-**Live status:** Complete. WP13 merged 2026-03-28 as a 5-post THE TRANSMUTATION package. See `workbench/status.md` for the final IDs.
+**Live status:** Complete. WP13 originally merged 2026-03-28 as a 5-post THE TRANSMUTATION package, then was pruned on 2026-03-29 to a 3-post live set (`rhopos-and-the-perfumer`, `stypsis-before-scent`, `alteration-means-dyeing`).
 
 | # | Topic | Source |
 |---|-------|--------|
@@ -246,7 +246,7 @@ Series: THE TRANSMUTATION
 | 4 | Drawn up, dripped, fixed | `alchem.md` on `ἀνάσπασις`, `ἀπόσταξις`, `πῆξις` |
 | 5 | Copper is dyed | `alchem.md` on `μία βαφή` and copper |
 
-**Historical source note:** The local source base proved sufficient: `workbench/sources/alchem.md`, `workbench/sources/Alchemy.md`, and `workbench/napkins.md:1149` as support only. The earlier Bolus-heavy outline was normalized to stronger attested overlaps in the local corpus, and the final 5-post WP13 run is now merged.
+**Historical source note:** The local source base proved sufficient: `workbench/sources/alchem.md`, `workbench/sources/Alchemy.md`, and `workbench/napkins.md:1149` as support only. The earlier Bolus-heavy outline was normalized to stronger attested overlaps in the local corpus; the original 5-post merge was later reduced in the live bank to the 3 clearest posts.
 
 ---
 

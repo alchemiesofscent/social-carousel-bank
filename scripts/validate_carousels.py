@@ -100,8 +100,7 @@ WP_ASSIGNMENTS = {
     "hera-ambrosial-oil": "WP12", "anointed-corpse": "WP12",
     # WP13 — Perfumery & Alchemy
     "rhopos-and-the-perfumer": "WP13", "stypsis-before-scent": "WP13",
-    "maria-speaks-in-apparatus": "WP13", "drawn-up-dripped-fixed": "WP13",
-    "copper-is-dyed": "WP13",
+    "alteration-means-dyeing": "WP13",
     # WP14 — Perfumery & Philosophy
     "plato-smell-no-name": "WP14", "democritus-smell-shape": "WP14",
     "stoic-smell-self-command": "WP14", "lucretius-scent-particles": "WP14",
@@ -110,7 +109,7 @@ WP_ASSIGNMENTS = {
 WP_TARGETS = {
     "WP1": 8, "WP2": 15, "WP3": 5, "WP4": 6, "WP5": 7, "WP6": 9,
     "WP7": 9, "WP8": 7, "WP9": 8, "WP10": 11, "WP11": 8, "WP12": 6,
-    "WP13": 5, "WP14": 4, "WP15": 8,
+    "WP13": 3, "WP14": 4, "WP15": 8,
 }
 
 WP_NAMES = {

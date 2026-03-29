@@ -70,9 +70,9 @@ Offline fallback:
 
 ## Content overview
 
-**Current count: 185 carousels.** Original target: 150 posts (3x/week posting cadence), now exceeded.
+**Current count: 183 carousels.** Original target: 150 posts (3x/week posting cadence), now exceeded.
 
-All 15 planned work packages are complete. WP7 has since been expanded beyond its original six-post target. For live counts, completed IDs, and current work-package status, use `workbench/status.md` and `workbench/dashboard.md`.
+All 15 planned work packages are complete. WP7 has since been expanded beyond its original six-post target, and WP13 now uses a revised 3-post live set. For live counts, completed IDs, and current work-package status, use `workbench/status.md` and `workbench/dashboard.md`.
 
 ### Series
 
@@ -87,7 +87,7 @@ All 15 planned work packages are complete. WP7 has since been expanded beyond it
 | THE MARKETPLACE | Adulteration, quality testing, fraud, pricing |
 | ARTS OF VENUS | Perfume, luxury, desire, cosmetics, the body (complete) |
 | TOOLS OF THE TRADE | Physical equipment: presses, mortars, vessels, and alchemical rigs |
-| THE TRANSMUTATION | Perfumery and alchemy (complete) |
+| THE TRANSMUTATION | Perfumery and alchemy (live set revised) |
 | PHARMAKON | Perfume as medicine (complete) |
 
 ### Primary sources

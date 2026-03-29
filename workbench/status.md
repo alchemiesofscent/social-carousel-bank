@@ -1,6 +1,6 @@
 # Carousel Bank Status
 
-**Current count: 185 / 150**
+**Current count: 183 / 150**
 **Last updated: 2026-03-29**
 
 **Overflow fix complete:** All 23 body slides trimmed to ≤350 chars. Batches A–E done 2026-03-24. Validator passes clean.
@@ -14,7 +14,7 @@
 | M1 | 75 posts | ✅ Done | Exceeded — at 84 |
 | M2 | 100 posts | ✅ Done | Exceeded — at 104 |
 | M3 | 125 posts | ✅ Done | WP4, WP6, WP8, WP10 done; exceeded — at 135 |
-| M4 | 150 posts | ✅ Done | Exceeded — at 185 |
+| M4 | 150 posts | ✅ Done | Exceeded — at 183 |
 
 ---
 
@@ -34,7 +34,7 @@
 | WP10 | The Marketplace | ✅ Done | 11/11 | fire-test, worm-trick, galen-warehouse, huckster-test, falernian-scale, summer-ships, blind-perfumers, diogenes-perfumery, root-cutters, harvest-window, perfumers-shade |
 | WP11 | Perfume as Medicine | ✅ Done | 8/8 | hippocratic-fumigations, brain-drying-theory, rose-perfume-bladder, please-the-sick, scent-diagnosis, cephalic-ointment, rose-oil-anti-inflammatory, epidemic-air |
 | WP12 | Arts of Venus | ✅ Done | 6/6 | hidden-pyxides, munditia-no-crime, pliny-unguenta-luxus, wedding-threshold, hera-ambrosial-oil, anointed-corpse |
-| WP13 | Perfumery & Alchemy | ✅ Done | 5/5 | rhopos-and-the-perfumer, stypsis-before-scent, maria-speaks-in-apparatus, drawn-up-dripped-fixed, copper-is-dyed |
+| WP13 | Perfumery & Alchemy | ✅ Done | 3/3 | rhopos-and-the-perfumer, stypsis-before-scent, alteration-means-dyeing |
 | WP14 | Perfumery & Philosophy | ✅ Done | 4/4 | plato-smell-no-name, democritus-smell-shape, stoic-smell-self-command, lucretius-scent-particles |
 | WP15 | Individual Ingredients | ✅ Done | 11/8 | smyrna-grades, bdellium, cedar-life-death, spikenard-double-gift, costus-burning, calamus-far-smell, balsam-grades, labdanum-goat, myrakopa, perfume-fire, nard-stachys-mystery |
 
@@ -69,6 +69,7 @@
 | WP7C | 2026-03-29 | 3 (`kerotakis-gentle-heat`, `tribikos-three-tubes`, `watching-through-the-flask`) | ✅ Merged |
 | WP13A | 2026-03-28 | 3 (`rhopos-and-the-perfumer`, `stypsis-before-scent`, `maria-speaks-in-apparatus`) | ✅ Merged |
 | WP13B | 2026-03-28 | 2 (`drawn-up-dripped-fixed`, `copper-is-dyed`) | ✅ Merged |
+| WP13 reset | 2026-03-29 | live set revised to 3 (`rhopos-and-the-perfumer`, `stypsis-before-scent`, `alteration-means-dyeing`) | ✅ Revised |
 
 Draft files: `workbench/drafts/2026-03-17-wp{3,5,9a,9b}/`, `workbench/drafts/2026-03-22-wp4/`, `workbench/drafts/2026-03-24-wp10a/`, `workbench/drafts/2026-03-24-wp10b/`, `workbench/drafts/2026-03-24-wp6/`, `workbench/drafts/2026-03-24-wp8a/`, `workbench/drafts/2026-03-24-wp8b/`, `workbench/drafts/2026-03-25-wp15/`, `workbench/drafts/2026-03-25-perfume-books/`, `workbench/drafts/2026-03-25-theo-extension/`, `workbench/drafts/2026-03-27-aristotle-smell/`, `workbench/drafts/2026-03-27-wp14/`, `workbench/drafts/2026-03-27-wp11-source-map.md`, `workbench/drafts/2026-03-27-wp11a/`, `workbench/drafts/2026-03-27-wp11b/`, `workbench/drafts/2026-03-27-wp12-source-map.md`, `workbench/drafts/2026-03-27-wp12a/`, `workbench/drafts/2026-03-27-wp12b/`, `workbench/drafts/2026-03-28-wp7-source-map.md`, `workbench/drafts/2026-03-28-wp7a/`, `workbench/drafts/2026-03-28-wp7b/`, `workbench/drafts/2026-03-28-wp13-source-map.md`, `workbench/drafts/2026-03-28-wp13a/`, `workbench/drafts/2026-03-28-wp13b/`, `workbench/drafts/2026-03-29-wp7-source-map.md`, `workbench/drafts/2026-03-29-wp7c/`
 
@@ -123,7 +124,7 @@ nenib, seth, sousinon, foliatum, tanetjer, antu, knisa, aromata, psagdan, sal, e
 
 **Overflow fix: COMPLETE** — all 23 slides trimmed 2026-03-24, validator clean.
 
-**WBS completion:** All 15 work packages are now complete and merged.
+**WBS completion:** All 15 work packages are now complete. WP13 now uses a revised 3-post live set.
 
 **Next content work:** optional extensions or revisions only; no planned WBS packages remain.
 

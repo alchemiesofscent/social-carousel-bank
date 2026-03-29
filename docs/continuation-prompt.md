@@ -12,10 +12,10 @@ The carousel data lives in `carousel-bank/src/data/carousels.js` (the `CAROUSELS
 
 ## Current state
 
-**185 / 150 carousels complete.** Original target exceeded by 35.
+**183 / 150 carousels complete.** Original target exceeded by 33.
 
 **WPs complete (15/15):** WP1, WP2, WP3, WP4, WP5, WP6, WP7, WP8, WP9, WP10, WP11, WP12, WP13, WP14, WP15
-**WP13 status:** merged 2026-03-28 (5 posts)
+**WP13 status:** live set revised 2026-03-29 (3 posts)
 **WP7 status:** expanded 2026-03-29 (9 posts)
 **WP12 status:** merged 2026-03-28 (6 posts)
 **WP11 status:** merged 2026-03-27 (8 posts)
@@ -73,7 +73,7 @@ The draft/review loop repeats until PM says `GOOD`, with a maximum of 2 revision
 | PHARMAKON | **Complete** | 12 | WP5 partial; horror extension merged; WP11 merged 2026-03-27 | Perfume as medicine. |
 | THE NOSE KNOWS | **Complete** | 10 | WP1,4,14 + Aristotle extension | Smell theory, philosophy of scent. |
 | TOOLS OF THE TRADE | **Complete** | 9 | WP7 | Physical equipment: presses, mortars, vessels, and alchemical rigs. |
-| THE TRANSMUTATION | **Complete** | 5 | WP13 | Perfumery ↔ alchemy: shared vocabulary, process language, and apparatus logic. |
+| THE TRANSMUTATION | **Complete** | 3 | WP13 | Perfumery ↔ alchemy: shared vocabulary and craft-language overlap. |
 
 ---
 

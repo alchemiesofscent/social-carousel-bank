@@ -10,12 +10,12 @@ const DRAFT_CAROUSELS = [
         type: "hook",
         topLine: "rhopos",
         script: "ῥῶπος",
-        mainText: "One Greek lexicon explains the perfume seller with the same mixed stuff used by dyers and painters.",
+        mainText: "One Greek lexicon explains the perfume seller sold the stuff used by dyers and painters too.",
         subText: "Photius, Suda s.v. ῥῶπος. The perfumer enters through compounds and color-materials, not just scent.",
       },
       {
         type: "body",
-        mainText: "Ptolemy runs these trades together. He moves from flowers and perfumes to colors, dyes, and aromatics, then lists perfumers, painters, dyers, and cloth-sellers in one professional cluster. From that same world comes rhopopoles: the perfume seller.",
+        mainText: "Ptolemy runs these trades together. He moves from flowers and perfumes to colors, dyes, and aromatics, then lists perfumers, painters, dyers, and cloth-sellers in one professional cluster.",
       },
       {
         type: "body",
@@ -36,7 +36,7 @@ const DRAFT_CAROUSELS = [
         type: "hook",
         topLine: "stypsis",
         script: "στῦψις",
-        mainText: "Ancient perfume does not start with petals. It starts with oil being worked over like wool headed for dye.",
+        mainText: "Ancient perfume does not start with petals. It starts with oil being worked over like wool prepared for dye.",
         subText: "Theophrastus, Scents 17; Galen, Simp. Med. 2.27. The scent comes after the prep.",
       },
       {
@@ -45,11 +45,11 @@ const DRAFT_CAROUSELS = [
       },
       {
         type: "body",
-        mainText: "The strongest clue sits in the headers. In the recipe tables, perfume entries are labeled στῦψις, and a dye recipe stands beside them as στῦψις καὶ βαφή. Perfume and dye are being sorted under the same prep word.",
+        mainText: "The strongest clue sits in the titles. In the recipe lists, perfume entries are labeled with στῦψις, the same label we see in dye recipe lists. Perfume and dye are being sorted under the same prep step.",
       },
       {
         type: "closer",
-        mainText: "The smell comes late. First the oil has to learn how to take it.",
+        mainText: "The smell comes late. First the oil has to be treated to absorb it.",
         subText: "Galen, Simp. Med. 2.27; Theophr., Odor. 17; P.Oxy. 5242; Pap. Holm. 100.",
       },
     ],

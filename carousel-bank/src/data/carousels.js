@@ -2669,7 +2669,7 @@ export const CAROUSELS = [
       },
     ],
   },
-  // WP13A — THE TRANSMUTATION (2026-03-28)
+  // WP13 — THE TRANSMUTATION (revised 2026-03-29)
   {
     id: "rhopos-and-the-perfumer",
     series: "THE TRANSMUTATION",
@@ -2678,12 +2678,12 @@ export const CAROUSELS = [
         type: "hook",
         topLine: "rhopos",
         script: "ῥῶπος",
-        mainText: "One Greek lexicon explains the perfume seller with the same mixed stuff used by dyers and painters.",
+        mainText: "One Greek lexicon explains the perfume seller sold the stuff used by dyers and painters too.",
         subText: "Photius, Suda s.v. ῥῶπος. The perfumer enters through compounds and color-materials, not just scent.",
       },
       {
         type: "body",
-        mainText: "Ptolemy runs these trades together. He moves from flowers and perfumes to colors, dyes, and aromatics, then lists perfumers, painters, dyers, and cloth-sellers in one professional cluster. From that same world comes rhopopoles: the perfume seller.",
+        mainText: "Ptolemy runs these trades together. He moves from flowers and perfumes to colors, dyes, and aromatics, then lists perfumers, painters, dyers, and cloth-sellers in one professional cluster.",
       },
       {
         type: "body",
@@ -2704,7 +2704,7 @@ export const CAROUSELS = [
         type: "hook",
         topLine: "stypsis",
         script: "στῦψις",
-        mainText: "Ancient perfume does not start with petals. It starts with oil being worked over like wool headed for dye.",
+        mainText: "Ancient perfume does not start with petals. It starts with oil being worked over like wool prepared for dye.",
         subText: "Theophrastus, Scents 17; Galen, Simp. Med. 2.27. The scent comes after the prep.",
       },
       {
@@ -2713,95 +2713,38 @@ export const CAROUSELS = [
       },
       {
         type: "body",
-        mainText: "The strongest clue sits in the headers. In the recipe tables, perfume entries are labeled στῦψις, and a dye recipe stands beside them as στῦψις καὶ βαφή. Perfume and dye are being sorted under the same prep word.",
+        mainText: "The strongest clue sits in the titles. In the recipe lists, perfume entries are labeled with στῦψις, the same label we see in dye recipe lists. Perfume and dye are being sorted under the same prep step.",
       },
       {
         type: "closer",
-        mainText: "The smell comes late. First the oil has to learn how to take it.",
-        subText: "Galen, Simp. Med. 2.27; Theophrastus, Scents 17; Alchemy.md recipe tables.",
+        mainText: "The smell comes late. First the oil has to be treated to absorb it.",
+        subText: "Galen, Simp. Med. 2.27; Theophr., Odor. 17; P.Oxy. 5242; Pap. Holm. 100.",
       },
     ],
   },
   {
-    id: "maria-speaks-in-apparatus",
+    id: "alteration-means-dyeing",
     series: "THE TRANSMUTATION",
     slides: [
       {
         type: "hook",
-        topLine: "Maria",
-        script: "Μαρία",
-        mainText: "Maria does not enter these texts as a legend. She enters telling you where to put the sulfur-water.",
-        subText: "Zosimos in alchem.md. The voice arrives as instruction: ash, gum, plate, tube, heat.",
+        topLine: "alteration",
+        script: "ἀλλοίωσις",
+        mainText: "One alchemical lexicon uses a dye-shop word for change itself: alteration is dyeing.",
+        subText: "Fragm. Alchem., Lexicon alchemicum, CAAG 2.5.24ff. The definition is blunt.",
       },
       {
         type: "body",
-        mainText: "One passage leaves the water below in the kerotakis. Maria says add sulfur-water and a little gum, set it in warm ash, and that is how the water congeals.",
+        mainText: "The line sits beside another equation just as stark: non-burning is whitening. The lexicon names change by visible outcomes, not by abstract theory first.",
       },
       {
         type: "body",
-        mainText: "Then the setup gets more exact. Put it on the plate of the kerotakis. Make a double plate. Set copper and gold on it. Leave it three days until it has baked.",
+        mainText: "That is the overlap point. In this vocabulary, a material changes by being whitened or dyed, by taking on a worked color-state you can see.",
       },
       {
         type: "closer",
-        mainText: "Maria survives here as procedure: where to set it, how long to leave it, what the heat should do.",
-        subText: "alchem.md:21-37.",
-      },
-    ],
-  },
-  // WP13B — THE TRANSMUTATION (2026-03-28)
-  {
-    id: "drawn-up-dripped-fixed",
-    series: "THE TRANSMUTATION",
-    slides: [
-      {
-        type: "hook",
-        topLine: "anaspasis",
-        script: "ἀνάσπασις",
-        mainText: "One alchemical sequence is easy to picture: draw it up through the apparatus, let it drip out, then fix it.",
-        subText: "Zosimos and related alchemical passages. The process already reads like a set of workshop verbs.",
-      },
-      {
-        type: "body",
-        mainText: "Sulfur-water goes up through pan and tube. Liquid drips through a spout or filter. Then the batch is sealed in the apparatus, boiled, and left shut until it runs.",
-      },
-      {
-        type: "body",
-        mainText: "Zosimos makes the payoff explicit by stacking the terms together: anaspasis, dripping, fixation. The end of the art, he says, lies in the setup that draws copper upward and in its fixing.",
-      },
-      {
-        type: "closer",
-        mainText: "Up. Drip. Set. The workshop is already in the verbs.",
-        subText: "alchem.md:149-151, 165-173, 2448-2464, 3093-3120.",
-      },
-    ],
-  },
-  {
-    id: "copper-is-dyed",
-    series: "THE TRANSMUTATION",
-    slides: [
-      {
-        type: "hook",
-        topLine: "baphe",
-        script: "βαφή",
-        mainText: "Maria says copper does not dye first. Copper gets dyed.",
-        subText: "Zosimos, alchem.md. The metal enters the sentence as a dyed thing before it becomes a dyeing one.",
-      },
-      {
-        type: "body",
-        mainText: "Zosimos says the art speaks about one dye, and under that word he gathers metals, liquids, earths, and plants into one process.",
-      },
-      {
-        type: "body",
-        mainText: "The stages stay visible. Thin it down. Blacken it. Whiten it. Then comes secure yellowing.",
-      },
-      {
-        type: "body",
-        mainText: "Then Maria says it flatly: copper is dyed first, and only then does it dye.",
-      },
-      {
-        type: "closer",
-        mainText: "Here metal enters the sentence the way cloth usually does: as something worked on until the color takes.",
-        subText: "alchem.md:46-63, 70-80, 232-246, 268-281.",
+        mainText: "Before grand alchemical claims, there is a craft language. Change is something a material undergoes until a color holds.",
+        subText: "Fragm. Alchem., Lexicon alchemicum, CAAG 2.5.24ff.",
       },
     ],
   },
