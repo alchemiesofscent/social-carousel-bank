@@ -17,14 +17,11 @@ function fallbackCopy(text) {
   return copied;
 }
 
-export default function Carousel({ carousel, current, isExpanded, onSlideChange, onToggle }) {
+export default function Carousel({ carousel, current, isExpanded, onActivate, onSlideChange }) {
   const [copyStatus, setCopyStatus] = useState("");
   const total = carousel.slides.length;
   const safeCurrent = Math.min(current, total - 1);
   const slide = carousel.slides[safeCurrent];
-
-  const width = isExpanded ? 375 : 280;
-  const height = isExpanded ? 468 : 350;
 
   const handleCopy = async (text, successLabel) => {
     try {
@@ -42,15 +39,28 @@ export default function Carousel({ carousel, current, isExpanded, onSlideChange,
   };
 
   return (
-    <div style={{ background: PALETTE.dark, borderRadius: "14px", overflow: "hidden", boxShadow: "0 12px 40px rgba(0,0,0,0.4)", fontFamily: "'Gentium Plus', 'Gentium', Georgia, serif", flexShrink: 0, width, transition: "width 0.3s ease" }}>
+    <div
+      style={{
+        background: PALETTE.dark,
+        borderRadius: "14px",
+        overflow: "hidden",
+        boxShadow: isExpanded ? "0 14px 42px rgba(0,0,0,0.44)" : "0 8px 28px rgba(0,0,0,0.32)",
+        border: `1px solid ${isExpanded ? `${PALETTE.goldDim}55` : `${PALETTE.goldDim}22`}`,
+        fontFamily: "'Gentium Plus', 'Gentium', Georgia, serif",
+        flexShrink: 0,
+        width: "min(375px, calc(100vw - 32px))",
+        opacity: isExpanded ? 1 : 0.94,
+        transition: "box-shadow 0.25s ease, border-color 0.25s ease, opacity 0.25s ease",
+      }}
+    >
       <div style={{ display: "flex", alignItems: "center", padding: "10px 14px", gap: "8px", borderBottom: `1px solid ${PALETTE.goldDim}20` }}>
-        <div style={{ display: "flex", alignItems: "center", gap: "8px", flex: 1, minWidth: 0, cursor: "pointer" }} onClick={onToggle}>
+        <div style={{ display: "flex", alignItems: "center", gap: "8px", flex: 1, minWidth: 0, cursor: "pointer" }} onClick={onActivate}>
           <div style={{ width: "28px", height: "28px", borderRadius: "50%", background: `linear-gradient(135deg, ${PALETTE.gold}, ${PALETTE.accent})`, display: "flex", alignItems: "center", justifyContent: "center", fontSize: "12px", color: PALETTE.bg, fontWeight: 700 }}>✦</div>
           <div style={{ flex: 1, minWidth: 0 }}>
             <div style={{ fontSize: "12px", fontWeight: 700, color: PALETTE.cream, fontFamily: "system-ui, sans-serif", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{carousel.id}</div>
             <div style={{ fontSize: "10px", color: PALETTE.muted, fontFamily: "system-ui, sans-serif" }}>{carousel.series}</div>
           </div>
-          <div style={{ fontSize: "10px", color: PALETTE.muted, fontFamily: "system-ui, sans-serif" }}>{isExpanded ? "▾" : "▸"}</div>
+          <div style={{ fontSize: "10px", color: isExpanded ? PALETTE.gold : PALETTE.muted, fontFamily: "system-ui, sans-serif" }}>{isExpanded ? "active" : "focus"}</div>
         </div>
         {isExpanded && (
           <div style={{ display: "flex", alignItems: "center", gap: "6px", flexShrink: 0 }}>
@@ -78,16 +88,19 @@ export default function Carousel({ carousel, current, isExpanded, onSlideChange,
         )}
       </div>
       <div
-        style={{ width, height, background: PALETTE.bgSlide, position: "relative", cursor: "pointer", userSelect: "none", transition: "all 0.3s ease" }}
+        style={{ width: "100%", aspectRatio: "375 / 468", background: PALETTE.bgSlide, position: "relative", cursor: "pointer", userSelect: "none" }}
         onClick={(e) => {
           const rect = e.currentTarget.getBoundingClientRect();
           const x = e.clientX - rect.left;
+          if (!isExpanded && onActivate) {
+            onActivate();
+          }
           onSlideChange(x > rect.width / 2 ? "next" : "prev");
         }}
       >
         <div style={{ position: "absolute", top: "10px", left: "50%", transform: "translateX(-50%)", display: "flex", gap: "3px", zIndex: 10 }}>
           {carousel.slides.map((_, i) => (
-            <div key={i} style={{ width: i === safeCurrent ? "16px" : "5px", height: "2.5px", borderRadius: "2px", background: i === safeCurrent ? PALETTE.gold : `${PALETTE.cream}30`, transition: "all 0.3s ease" }} />
+            <div key={i} style={{ width: i === safeCurrent ? "16px" : "5px", height: "2.5px", borderRadius: "2px", background: i === safeCurrent ? PALETTE.gold : `${PALETTE.cream}${isExpanded ? "30" : "20"}`, transition: "all 0.3s ease" }} />
           ))}
         </div>
         {slide.type === "hook" && <SlideHook slide={slide} series={carousel.series} />}
